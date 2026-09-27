@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="瓷器修補知識庫">
+  <rect width="64" height="64" rx="16" fill="#162f3d"/>
+  <path d="M17 18h30l-3 21c-1 8-7 13-12 13s-11-5-12-13z" fill="#f6f3eb"/>
+  <path d="M32 18l-4 10 7 7-5 17" fill="none" stroke="#b34d3e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 18h36" stroke="#90b7aa" stroke-width="4" stroke-linecap="round"/>
+</svg>

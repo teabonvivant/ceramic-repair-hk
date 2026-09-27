@@ -1,0 +1,5 @@
+import type { Metadata } from "next";import { createSiteMetadata } from "@/lib/metadata";
+import Link from "next/link";
+import { getDetailPages, familyName } from "@/lib/legacy";
+export const metadata:Metadata=createSiteMetadata({title:"參考資料",description:"陶瓷修護、保存、材料與文化研究的博物館及專業資料。",path:"/verification"});
+export default function SourcesPage(){const pages=getDetailPages();const families=[...new Set(pages.map(page=>page.family))];return <section className="section-tight"><div className="container"><div className="category-intro"><h1 className="display-serif">從館藏與文獻，繼續閱讀</h1><p>修補的每一項選擇，都與器物的材料、經歷和用途有關。以下按主題整理館藏紀錄、保存指南及研究資料。</p></div><div className="bibliography">{families.map(family=><section key={family}><h2>{familyName(family)}</h2>{pages.filter(page=>page.family===family).map(page=><details key={page.slug}><summary>{page.title}</summary><Link className="text-link" href={"/details/"+page.slug}>閱讀條目</Link><ul>{page.sources.map(source=><li key={source.href}><a href={source.href} target="_blank" rel="noreferrer">{source.label}</a></li>)}</ul></details>)}</section>)}</div></div></section>}

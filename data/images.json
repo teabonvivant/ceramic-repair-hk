@@ -1,0 +1,158 @@
+{
+  "documentation": {
+    "src": "/media/editorial/documentation.webp",
+    "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+    "width": 1536,
+    "height": 1024
+  },
+  "inspection": {
+    "src": "/media/editorial/inspection.webp",
+    "alt": "斜射枱燈照着有細裂紋的素白瓷碗，碗放在軟墊上，前方有放大鏡。",
+    "width": 1536,
+    "height": 1024
+  },
+  "packing": {
+    "src": "/media/editorial/packing.webp",
+    "alt": "打開的灰色保存盒有兩個獨立隔間，白色軟墊分別承托青花瓷杯和碎片。",
+    "width": 1536,
+    "height": 1024
+  },
+  "display": {
+    "src": "/media/editorial/display.webp",
+    "alt": "修補青瓷碗安放在玻璃展示櫃內，四周留有空間。",
+    "width": 1536,
+    "height": 1024
+  },
+  "cleaning": {
+    "src": "/media/editorial/cleaning.webp",
+    "alt": "完整的素白瓷碟、柔軟毛刷和三支潔白棉棒放在柔軟墊面。",
+    "width": 1536,
+    "height": 1024
+  },
+  "tea-memory": {
+    "src": "/media/editorial/tea-memory.webp",
+    "alt": "窗邊空着的舊青花茶碗，旁邊放着舊相片背面和摺好的布。",
+    "width": 1536,
+    "height": 1024
+  },
+  "storage": {
+    "src": "/media/editorial/storage.webp",
+    "alt": "帶蓋灰色保存盒與青花瓶分開擺在層架上，瓷瓶底部有白色承托墊。",
+    "width": 1536,
+    "height": 1024
+  },
+  "porcelain": {
+    "src": "/media/editorial/porcelain.webp",
+    "alt": "素白瓷、青釉和赤陶三塊樣本平放，斷面呈現由細密到較粗糙的胎質差異。",
+    "width": 1536,
+    "height": 1024
+  },
+  "colour": {
+    "src": "/media/editorial/colour.webp",
+    "alt": "青花瓷碎片旁放着中性灰卡，以及三張深淺不同的藍色試色紙。",
+    "width": 1536,
+    "height": 1024
+  },
+  "rim": {
+    "src": "/media/editorial/rim.webp",
+    "alt": "素白瓷杯口的小崩缺近照，可見釉面與露出的白色斷面。",
+    "width": 1536,
+    "height": 1024
+  },
+  "foot": {
+    "src": "/media/editorial/foot.webp",
+    "alt": "倒置在平整軟墊上的青花碗，完整圈足和沒有款識的碗底清楚可見。",
+    "width": 1536,
+    "height": 1024
+  },
+  "study": {
+    "src": "/media/editorial/study.webp",
+    "alt": "研究案頭上攤開有淡淡器形線條的筆記本，旁邊是修補青花茶碗和放大鏡。",
+    "width": 1536,
+    "height": 1024
+  },
+  "yose-tsugi": {
+    "src": "/media/editorial/yose-tsugi.webp",
+    "alt": "青灰釉茶碗的口沿缺角接入一塊白底藍花的青花瓷異片，異片貼合碗身弧度，接合邊界以細金線連接。",
+    "width": 1536,
+    "height": 1024
+  },
+  "fracture": {
+    "src": "/media/editorial/fracture.webp",
+    "alt": "兩塊白色釉面陶瓷的分離斷面近照，粗糙胎體與薄亮釉層可辨。",
+    "width": 1536,
+    "height": 1024
+  },
+  "dry-fit": {
+    "src": "/media/editorial/dry-fit.webp",
+    "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+    "width": 1536,
+    "height": 1024
+  },
+  "adhesives": {
+    "src": "/media/editorial/adhesives.webp",
+    "alt": "透明顆粒、空玻璃瓶及盛少量透明液體的玻璃瓶分置三個托盤。",
+    "width": 1536,
+    "height": 1024
+  },
+  "fill": {
+    "src": "/media/editorial/fill.webp",
+    "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+    "width": 1536,
+    "height": 1024
+  },
+  "retouch": {
+    "src": "/media/editorial/retouch.webp",
+    "alt": "白瓷樣片上的五個灰白試色點，旁邊放有同色系的調色碟。",
+    "width": 1536,
+    "height": 1024
+  },
+  "staples": {
+    "src": "/media/editorial/staples.webp",
+    "alt": "陶碗上的三枚深色金屬鋦釘跨過裂縫，兩端入孔位置清楚可見。",
+    "width": 1536,
+    "height": 1024
+  },
+  "kintsugi": {
+    "src": "/media/editorial/kintsugi.webp",
+    "alt": "一隻空的青釉茶碗，器表有克制而纖細的金色修補線。",
+    "width": 1536,
+    "height": 1024
+  },
+  "urushi": {
+    "src": "/media/editorial/urushi.webp",
+    "alt": "有蓋深色容器、置於筆架的幼筆與一小碟金色粉末分開放在托盤內。",
+    "width": 1536,
+    "height": 1024
+  },
+  "glass": {
+    "src": "/media/editorial/glass.webp",
+    "alt": "有一處杯口崩缺的透明玻璃杯，直立放在淺色凹位承托上。",
+    "width": 1536,
+    "height": 1024
+  },
+  "lacquer": {
+    "src": "/media/editorial/lacquer.webp",
+    "alt": "深紅漆碗口沿有一小處剝落，局部露出深色木胎與表面層次。",
+    "width": 1536,
+    "height": 1024
+  },
+  "metal": {
+    "src": "/media/editorial/metal.webp",
+    "alt": "帶灰綠氧化痕跡的小金屬器，安放在貼合器形的淺色承托內。",
+    "width": 1536,
+    "height": 1024
+  },
+  "plaster": {
+    "src": "/media/editorial/plaster.webp",
+    "alt": "植物紋白色石膏淺浮雕缺去一角，安放在淡青色襯墊承托上。",
+    "width": 1536,
+    "height": 1024
+  },
+  "glass-inspection": {
+    "src": "/media/editorial/glass-inspection.webp",
+    "alt": "三塊透明玻璃器碎片分開放在深灰承托墊上，側光映出斷口與局部缺損，旁邊平放放大鏡。",
+    "width": 1536,
+    "height": 1024
+  }
+}

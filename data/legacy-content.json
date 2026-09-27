@@ -1,0 +1,3580 @@
+{
+  "payload": {
+    "data": {
+      "methods": [
+        {
+          "title": "可再處理的陶瓷黏接",
+          "category": "基礎瓷器",
+          "summary": "由斷口、舊修補與日後移除條件出發，理解陶瓷黏接的可再處理性及展示用途限制。",
+          "href": "/details/method-01"
+        },
+        {
+          "title": "缺口填補與補色",
+          "category": "基礎瓷器",
+          "summary": "缺角填補只為恢復器形閱讀，不應蓋過原釉或偽裝成未破。",
+          "href": "/details/method-02"
+        },
+        {
+          "title": "鋦瓷金屬釘修補",
+          "category": "中國傳統修補",
+          "summary": "鋦瓷用金屬釘跨住裂縫，適合厚胎器物；薄胎、高價或來源未明者先停。",
+          "href": "/details/method-03"
+        },
+        {
+          "title": "金繼本堅地修復",
+          "category": "漆藝金繼",
+          "summary": "金繼用漆、地粉與金粉承認裂痕；它慢，重點不只是金色效果。",
+          "href": "/details/method-04"
+        },
+        {
+          "title": "呼繼異片重組",
+          "category": "漆藝金繼",
+          "summary": "呼繼用異片補缺，可以有創作意味，但補片來源必須說清楚。",
+          "href": "/details/method-05"
+        },
+        {
+          "title": "玻璃器透明黏接",
+          "category": "玻璃器",
+          "summary": "玻璃修補最難藏拙；透明、折射、氣泡和使用安全要分開看。",
+          "href": "/details/method-06"
+        },
+        {
+          "title": "漆器裂縫與剝落穩固",
+          "category": "漆器木器",
+          "summary": "漆器先求穩固，不急着補漂亮；漆層、木胎和濕度要一起看。",
+          "href": "/details/method-07"
+        },
+        {
+          "title": "金屬器狀況檢查與暫存轉介",
+          "category": "金屬器",
+          "summary": "從金屬表面、腐蝕變化與鬆動部件，理解狀況記錄、承托和保存安排。",
+          "href": "/details/method-08"
+        },
+        {
+          "title": "雕塑與石膏缺損修補",
+          "category": "雕塑雜項",
+          "summary": "雕塑與石膏補配要顧形體、承重和表面痕跡，不是一味磨平。",
+          "href": "/details/method-09"
+        },
+        {
+          "title": "修補器的飲食與日常用途",
+          "category": "家用修補",
+          "summary": "日用器先問安全。很多膠、補土和金色材料未必適合接觸食物、飲品或口部，亦未必適合受熱或清洗。",
+          "href": "/details/method-10"
+        }
+      ],
+      "materials": [
+        {
+          "title": "陶瓷胎釉與斷面",
+          "summary": "胎與釉是一件瓷器的骨與膚。先看吸水、粉化、彩繪和舊補，才知道裂口能不能清、能不能黏。",
+          "href": "/details/material-01"
+        },
+        {
+          "title": "黏合劑：B-72、環氧與膠類",
+          "summary": "膠不是越牢越好。保存修復重視穩定、可再處理性與老化；家用修補追求方便，兩者不可混作一談。",
+          "href": "/details/material-02"
+        },
+        {
+          "title": "填補材料：石膏、微球與樹脂膏",
+          "summary": "補料要懂得退一步。太硬會傷原件，太重會改變受力；真正好的填補，是支撐而不搶戲。",
+          "href": "/details/material-03"
+        },
+        {
+          "title": "補色與保護層",
+          "summary": "補色不該偽裝完整；它只是讓視線安定下來。遠看可讀，近看可辨，是修復裡很重要的一種誠實。",
+          "href": "/details/material-04"
+        },
+        {
+          "title": "天然漆、地粉與金粉",
+          "summary": "漆有自己的時間。金繼與漆器修復靠濕度、層次和等待，金色效果材料不能替代傳統漆工序。",
+          "href": "/details/material-05"
+        },
+        {
+          "title": "金屬鋦釘、包鑲與支撐件",
+          "summary": "金屬能補強，也會留下很難回頭的孔位、應力和腐蝕問題。舊釘未必是瑕疵；也可能是生活史。",
+          "href": "/details/material-06"
+        },
+        {
+          "title": "儲存、展示與包裝材料",
+          "summary": "修補完成後，器物仍要過日子。支撐、濕度、光線、包裝和搬運，決定它能否安穩留下來。",
+          "href": "/details/material-07"
+        }
+      ],
+      "tools": [
+        {
+          "title": "記錄與檢測工具",
+          "summary": "修補從記錄開始。照片、尺寸、裂縫走向、舊補痕跡和風險判斷，是日後能否說得清的根基。",
+          "href": "/details/tool-01"
+        },
+        {
+          "title": "清潔與拆解工具",
+          "summary": "清潔不是洗新一件器物；它只移除會妨礙判斷或加速劣化的污染。每一下都要先試，不能憑手快。",
+          "href": "/details/tool-02"
+        },
+        {
+          "title": "拼合與定位工具",
+          "summary": "拼合差一線，後面的填補和補色都會走樣。支撐、角度和等待，比膠水強度更考功夫。",
+          "href": "/details/tool-03"
+        },
+        {
+          "title": "黏接與固化材料",
+          "summary": "黏合材料要看器物價值、使用目的、日後能否拆下重修和老化風險，不應只問哪一種最牢。",
+          "href": "/details/tool-04"
+        },
+        {
+          "title": "填補與修形工具",
+          "summary": "填補要有邊界，硬度要懂得讓步。未來若再碰撞，補料不應反過來傷害原件。",
+          "href": "/details/tool-05"
+        },
+        {
+          "title": "補色與表面處理",
+          "summary": "補色是把視線安放好，不是把證據消音。保護層也會老，材料和範圍都要留下。",
+          "href": "/details/tool-06"
+        },
+        {
+          "title": "包裝、展示與保存",
+          "summary": "修好之後，器物還要被安放。支架、包裝、濕度和搬運路線，都是修復工作的一部分。",
+          "href": "/details/tool-07"
+        }
+      ],
+      "processes": [],
+      "reasons": [],
+      "comparisons": [],
+      "timeline": [],
+      "stories": [],
+      "countries": [],
+      "masters": []
+    },
+    "caseStudies": [
+      {
+        "title": "青花碗的接合與展示",
+        "summary": "青花碗破裂後，紋樣、胎厚與斷口共同提供拼合線索。處理需先確定保存目標，再比較分片保存、接合與補配的需要。",
+        "href": "/details/case-01"
+      },
+      {
+        "title": "茶碗的金繼與可見修補",
+        "summary": "金繼讓裂線進入茶碗的外觀，也帶來漆層、填補與裝飾材料的選擇。了解各層的作用，才能把美感與保存安排一起考慮。",
+        "href": "/details/case-02"
+      },
+      {
+        "title": "玻璃崩口的保存與展示",
+        "summary": "玻璃崩口需要同時考慮尖邊、裂紋與展示受力。保留紀念器物，可以從合適承托開始，未必需要把缺失補成透明完整。",
+        "href": "/details/case-03"
+      }
+    ],
+    "methodLessons": {},
+    "searchIndex": [
+      {
+        "title": "青花碗的接合與展示",
+        "summary": "青花碗破裂後，紋樣、胎厚與斷口共同提供拼合線索。處理需先確定保存目標，再比較分片保存、接合與補配的需要。",
+        "href": "/details/case-01",
+        "category": "case"
+      },
+      {
+        "title": "茶碗的金繼與可見修補",
+        "summary": "金繼讓裂線進入茶碗的外觀，也帶來漆層、填補與裝飾材料的選擇。了解各層的作用，才能把美感與保存安排一起考慮。",
+        "href": "/details/case-02",
+        "category": "case"
+      },
+      {
+        "title": "玻璃崩口的保存與展示",
+        "summary": "玻璃崩口需要同時考慮尖邊、裂紋與展示受力。保留紀念器物，可以從合適承托開始，未必需要把缺失補成透明完整。",
+        "href": "/details/case-03",
+        "category": "case"
+      },
+      {
+        "title": "中國",
+        "summary": "故宮博物院的陶瓷研究，把一件器物放回原料、窯火與使用歷史之中。",
+        "href": "/details/country-01",
+        "category": "country"
+      },
+      {
+        "title": "日本",
+        "summary": "東京國立博物館將調查、預防與修復連成持續的工作。",
+        "href": "/details/country-02",
+        "category": "country"
+      },
+      {
+        "title": "英國",
+        "summary": "英國博物館的陶瓷保存，可以從館內不同專業如何合作來理解。",
+        "href": "/details/country-03",
+        "category": "country"
+      },
+      {
+        "title": "美國",
+        "summary": "蓋蒂博物館的古陶修復展覽，將歷史修補與今日的檢查放在一起觀看。",
+        "href": "/details/country-04",
+        "category": "country"
+      },
+      {
+        "title": "德國",
+        "summary": "柏林前亞細亞博物館的陶瓷保存，常面對帶釉與無釉器物，以及未燒或低温燒成的楔形文字泥板。",
+        "href": "/details/country-05",
+        "category": "country"
+      },
+      {
+        "title": "義大利",
+        "summary": "佛羅倫斯的硬石修復研究所，將文物修復、科學研究和高等培訓結合。",
+        "href": "/details/country-06",
+        "category": "country"
+      },
+      {
+        "title": "法國",
+        "summary": "法國博物館研究與修復中心的服務，涵蓋科學分析、專家諮詢、修復處理與知識傳播。",
+        "href": "/details/country-07",
+        "category": "country"
+      },
+      {
+        "title": "加拿大",
+        "summary": "加拿大文物保存研究所的陶瓷指引，從風險和材料出發。",
+        "href": "/details/country-08",
+        "category": "country"
+      },
+      {
+        "title": "韓國",
+        "summary": "韓國國立中央博物館以粉青沙器等案例，展示陶瓷從狀況記錄、碎片整理、接合到缺失補配的過程。",
+        "href": "/details/country-09",
+        "category": "country"
+      },
+      {
+        "title": "荷蘭",
+        "summary": "荷蘭國家博物館的陶瓷、玻璃與石材研究，連結材料特徵與保存問題。",
+        "href": "/details/country-10",
+        "category": "country"
+      },
+      {
+        "title": "Friedrich Rathgen",
+        "summary": "弗里德里希・拉特根於一八八八年成為柏林王立博物館化學實驗室的首任主管，將化學分析引入藏品保存。",
+        "href": "/details/master-01",
+        "category": "master"
+      },
+      {
+        "title": "Harold J. Plenderleith",
+        "summary": "哈羅德・普倫德利斯是國際文化資產保存修復研究中心的創始主任，於一九五九年至一九七一年主持早期工作。",
+        "href": "/details/master-02",
+        "category": "master"
+      },
+      {
+        "title": "Cesare Brandi",
+        "summary": "切薩雷・布蘭迪的修復思想，把作品的物質、歷史與美學放在同一討論之中。",
+        "href": "/details/master-03",
+        "category": "master"
+      },
+      {
+        "title": "Nigel Williams",
+        "summary": "奈傑爾・威廉斯以陶瓷與玻璃修復工作為人認識，曾在大英博物館重新修復波特蘭花瓶。",
+        "href": "/details/master-04",
+        "category": "master"
+      },
+      {
+        "title": "Stephen P. Koob",
+        "summary": "史蒂芬・庫布（一九五一至二〇二六）曾任康寧玻璃博物館首席修復師，並於二〇二〇年退休。",
+        "href": "/details/master-05",
+        "category": "master"
+      },
+      {
+        "title": "Susan Buys",
+        "summary": "蘇珊・拜斯與維多利亞・奧克利合著的《陶瓷保存與修復》，於一九九三年出版，把材料知識與修復判斷連成完整的學習路徑。",
+        "href": "/details/master-06",
+        "category": "master"
+      },
+      {
+        "title": "Victoria Oakley",
+        "summary": "維多利亞・奧克利的工作，連結陶瓷保存、玻璃劣化研究與博物館實務。",
+        "href": "/details/master-07",
+        "category": "master"
+      },
+      {
+        "title": "Sandra Davison",
+        "summary": "桑德拉・戴維森與 R. G. Newton 合著的《玻璃保存與修復》，從玻璃的性質、製作歷史和劣化談起，延伸至檢查、保存材料與處理方法。",
+        "href": "/details/master-08",
+        "category": "master"
+      },
+      {
+        "title": "Sarah Barack",
+        "summary": "莎拉・巴拉克在 Cooper Hewitt 博物館的修復文章中，介紹一組大型餐桌中央擺設的切割玻璃盤。",
+        "href": "/details/master-09",
+        "category": "master"
+      },
+      {
+        "title": "Deborah Schorsch",
+        "summary": "黛博拉・肖爾施是大都會藝術博物館的榮休修復師，研究重點包括古埃及金屬器及相關材料。",
+        "href": "/details/master-10",
+        "category": "master"
+      },
+      {
+        "title": "Carol A. Grissom",
+        "summary": "卡蘿・格里森曾在史密森尼博物館保存研究所工作，研究範圍涵蓋青銅、石材、鋅、石膏與木雕。",
+        "href": "/details/master-11",
+        "category": "master"
+      },
+      {
+        "title": "Matsuda Gonroku",
+        "summary": "松田權六的蒔繪工作室由日本國立工藝館遷置保存，連同工具、材料與影像，讓觀者接近漆藝工作的日常。",
+        "href": "/details/master-12",
+        "category": "master"
+      },
+      {
+        "title": "Murose Kazumi",
+        "summary": "室瀨和美以蒔繪及螺鈿等漆藝創作，讓金屬粉與貝片在漆面上形成光澤和深度。",
+        "href": "/details/master-13",
+        "category": "master"
+      },
+      {
+        "title": "Showzi Tsukamoto",
+        "summary": "Showzi Tsukamoto 的工作橫跨漆藝、金屬、首飾與陶瓷修補。",
+        "href": "/details/master-14",
+        "category": "master"
+      },
+      {
+        "title": "Shimode Muneaki",
+        "summary": "Shimode Muneaki 的漆藝工作，與京都的蒔繪工房傳承相連。",
+        "href": "/details/master-15",
+        "category": "master"
+      },
+      {
+        "title": "Sato Takahiko",
+        "summary": "Sato Takahiko 與 Shimode Muneaki 於二〇一五年到訪牛津，在皮特里弗斯博物館進行金繼示範、講座及工作坊。",
+        "href": "/details/master-16",
+        "category": "master"
+      },
+      {
+        "title": "Naoko Fukumaru",
+        "summary": "福丸直子的創作，把陶瓷與玻璃保存的訓練帶入當代金繼。",
+        "href": "/details/master-17",
+        "category": "master"
+      },
+      {
+        "title": "Tomomi Kamoshita",
+        "summary": "Tomomi Kamoshita 的作品把陶瓷碎片、海玻璃與漆結合，讓不同來源的殘片形成新的器形。",
+        "href": "/details/master-18",
+        "category": "master"
+      },
+      {
+        "title": "王振海 Wang Zhenhai",
+        "summary": "王振海以金屬鋦補陶瓷，亦把鋦釘發展為器表的裝飾。",
+        "href": "/details/master-19",
+        "category": "master"
+      },
+      {
+        "title": "李軍航 Li Junhang",
+        "summary": "李軍航的鋦刻瓷實踐，把陶瓷修補與刻瓷、石雕經驗連在一起。",
+        "href": "/details/master-20",
+        "category": "master"
+      },
+      {
+        "title": "陶瓷胎釉與斷面",
+        "summary": "胎與釉是一件瓷器的骨與膚。先看吸水、粉化、彩繪和舊補，才知道裂口能不能清、能不能黏。",
+        "href": "/details/material-01",
+        "category": "material"
+      },
+      {
+        "title": "黏合劑：B-72、環氧與膠類",
+        "summary": "膠不是越牢越好。保存修復重視穩定、可再處理性與老化；家用修補追求方便，兩者不可混作一談。",
+        "href": "/details/material-02",
+        "category": "material"
+      },
+      {
+        "title": "填補材料：石膏、微球與樹脂膏",
+        "summary": "補料要懂得退一步。太硬會傷原件，太重會改變受力；真正好的填補，是支撐而不搶戲。",
+        "href": "/details/material-03",
+        "category": "material"
+      },
+      {
+        "title": "補色與保護層",
+        "summary": "補色不該偽裝完整；它只是讓視線安定下來。遠看可讀，近看可辨，是修復裡很重要的一種誠實。",
+        "href": "/details/material-04",
+        "category": "material"
+      },
+      {
+        "title": "天然漆、地粉與金粉",
+        "summary": "漆有自己的時間。金繼與漆器修復靠濕度、層次和等待，金色效果材料不能替代傳統漆工序。",
+        "href": "/details/material-05",
+        "category": "material"
+      },
+      {
+        "title": "金屬鋦釘、包鑲與支撐件",
+        "summary": "金屬能補強，也會留下很難回頭的孔位、應力和腐蝕問題。舊釘未必是瑕疵；也可能是生活史。",
+        "href": "/details/material-06",
+        "category": "material"
+      },
+      {
+        "title": "儲存、展示與包裝材料",
+        "summary": "修補完成後，器物仍要過日子。支撐、濕度、光線、包裝和搬運，決定它能否安穩留下來。",
+        "href": "/details/material-07",
+        "category": "material"
+      },
+      {
+        "title": "可再處理的陶瓷黏接",
+        "summary": "由斷口、舊修補與日後移除條件出發，理解陶瓷黏接的可再處理性及展示用途限制。",
+        "href": "/details/method-01",
+        "category": "method"
+      },
+      {
+        "title": "缺口填補與補色",
+        "summary": "缺角填補只為恢復器形閱讀，不應蓋過原釉或偽裝成未破。",
+        "href": "/details/method-02",
+        "category": "method"
+      },
+      {
+        "title": "鋦瓷金屬釘修補",
+        "summary": "鋦瓷用金屬釘跨住裂縫，適合厚胎器物；薄胎、高價或來源未明者先停。",
+        "href": "/details/method-03",
+        "category": "method"
+      },
+      {
+        "title": "金繼本堅地修復",
+        "summary": "金繼用漆、地粉與金粉承認裂痕；它慢，重點不只是金色效果。",
+        "href": "/details/method-04",
+        "category": "method"
+      },
+      {
+        "title": "呼繼異片重組",
+        "summary": "呼繼用異片補缺，可以有創作意味，但補片來源必須說清楚。",
+        "href": "/details/method-05",
+        "category": "method"
+      },
+      {
+        "title": "玻璃器透明黏接",
+        "summary": "玻璃修補最難藏拙；透明、折射、氣泡和使用安全要分開看。",
+        "href": "/details/method-06",
+        "category": "method"
+      },
+      {
+        "title": "漆器裂縫與剝落穩固",
+        "summary": "漆器先求穩固，不急着補漂亮；漆層、木胎和濕度要一起看。",
+        "href": "/details/method-07",
+        "category": "method"
+      },
+      {
+        "title": "金屬器狀況檢查與暫存轉介",
+        "summary": "從金屬表面、腐蝕變化與鬆動部件，理解狀況記錄、承托和保存安排。",
+        "href": "/details/method-08",
+        "category": "method"
+      },
+      {
+        "title": "雕塑與石膏缺損修補",
+        "summary": "雕塑與石膏補配要顧形體、承重和表面痕跡，不是一味磨平。",
+        "href": "/details/method-09",
+        "category": "method"
+      },
+      {
+        "title": "修補器的飲食與日常用途",
+        "summary": "日用器先問安全。很多膠、補土和金色材料未必適合接觸食物、飲品或口部，亦未必適合受熱或清洗。",
+        "href": "/details/method-10",
+        "category": "method"
+      },
+      {
+        "title": "接收與風險登記",
+        "summary": "確認器物狀態、碎片數量、持有人需求與立即風險。",
+        "href": "/details/process-01",
+        "category": "process"
+      },
+      {
+        "title": "現況攝影與測量",
+        "summary": "拍攝正面、背面、斷口、舊修補和尺寸，建立可追溯基線。",
+        "href": "/details/process-02",
+        "category": "process"
+      },
+      {
+        "title": "材料與工藝辨識",
+        "summary": "分辨陶、瓷、玻璃、漆、金屬或複合材料，避免套用錯誤工法。",
+        "href": "/details/process-03",
+        "category": "process"
+      },
+      {
+        "title": "歷史與用途訪談",
+        "summary": "釐清器物還需不需要使用、有沒有紀念或文物價值。",
+        "href": "/details/process-04",
+        "category": "process"
+      },
+      {
+        "title": "小區域清潔測試",
+        "summary": "先測試溶劑、水分和摩擦對胎釉、彩繪與舊補的影響。",
+        "href": "/details/process-05",
+        "category": "process"
+      },
+      {
+        "title": "碎片排位與乾拼",
+        "summary": "在無膠狀態下確認拼合順序、缺片和受力方向。",
+        "href": "/details/process-06",
+        "category": "process"
+      },
+      {
+        "title": "黏接或機械固定",
+        "summary": "分開評估黏接、天然漆接、機械固定與外部支撐的風險和退路。",
+        "href": "/details/process-07",
+        "category": "process"
+      },
+      {
+        "title": "缺損填補",
+        "summary": "用相容材料補強缺口，並保留可辨識邊界。",
+        "href": "/details/process-08",
+        "category": "process"
+      },
+      {
+        "title": "修形與表面調整",
+        "summary": "只修整補配區，避免磨損原釉、原漆或歷史表面。",
+        "href": "/details/process-09",
+        "category": "process"
+      },
+      {
+        "title": "補色與保護",
+        "summary": "以近看可辨、遠看協調為原則，局部補色並記錄範圍。",
+        "href": "/details/process-10",
+        "category": "process"
+      },
+      {
+        "title": "最終檢查",
+        "summary": "檢查結構、溢膠、錯台、補色邊界和展示穩定性。",
+        "href": "/details/process-11",
+        "category": "process"
+      },
+      {
+        "title": "保存建議與交付",
+        "summary": "交付修復紀錄、材料清單、使用限制和保存方式。",
+        "href": "/details/process-12",
+        "category": "process"
+      },
+      {
+        "title": "保留歷史證據",
+        "summary": "裂縫、鋦釘、磨損與舊補，可能保留器物使用和修護的線索。介入之前，先理解哪些資料會因清除而消失。",
+        "href": "/details/reason-01",
+        "category": "reason"
+      },
+      {
+        "title": "延續器物的生命",
+        "summary": "器物的生命可以延續為使用、研究、展示或紀念。修補應先降低實際損傷風險，再考慮外觀與用途。",
+        "href": "/details/reason-02",
+        "category": "reason"
+      },
+      {
+        "title": "穩定結構與安排承托",
+        "summary": "結構修護要理解重量如何傳遞，以及原胎、接合和支架如何共同承擔。表面連續，並不足以說明器物已適合所有展示方式。",
+        "href": "/details/reason-03",
+        "category": "reason"
+      },
+      {
+        "title": "讓器形與工藝容易理解",
+        "summary": "修護能協助觀眾理解器物的形狀、裝飾與使用方式。展示的清楚，應與原物資料的清楚一起考慮。",
+        "href": "/details/reason-04",
+        "category": "reason"
+      },
+      {
+        "title": "保存情感與記憶",
+        "summary": "家庭器物的價值常藏在飯桌、茶席與人的記憶裏。修補需要聆聽這些故事，再為物件安排合適的保存方式。",
+        "href": "/details/reason-05",
+        "category": "reason"
+      },
+      {
+        "title": "修補、減廢與長期照護",
+        "summary": "修補可以減少物件過早被丟棄，也需要材料、工時、運送和日後維護。完整的選擇應兼顧用途與長期照護。",
+        "href": "/details/reason-06",
+        "category": "reason"
+      },
+      {
+        "title": "一隻破碗的保存判斷",
+        "summary": "破裂之後，器物仍有幾條可以走的路。把用途、狀況與記憶分開整理，有助選擇適合它的保存方式。",
+        "href": "/details/story-01",
+        "category": "story"
+      },
+      {
+        "title": "鋦釘留下的生活史",
+        "summary": "舊鋦釘跨過裂縫，也把一次修補留在器物表面。它既是構件，也可能是日後理解器物經歷的線索。",
+        "href": "/details/story-02",
+        "category": "story"
+      },
+      {
+        "title": "金繼的價值，從工藝與說明開始",
+        "summary": "金繼的金線很醒目，作品的價值卻不只在金色。材料、處理、構圖與清楚的來歷，共同構成值得細讀的工藝。",
+        "href": "/details/story-03",
+        "category": "story"
+      },
+      {
+        "title": "博物館修護如何讓新舊可讀",
+        "summary": "補配讓器物更容易觀看，也可能改變人們對原貌的理解。保存修護需要把視覺連貫與資料透明放在一起。",
+        "href": "/details/story-04",
+        "category": "story"
+      },
+      {
+        "title": "修補茶杯的下一種生活",
+        "summary": "熟悉的茶杯修補後，可以繼續被珍惜，也可能需要改變用途。把飲用與紀念分開，能為它找到更合適的位置。",
+        "href": "/details/story-05",
+        "category": "story"
+      },
+      {
+        "title": "記錄如何把修護傳下去",
+        "summary": "一道接縫可以很細，處理記錄卻能讓後人看見材料、方法與判斷。修護被理解的時間，往往比一次施工更長。",
+        "href": "/details/story-06",
+        "category": "story"
+      },
+      {
+        "title": "古代：修補孔留下的線索",
+        "summary": "陶器上的小孔，有時保存了古人修補的痕跡。",
+        "href": "/details/timeline-01",
+        "category": "timeline"
+      },
+      {
+        "title": "宋元器物的流轉與修補",
+        "summary": "宋元陶瓷的流轉，也可以沿着後來的修補痕跡閱讀。",
+        "href": "/details/timeline-02",
+        "category": "timeline"
+      },
+      {
+        "title": "明代白瓷與金漆修補",
+        "summary": "大英博物館收藏的一件景德鎮白釉碗，約製於十六世紀初。",
+        "href": "/details/timeline-03",
+        "category": "timeline"
+      },
+      {
+        "title": "近世日本：茶器與金漆修補",
+        "summary": "日本茶器收藏中的金漆修補，讓裂縫與缺口成為可以欣賞的部分。",
+        "href": "/details/timeline-04",
+        "category": "timeline"
+      },
+      {
+        "title": "19 世紀：博物館修復與科學研究",
+        "summary": "十九世紀的博物館修復，逐步發展出專門職位與研究設施。",
+        "href": "/details/timeline-05",
+        "category": "timeline"
+      },
+      {
+        "title": "20 世紀：專業教育與保存倫理",
+        "summary": "二十世紀的文物保存，透過機構、教育與專業守則逐步形成更廣的合作網絡。",
+        "href": "/details/timeline-06",
+        "category": "timeline"
+      },
+      {
+        "title": "21 世紀：保存、教學與當代實踐",
+        "summary": "二十一世紀，金繼亦成為博物館理解材料、教授手工和與公眾交流的方式。",
+        "href": "/details/timeline-07",
+        "category": "timeline"
+      },
+      {
+        "title": "記錄與檢測工具",
+        "summary": "修補從記錄開始。照片、尺寸、裂縫走向、舊補痕跡和風險判斷，是日後能否說得清的根基。",
+        "href": "/details/tool-01",
+        "category": "tool"
+      },
+      {
+        "title": "清潔與拆解工具",
+        "summary": "清潔不是洗新一件器物；它只移除會妨礙判斷或加速劣化的污染。每一下都要先試，不能憑手快。",
+        "href": "/details/tool-02",
+        "category": "tool"
+      },
+      {
+        "title": "拼合與定位工具",
+        "summary": "拼合差一線，後面的填補和補色都會走樣。支撐、角度和等待，比膠水強度更考功夫。",
+        "href": "/details/tool-03",
+        "category": "tool"
+      },
+      {
+        "title": "黏接與固化材料",
+        "summary": "黏合材料要看器物價值、使用目的、日後能否拆下重修和老化風險，不應只問哪一種最牢。",
+        "href": "/details/tool-04",
+        "category": "tool"
+      },
+      {
+        "title": "填補與修形工具",
+        "summary": "填補要有邊界，硬度要懂得讓步。未來若再碰撞，補料不應反過來傷害原件。",
+        "href": "/details/tool-05",
+        "category": "tool"
+      },
+      {
+        "title": "補色與表面處理",
+        "summary": "補色是把視線安放好，不是把證據消音。保護層也會老，材料和範圍都要留下。",
+        "href": "/details/tool-06",
+        "category": "tool"
+      },
+      {
+        "title": "包裝、展示與保存",
+        "summary": "修好之後，器物還要被安放。支架、包裝、濕度和搬運路線，都是修復工作的一部分。",
+        "href": "/details/tool-07",
+        "category": "tool"
+      }
+    ]
+  },
+  "details": [
+    {
+      "slug": "case-01",
+      "family": "case",
+      "title": "青花碗的接合與展示",
+      "description": "青花碗破裂後，紋樣、胎厚與斷口共同提供拼合線索。處理需先確定保存目標，再比較分片保存、接合與補配的需要。",
+      "paragraphs": [
+        "收集碎片後，把各片分隔承托並編號，拍攝正反面、斷口及細小缺失。青花線條有助整理位置，但重複花紋不能單獨證明配對；曲率、厚度及斷面亦要自然吻合。反覆磨動或用力夾壓，可能造成新的崩邊。",
+        "乾拼用來理解順序和受力。器物應有外部承托，避免一片的重量拉動另一片。若仍有缺片、舊膠或不合位置，先回到單片檢查；接合材料無法補救錯誤排位。",
+        "方案可分為獨立存放、接合而保留缺口，以及接合後局部補配。選擇需考慮器形能否被理解、缺口是否影響穩定，以及後加材料帶來的改變。小缺口若不妨礙保存和閱讀，保留它可以減少介入。",
+        "黏合劑選擇涉及胎體孔隙、接縫厚度、老化及日後處理。材料試驗、固化觀察和位置記錄，應由具相應能力的人員完成。可溶解的材料也不保證在原物上完全無痕移除。",
+        "展示時由可靠部位承托，避免抓持薄口沿或讓接縫獨自承重。修補後的飲食、熱力與清洗用途，需另有整件器物及材料的適用資料；外觀重新連貫，只回答了形態與觀看的問題。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/documentation.webp",
+          "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://vanda-production-assets.s3.amazonaws.com/2019/04/03/14/22/51/43a4b5c7-dcfe-4d22-a4ab-677e197f7285/caring_for_your_ceramics.pdf",
+          "label": "V&A：陶瓷器物與地磚照護 — Caring for your ceramic objects and floor tiles（PDF，2018）"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "case-02",
+      "family": "case",
+      "title": "茶碗的金繼與可見修補",
+      "description": "金繼讓裂線進入茶碗的外觀，也帶來漆層、填補與裝飾材料的選擇。了解各層的作用，才能把美感與保存安排一起考慮。",
+      "paragraphs": [
+        "修補前先記錄茶碗的釉面、裂縫、缺失及舊處理，並釐清希望保留的痕跡。裂線可見是審美選擇，不代表所有裂縫都適合用相同方法處理；原有裝飾、器形和接合條件仍有各自需要。",
+        "傳統天然漆路線以漆材參與接合及表面處理，金屬粉形成可見效果。當代樹脂與金色粉末的修補，應清楚交代材料，不能只憑金色外觀把不同工序混為一談。",
+        "天然漆未固化時可能引起皮膚過敏，工作需要合適防護、空間與材料管理。層厚、材料與環境會影響固化，不宜把一個固定等待時間套用到所有作品；獨立試片和分層記錄能幫助觀察。",
+        "金繼之外，也可考慮一般接合、保留碎片或外部承托。比較時把原物改動、完成外觀、維護與日後再處理一併納入。選擇突出裂痕，不必等於覆蓋周邊原釉或重畫既有裝飾。",
+        "成品應有材料、處理日期和照護資料。金色表層或天然材料名稱，不能單獨支持飲食用途。當作品按展示安排，茶碗仍可在茶席與家庭空間中保留記憶，而毋須承受熱飲與清洗。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/kintsugi.webp",
+          "alt": "一隻空的青釉茶碗，器表有克制而纖細的金色修補線。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/urushi.webp",
+          "alt": "有蓋深色容器、置於筆架的幼筆與一小碟金色粉末分開放在托盤內。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.si.edu/collections/snapshot/beauty-broken-objects",
+          "label": "Smithsonian：破損器物之美 — The Beauty of Broken Objects"
+        },
+        {
+          "href": "https://folklife.si.edu/magazine/japanese-kintsugi-yuko-gunji",
+          "label": "Smithsonian 民俗文化中心：Yuko Gunji 與金繼修補 — Japanese Kintsugi and the Art of Repair with Yuko Gunji"
+        },
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/22077437/",
+          "label": "皮膚科原始病例：金繼所用漆酚引起廣泛接觸性皮膚炎 — Widespread contact dermatitis caused by urushiol in kintsugi（2011）"
+        }
+      ]
+    },
+    {
+      "slug": "case-03",
+      "family": "case",
+      "title": "玻璃崩口的保存與展示",
+      "description": "玻璃崩口需要同時考慮尖邊、裂紋與展示受力。保留紀念器物，可以從合適承托開始，未必需要把缺失補成透明完整。",
+      "paragraphs": [
+        "崩口周圍可能有細裂和小缺損，觀察應避免以手指試摸尖邊。側光與深淺背景有助記錄透明材料，照片須包括整體、局部及位置對照。碎屑宜分隔保存，減少與主體互撞。",
+        "外部支架可以支持器身並限制滾動，接觸點應避開崩口、裂紋與不穩舊修。支架不會提高玻璃本身的強度，展示位置亦需避免誤觸及跌落。運送前應另行設計包裝。",
+        "透明補配涉及光學效果、材料老化及移除條件。折射率接近，能降低部分視覺差異，但不能保證接縫完全消失，更不能以此證明承壓、耐熱或飲用用途。",
+        "若承托已能達到保存與觀看目標，保留缺口可減少新增材料。若需要接合或補配，應由玻璃保存專業人員評估表面、裂紋及舊材料，並在合適試件上比較方法。",
+        "交付後保留同角度照片，留意裂紋是否延伸、接合是否變色或支架是否移位。帶有尖邊與結構缺損的杯子應退出飲用；保存它的意義，可以由日用轉為紀念與展示。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/glass-inspection.webp",
+          "alt": "三塊透明玻璃器碎片分開放在深灰承托墊上，側光映出斷口與局部缺損，旁邊平放放大鏡。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/glass.webp",
+          "alt": "有一處杯口崩缺的透明玻璃杯，直立放在淺色凹位承托上。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.hisglassworks.com/manuals/HXTAL_Tech_Sheet.pdf",
+          "label": "HXTAL 原廠：NYL-1 環氧樹脂技術表 — HXTAL NYL-1 Technical Sheet（PDF）"
+        }
+      ]
+    },
+    {
+      "slug": "country-01",
+      "family": "country",
+      "title": "中國",
+      "description": "故宮博物院的陶瓷研究，把一件器物放回原料、窯火與使用歷史之中。",
+      "paragraphs": [
+        "故宮博物院的陶瓷研究，把一件器物放回原料、窯火與使用歷史之中。研究對象包括館藏陶瓷、窯址標本及海外中國陶瓷，並以成分、結構和工藝分析，連結製作技術、年代、窯口與保存問題。看見釉色和器形，是認識器物的開始；理解胎釉材料如何形成，才有助於判斷損傷與修補。",
+        "這條研究路徑也延伸到修復人才培訓。故宮於二〇二五年公佈的陶瓷文物保護修復課程，以保存狀況評估、修復方法和材料運用為重點，結合實際工作問題。從材料調查走到動手處理，修復因此是一連串有依據的選擇：先理解器物，再決定應介入多少、應留下甚麼。",
+        "以研究和培訓兩種資料並讀，可以分清材料分析如何提出問題，以及修復課程如何把判斷轉為實務。收藏者亦可從中建立觀察習慣：記錄胎、釉、裝飾和舊修，讓器物不只剩下一個年代或窯口標籤。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "故宮博物院：陶瓷研究所研究範圍",
+          "href": "https://www.dpm.org.cn/organization/detail/250475.html"
+        },
+        {
+          "label": "故宮博物院：2025 年陶瓷文物保護修復培訓班",
+          "href": "https://www.dpm.org.cn/learing_detail/369323.html"
+        }
+      ]
+    },
+    {
+      "slug": "country-02",
+      "family": "country",
+      "title": "日本",
+      "description": "東京國立博物館將調查、預防與修復連成持續的工作。",
+      "paragraphs": [
+        "東京國立博物館將調查、預防與修復連成持續的工作。修復前先理解材料和損傷，日常照護與較大規模的處理各有位置；館方展示的陶罐案例，便因舊修補劣化而拆解、清理和重新接合，再對缺失部分作補配與調色。修復的尺度，隨每件器物的狀況而定。",
+        "金漆修補則保存了另一種觀看陶瓷的方式。史密森尼收藏的一件十七世紀薩摩燒茶碗，保留醒目的金漆修補，裂痕也成為器物外觀的一部分。博物館保存與金繼工藝可以在同一件器物上相遇：一方面理解既有修補的材料，另一方面珍視器物曾被使用、破損和繼續保存的歷程。",
+        "閱讀這些實例時，保存機構的工作與個別工藝傳統宜分開理解。金線的美感、接合的功能和舊修的歷史，各自值得討論；某件器物採用的方案，不必成為所有日本陶瓷的共同答案。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "東京國立博物館：藏品保存與修復",
+          "href": "https://www.tnm.jp/modules/r_free_page/index.php?id=133&lang=en"
+        },
+        {
+          "label": "史密森尼：破損器物之美",
+          "href": "https://www.si.edu/collections/snapshot/beauty-broken-objects"
+        }
+      ]
+    },
+    {
+      "slug": "country-03",
+      "family": "country",
+      "title": "英國",
+      "description": "英國博物館的陶瓷保存，可以從館內不同專業如何合作來理解。",
+      "paragraphs": [
+        "英國博物館的陶瓷保存，可以從館內不同專業如何合作來理解。大英博物館的藏品照護部門，結合藏品管理、修復，以及攝影與影像工作；器物的存放、移動、展示和研究取用，都與保存相連。拍攝和記錄並非修復後的附帶工作，而是理解器物狀態、追蹤變化的重要基礎。",
+        "維多利亞與艾伯特博物館的修復團隊則結合材料專業與科學研究，調查製作方法、狀況和歷史，並支援展示、運輸與庫房保存。對一件曾經接合的瓷器而言，裂縫只是其中一項線索；舊膠、表面裝飾、支撐方式和搬運路徑，也會共同決定它能否安穩地留存。",
+        "這種協作亦提醒持有人，運輸、攝影和存放並非處理完成後才開始的事。修補方案若只談接合材料，卻沒有考慮器物怎樣離開工作台，便仍未回答長期照護的重要部分。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "大英博物館：藏品照護部門",
+          "href": "https://www.britishmuseum.org/our-work/departments/collection-care"
+        },
+        {
+          "label": "V&A：文物保存修復",
+          "href": "https://www.vam.ac.uk/info/conservation"
+        }
+      ]
+    },
+    {
+      "slug": "country-04",
+      "family": "country",
+      "title": "美國",
+      "description": "蓋蒂博物館的古陶修復展覽，將歷史修補與今日的檢查放在一起觀看。",
+      "paragraphs": [
+        "蓋蒂博物館的古陶修復展覽，將歷史修補與今日的檢查放在一起觀看。有些陶瓶過去曾被大幅補配、改繪，甚至拼入別件器物的碎片，以塑造完整的外觀。透過材料檢查與重新研究，修復人員得以辨認後加部分，也重新理解圖像和器形原有的面貌。",
+        "美國文物保存協會的專業守則，則要求修復工作尊重原物、記錄判斷與處理，並考慮日後再次研究或介入的可能。補配可以幫助觀者閱讀形體，亦需要讓新增部分可以辨識。這些案例呈現的核心，是把視覺上的連續、材料的穩定和歷史證據一同衡量，讓器物保有可以繼續被理解的空間。",
+        "從歷史重建讀到專業守則，可把「完整」拆成形體、裝飾與證據三個層次。補回器形或降低缺口乾擾，不代表需要重畫沒有資料的圖案；讓原有與後加部分可被追溯，也是展示品質的一部分。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "蓋蒂博物館：從碎片到陶瓶",
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/"
+        },
+        {
+          "label": "AIC：專業倫理守則與實務指引",
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code"
+        }
+      ]
+    },
+    {
+      "slug": "country-05",
+      "family": "country",
+      "title": "德國",
+      "description": "柏林前亞細亞博物館的陶瓷保存，常面對帶釉與無釉器物，以及未燒或低温燒成的楔形文字泥板。",
+      "paragraphs": [
+        "柏林前亞細亞博物館的陶瓷保存，常面對帶釉與無釉器物，以及未燒或低温燒成的楔形文字泥板。可溶性鹽、環境變化和早期處理材料，都是重要問題；有些舊保護塗層老化後難以溶解，令後續處理更為複雜。館方因此把調查、技術分析和修復記錄放在同一工作流程中。",
+        "歐洲文化博物館則把陶瓷與玻璃、金屬等複合材料一併考慮，並重視器物留下的使用痕跡。保存人員與庫房、攝影及展覽同事協作，安排狀況記錄、運輸和陳列。器物的穩定，既依靠工作台上的細緻處理，也依靠每一次取放及環境管理；痕跡本身，亦可能是收藏價值的一部分。",
+        "同一件物件可以同時有陶胎、釉、金屬與舊保護層。比較館方資料時，宜先看材料和損傷如何組合，再看用了甚麼方法；國家名稱提供閱讀入口，具體藏品與工作條件才支撐處理判斷。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "柏林前亞細亞博物館：保存與照護",
+          "href": "https://www.smb.museum/en/museums-institutions/vorderasiatisches-museum/collection-research/conservation-care/"
+        },
+        {
+          "label": "柏林歐洲文化博物館：保存與照護",
+          "href": "https://www.smb.museum/en/museums-institutions/museum-europaeischer-kulturen/collections-research/conservation-care/"
+        }
+      ]
+    },
+    {
+      "slug": "country-06",
+      "family": "country",
+      "title": "義大利",
+      "description": "佛羅倫斯的硬石修復研究所，將文物修復、科學研究和高等培訓結合。",
+      "paragraphs": [
+        "佛羅倫斯的硬石修復研究所，將文物修復、科學研究和高等培訓結合。它的專業範圍包括陶瓷、塑造類作品與玻璃，並由科學實驗室協助辨識材料、理解劣化和評估處理方法。對一件碎裂器物而言，接縫以外還有胎體、釉層、舊補料與附着物，各自需要不同的觀察尺度。",
+        "研究所的工作亦涵蓋非侵入或微量取樣的診斷、預防保存，以及攝影與文獻記錄。這種安排讓修復決定與研究證據互相支援：影像保存處理前後的狀態，分析協助選材，培訓則把經驗轉化為可以討論與傳授的知識。工藝手感和科學檢查在此相互補充，共同服務於具體的文物。",
+        "對非專業讀者而言，可從報告中留意三項關係：分析提出甚麼問題、結果如何影響方案、哪些改動被留下記錄。儀器名稱本身不等於答案，工藝技巧也需放回材料與保存目標理解。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "硬石修復研究所：機構職能",
+          "href": "https://opificiodellepietredure.cultura.gov.it/en/the-institute/"
+        },
+        {
+          "label": "硬石修復研究所：保存與研究",
+          "href": "https://opificiodellepietredure.cultura.gov.it/en/conservation-and-research/"
+        }
+      ]
+    },
+    {
+      "slug": "country-07",
+      "family": "country",
+      "title": "法國",
+      "description": "法國博物館研究與修復中心的服務，涵蓋科學分析、專家諮詢、修復處理與知識傳播。",
+      "paragraphs": [
+        "法國博物館研究與修復中心的服務，涵蓋科學分析、專家諮詢、修復處理與知識傳播。博物館及相關文物管理單位，可按藏品問題提出研究或保存需求；中心以不同專業協作，使材料調查、歷史理解和實際照護得以連接。修復因而從明確的問題開始，而非先替所有器物選定同一種方法。",
+        "中心的預防保存部門自一九九九年成立以來，一方面照護送入中心研究或修復的作品，另一方面為博物館提供建議。其工作包括作品管理及預防保存研究。陶瓷進入修復室、接受檢查、暫存與歸還的整段過程，都需要合適的安排；保存不只發生在裂縫接合的一刻，也存在於器物的每次移動之間。",
+        "預防保存把視線由單件文物延伸至出入、暫存和管理。收藏在不同房間或機構之間移動時，包裝、環境與資料交接共同影響狀態；細緻修復需要有連續的照護承接。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "C2RMF：服務範圍",
+          "href": "https://c2rmf.fr/nos-services"
+        },
+        {
+          "label": "C2RMF：預防保存部門",
+          "href": "https://c2rmf.fr/departement-conservation-preventive"
+        }
+      ]
+    },
+    {
+      "slug": "country-08",
+      "family": "country",
+      "title": "加拿大",
+      "description": "加拿大文物保存研究所的陶瓷指引，從風險和材料出發。",
+      "paragraphs": [
+        "加拿大文物保存研究所的陶瓷指引，從風險和材料出發。陶瓷雖經燒成，仍可能因跌落、碰撞或不適當的支撐而破裂；多孔胎體內的鹽分，亦可能隨濕度變化造成損傷。器面彩繪、鍍金和既有修補的耐受程度，又往往與胎體不同，因此照護方法需要分別判斷。",
+        "搬動器物前，先觀察裂紋、鬆動部件及舊接合，再安排穩定的承托與清楚的路徑，是這套保存觀的重要部分。對收藏者而言，減少不必要的取放、保留狀況記錄，以及在發現變化時尋求合適協助，都能延長研究與欣賞的時間。照護的成果常常很安靜：器物未再受傷，原有細節也得以留在原處。",
+        "這些指引亦適合轉為家庭收藏的具體安排：為每件器物留出位置，搬動前清理路線，讓照片與材料資料一併保存。持續照護不一定複雜，關鍵是方法能配合實際器物，並長期做得到。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "CCI：陶瓷與玻璃的預防保存",
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html"
+        },
+        {
+          "label": "CCI：文物搬運",
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html"
+        }
+      ]
+    },
+    {
+      "slug": "country-09",
+      "family": "country",
+      "title": "韓國",
+      "description": "韓國國立中央博物館以粉青沙器等案例，展示陶瓷從狀況記錄、碎片整理、接合到缺失補配的過程。",
+      "paragraphs": [
+        "韓國國立中央博物館以粉青沙器等案例，展示陶瓷從狀況記錄、碎片整理、接合到缺失補配的過程。燒成後的胎體一旦破損，修復所重建的是器物的連接與形體；保存人員需同時考慮結構、紋飾，以及原有部分和新增材料的關係。館方亦研究修復材料的性質、天然材料與三維技術的應用。",
+        "國立慶州博物館則說明，Ｘ光檢查能協助觀察器物內部、隱藏裂紋和早期修補。清潔方法按污染物選擇，碎片接合前先規劃順序，缺失補配則視結構穩定與展示需要決定。這些程序使一件器物的修復可以被追溯：每一步都回應看得見或經檢查發現的問題，避免讓補配先於理解。",
+        "館方個案可以幫助理解流程，但每件器物需要的檢查不盡相同。隱藏裂縫、缺失與表面裝飾各有問題；研究工具的選擇應回應實物，而非把每一步都變成必須照抄的固定程序。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "韓國國立中央博物館：陶瓷文物保存修復",
+          "href": "https://www.museum.go.kr/MUSEUM/contents/M0606020300.do"
+        },
+        {
+          "label": "國立慶州博物館：陶瓷保存科學",
+          "href": "https://gyeongju.museum.go.kr/eng/html/sub05/050103.html"
+        }
+      ]
+    },
+    {
+      "slug": "country-10",
+      "family": "country",
+      "title": "荷蘭",
+      "description": "荷蘭國家博物館的陶瓷、玻璃與石材研究，連結材料特徵與保存問題。",
+      "paragraphs": [
+        "荷蘭國家博物館的陶瓷、玻璃與石材研究，連結材料特徵與保存問題。陶土組成可以為製作來源提供線索，玻璃劣化則牽涉物質自身的穩定性。從原料到今日狀態，器物所經歷的製作、使用和收藏，使每一件藏品都需要個別調查，而相似的外觀未必代表相同的材料。",
+        "館刊對燒成補配件的研究，展示修補者如何面對陶土收縮、燒製變化，以及器形、色澤和質感的配合。這類補件需要專門知識，也讓舊修復成為可以研究的歷史。閱讀一件陶瓷時，補片的接邊與表面差異因而具有雙重意義：它們指向器物曾經失去的部分，也記錄了後來的人如何理解和保存它。",
+        "燒成補件與以樹脂或填料直接補配，是不同工作路線。前者的研究涉及新製部件與舊器形貌的配合，並不表示把破損原器重新入窯。分清製作與接合，能更準確理解這類修復研究。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "荷蘭國家博物館：陶瓷、玻璃與石材研究",
+          "href": "https://www.rijksmuseum.nl/en/research/our-research/conservation-science/ceramics-glass-stone"
+        },
+        {
+          "label": "荷蘭國家博物館館刊：燒成補配件研究",
+          "href": "https://bulletin.rijksmuseum.nl/article/view/9769"
+        }
+      ]
+    },
+    {
+      "slug": "master-01",
+      "family": "master",
+      "title": "Friedrich Rathgen",
+      "description": "弗里德里希・拉特根於一八八八年成為柏林王立博物館化學實驗室的首任主管，將化學分析引入藏品保存。",
+      "paragraphs": [
+        "弗里德里希・拉特根於一八八八年成為柏林王立博物館化學實驗室的首任主管，將化學分析引入藏品保存。他關心器物為何劣化，也研究材料與製作方法。面對含鹽的考古材料，他以持續記錄和分析追蹤處理過程，使修復逐漸形成可以比較、檢驗和交流的工作。",
+        "拉特根的研究包括石材、陶器、泥板與金屬，顯示早期保存科學具有跨材料的性質。他於一八九八年出版的文物保存手冊，也把分散的經驗整理成系統知識。今日閱讀這段歷史，重要的是理解他如何提出問題、保留觀察並公佈結果；當年的處方屬於特定技術背景，後來的保存工作仍需重新評估材料與處理後果。",
+        "閱讀早期保存科學時，可留意工作如何由個人經驗走向公開記錄與材料比較。歷史研究的價值在於看清問題如何形成，而不是把舊手冊處方直接用到今日的瓷器上。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "柏林拉特根研究實驗室：機構歷史",
+          "href": "https://www.smb.museum/museen-einrichtungen/rathgen-forschungslabor/ueber-uns/geschichte/"
+        },
+        {
+          "label": "JAIC：拉特根與考古文物保存",
+          "href": "https://cool.culturalheritage.org/jaic/articles/jaic26-02-004.html"
+        }
+      ]
+    },
+    {
+      "slug": "master-02",
+      "family": "master",
+      "title": "Harold J. Plenderleith",
+      "description": "哈羅德・普倫德利斯是國際文化資產保存修復研究中心的創始主任，於一九五九年至一九七一年主持早期工作。",
+      "paragraphs": [
+        "哈羅德・普倫德利斯是國際文化資產保存修復研究中心的創始主任，於一九五九年至一九七一年主持早期工作。第二次世界大戰後，受損藝術品與歷史建築帶來龐大的保存需求，國際合作、專業教育和知識交流因而日益重要。他的工作，處於博物館科學走向跨國協作的關鍵階段。",
+        "中心在羅馬建立的研究與培訓網絡，使不同材料、不同地區的保存經驗有機會相互參照。對陶瓷修復而言，這段歷史提示了一種持續至今的工作方式：工藝經驗需要與科學調查相接，個別處理需要留下可傳遞的記錄。修復知識藉出版、教學和專業討論累積，也讓下一位照護器物的人有路可循。",
+        "專業教育使個別工作室的經驗可以被討論，也讓不同專長的人共同照顧器物。陶瓷修護所需的觀察、材料理解和記錄，正適合放在這種跨領域的知識傳遞中閱讀。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "ICCROM：機構歷史專著",
+          "href": "https://www.iccrom.org/sites/default/files/ICCROM_ICS11_History_en_0.pdf"
+        },
+        {
+          "label": "ICCROM：創始主任 Plenderleith 紀念雕像",
+          "href": "https://www.iccrom.org/news/peter-rockwell-presents-gypsum-plenderleith-sculpture-iccrom"
+        }
+      ]
+    },
+    {
+      "slug": "master-03",
+      "family": "master",
+      "title": "Cesare Brandi",
+      "description": "切薩雷・布蘭迪的修復思想，把作品的物質、歷史與美學放在同一討論之中。",
+      "paragraphs": [
+        "切薩雷・布蘭迪的修復思想，把作品的物質、歷史與美學放在同一討論之中。修復要照顧作品如何呈現，也要尊重它經歷時間留下的證據。缺失部分會改變觀看的重心：一塊缺口可能搶走原有形象的注意力，因此補配的問題，涉及形體、色彩以及觀者如何閱讀整件作品。",
+        "這種思考對陶瓷修補尤其有啟發。補足器形可以改善理解，但新增內容需要與原作歷史保持清楚關係，避免以想像代替已失去的證據。布蘭迪談及的完整性，關乎作品仍可被感知的整體，而非把時間全部抹平。於是，一道裂縫、一處補片和一段缺失，都成為需要仔細判斷的部分，技術與觀看在此交會。",
+        "把理論放回補配與補色，可以問新增部分如何影響作品閱讀、歷史痕跡是否仍在，以及哪些選擇需要文件交代。理論提供思考框架，實際方法仍須回應具體材料與狀況。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "ICCROM：布蘭迪〈修復〉原文譯本",
+          "href": "https://www.iccrom.org/sites/default/files/publications/2020-05/conversaciones_07_01_brandi_esp.pdf"
+        },
+        {
+          "label": "ICCROM／INAH：布蘭迪與 Argan 專輯",
+          "href": "https://www.iccrom.org/it/publication/conversaciones-con-cesare-brandi-y-giulio-carlo-argan-number-7-2019"
+        }
+      ]
+    },
+    {
+      "slug": "master-04",
+      "family": "master",
+      "title": "Nigel Williams",
+      "description": "奈傑爾・威廉斯以陶瓷與玻璃修復工作為人認識，曾在大英博物館重新修復波特蘭花瓶。",
+      "paragraphs": [
+        "奈傑爾・威廉斯以陶瓷與玻璃修復工作為人認識，曾在大英博物館重新修復波特蘭花瓶。這件古代玻璃器於十九世紀破碎，此後經歷多次修補；至二十世紀八十年代，早期黏合材料失效，促使保存人員重新拆解、研究並接合大量碎片。一次修復的結果，也會成為下一代修復者面對的條件。",
+        "英國文物保存協會記述，威廉斯為這項工作測試黏合材料及着色補配方法，並以出版和教學分享經驗。以他命名的獎項延續了陶瓷與玻璃保存的專業交流。這個案例的重要之處，在於耐心處理碎片之餘，仍要評估材料老化、舊修復的影響和未來照護；完整的外觀，需要由清楚的研究與記錄支撐。",
+        "玻璃與陶瓷雖有相近的接合問題，透明度、表面狀態和裂紋行為仍有差別。從具體修復案例理解排位、支撐和記錄，能避免只以完成後的無縫外觀評價工作。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "Icon：Nigel Williams 與陶瓷玻璃保存獎",
+          "href": "https://www.icon.org.uk/groups-and-networks/special-interest-groups/ceramics-glass/nigel-williams-prize.html"
+        }
+      ]
+    },
+    {
+      "slug": "master-05",
+      "family": "master",
+      "title": "Stephen P. Koob",
+      "description": "史蒂芬・庫布（一九五一至二〇二六）曾任康寧玻璃博物館首席修復師，並於二〇二〇年退休。",
+      "paragraphs": [
+        "史蒂芬・庫布（一九五一至二〇二六）曾任康寧玻璃博物館首席修復師，並於二〇二〇年退休。他的工作涵蓋玻璃劣化、清潔、狀況評估、搬運與存放，也透過著作和教學傳遞保存知識。玻璃的透明性，使接縫、補料與表面變化格外顯眼；穩定器物與維持觀看品質，需要同時考慮。",
+        "庫布對 Paraloid B-72 黏合劑的討論，特別重視調配與施用方式。溶劑比例、流動性、基材孔隙及盛載容器，均會影響實際操作與接合結果。這些研究讓材料名稱背後的條件變得具體：同一種樹脂，仍需按照器物和用途調整。保存工作的可靠性，由材料知識、操作細節和後續觀察共同建立。",
+        "B-72 的應用值得連同試材、接縫和使用條件閱讀。材料可溶解，不等於在所有胎體上都能無痕移除；研究者的貢獻在於建立可比較的資料，而不是提供萬用膠水答案。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "康寧玻璃博物館：Stephen P. Koob 生平",
+          "href": "https://people.cmog.org/bio/stephen-koob"
+        },
+        {
+          "label": "AIC：Koob 談 Paraloid B-72 的調配與施用",
+          "href": "https://resources.culturalheritage.org/osg-postprints/v25/koob/"
+        }
+      ]
+    },
+    {
+      "slug": "master-06",
+      "family": "master",
+      "title": "Susan Buys",
+      "description": "蘇珊・拜斯與維多利亞・奧克利合著的《陶瓷保存與修復》，於一九九三年出版，把材料知識與修復判斷連成完整的學習路徑。",
+      "paragraphs": [
+        "蘇珊・拜斯與維多利亞・奧克利合著的《陶瓷保存與修復》，於一九九三年出版，把材料知識與修復判斷連成完整的學習路徑。書中先談陶瓷的製作、劣化與預防照護，再進入檢查記錄、清潔、加固、接合、補配和調色。每項技術都與材料及方法的選擇相連，而非孤立的手勢。",
+        "這本著作也處理舊修復、工作室設備和材料性質，讓讀者看見修復室背後的準備。劍橋菲茨威廉博物館介紹康熙瓷瓶修復時，亦把它列入現代陶瓷保存的參考書目。從書本回到器物，先觀察胎釉與損傷、再安排處理步驟的次序，提供了一種清楚的思考框架；熟練操作與審慎判斷，在同一流程中逐步形成。",
+        "系統著作的作用，是把胎釉、損傷、處理與保存連在一起。讀者可以依器物面對的問題查閱，再對照來源與實際條件，避免只摘取單一材料名稱作為處理依據。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "Routledge：《陶瓷保存與修復》書目及目錄",
+          "href": "https://www.routledge.com/Conservation-and-Restoration-of-Ceramics/Buys-Oakley/p/book/9780080502892"
+        },
+        {
+          "label": "菲茨威廉博物館：康熙瓷瓶修復及參考書目",
+          "href": "https://stories.fitzmuseum.cam.ac.uk/kangxi-vases-conservation/"
+        }
+      ]
+    },
+    {
+      "slug": "master-07",
+      "family": "master",
+      "title": "Victoria Oakley",
+      "description": "維多利亞・奧克利的工作，連結陶瓷保存、玻璃劣化研究與博物館實務。",
+      "paragraphs": [
+        "維多利亞・奧克利的工作，連結陶瓷保存、玻璃劣化研究與博物館實務。V&A 的研究報告記錄，她參與與倫敦帝國學院合作的玻璃研究，透過藏品觀察、表面分析和實驗，追問玻璃為何逐漸變質。這類合作需要保存人員與科學家反覆討論，使實驗中的材料變化與館藏問題互相對照。",
+        "她亦與蘇珊・拜斯合著《陶瓷保存與修復》，整理材料與處理方法的選擇原則。在玻璃研究中，狀況調查能指出哪些器物需要關注，後續分析則協助理解劣化機制。這種循環讓照護工作超越單次修補：從整批藏品的觀察，到個別器物的檢查，再回到環境與日常管理，保存知識在持續的比較中變得更細緻。",
+        "劣化研究提醒我們，外觀相似的表面可能有不同成因。選擇清潔或穩固方法前，先理解變化的材料基礎，並用照片和記錄追蹤結果，比單純追求亮潔更能服務保存。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "V&A：1993 年研究報告",
+          "href": "https://media.vam.ac.uk/vamembed/media/uploads/files/research_report_1993.pdf"
+        },
+        {
+          "label": "V&A 保存期刊：玻璃劣化研究合作",
+          "href": "https://www.vam.ac.uk/__data/assets/pdf_file/0018/177210/16752_file.pdf"
+        },
+        {
+          "label": "Routledge：《陶瓷保存與修復》",
+          "href": "https://www.routledge.com/Conservation-and-Restoration-of-Ceramics/Buys-Oakley/p/book/9780080502892"
+        }
+      ]
+    },
+    {
+      "slug": "master-08",
+      "family": "master",
+      "title": "Sandra Davison",
+      "description": "桑德拉・戴維森與 R. G. Newton 合著的《玻璃保存與修復》，從玻璃的性質、製作歷史和劣化談起，延伸至檢查、保存材料與處理方法。",
+      "paragraphs": [
+        "桑德拉・戴維森與 R. G. Newton 合著的《玻璃保存與修復》，從玻璃的性質、製作歷史和劣化談起，延伸至檢查、保存材料與處理方法。書中兼顧考古玻璃及歷史裝飾玻璃，讓讀者理解不同來源、製法和埋藏或收藏條件，如何影響今日所見的透明、混濁、裂紋和表面變化。",
+        "玻璃與陶瓷都可能面對破碎、缺失和舊修補，但材料的反應各有差異。閱讀戴維森的著作，有助於把接合與補配放回材料性質之中，先理解原物，再衡量所用材料及處理步驟。技術檢查與修復實務被放在相連的章節內，提醒照護者：看似相近的損傷，也需要不同的判斷；清楚認識器物，是任何細緻操作的起點。",
+        "玻璃修護需要把透明度、裂紋、表面劣化與展示支撐一起考慮。這個領域與陶瓷可以互相參照，但不能因兩者都會碎裂，便把清潔、黏合及保存條件完全互換。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "Routledge：《玻璃保存與修復》第二版",
+          "href": "https://www.routledge.com/Conservation-and-Restoration-of-Glass/Davison-Newton/p/book/9780367606367"
+        }
+      ]
+    },
+    {
+      "slug": "master-09",
+      "family": "master",
+      "title": "Sarah Barack",
+      "description": "莎拉・巴拉克在 Cooper Hewitt 博物館的修復文章中，介紹一組大型餐桌中央擺設的切割玻璃盤。",
+      "paragraphs": [
+        "莎拉・巴拉克在 Cooper Hewitt 博物館的修復文章中，介紹一組大型餐桌中央擺設的切割玻璃盤。玻璃含鉛所帶來的折射與色散，讓切面呈現閃耀效果；其中三件盤子受損後，修復材料便需要同時回應結構與光學問題。接縫是否顯眼，與黏合劑和玻璃之間的折射率差異有關。",
+        "她說明館方選用為玻璃保存而設的透明雙組分環氧樹脂，並把老化表現列入考慮。這個案例呈現了材料選擇的具體理由：透明器物上的膠層既承擔接合作用，也參與光線穿過器物的方式。修復因此要理解材料的製作與性質，再評估接合後的觀看效果，讓細緻切面與原有設計繼續成為視線的重心。",
+        "個案閱讀可聚焦於觀察如何改變選材與處理範圍。材料名稱是起點，器物表面、舊修及預定用途才決定它能否使用；完整記錄亦讓後續處理不必重新猜測。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "Cooper Hewitt：Sarah Barack 談切割玻璃修復",
+          "href": "https://www.cooperhewitt.org/2019/04/09/conserving-the-surtout-de-table-cut-glass/"
+        }
+      ]
+    },
+    {
+      "slug": "master-10",
+      "family": "master",
+      "title": "Deborah Schorsch",
+      "description": "黛博拉・肖爾施是大都會藝術博物館的榮休修復師，研究重點包括古埃及金屬器及相關材料。",
+      "paragraphs": [
+        "黛博拉・肖爾施是大都會藝術博物館的榮休修復師，研究重點包括古埃及金屬器及相關材料。她與策展同事合作，從雕像、首飾和日用器物的製作方法，探討技術與風格的關係。金、銀、銅及青銅的痕跡，既是需要照護的物質，也保存了工匠選材和成形的線索。",
+        "她的研究與寫作亦涉及不同文化的金屬工藝及博物館保存史。這種跨材料視野，有助於閱讀帶金屬配件或鋦釘的陶瓷：器物的形體之外，還有接合方式、工具痕跡與後來介入的材料。從製作細節追索器物歷程，能使保存與藝術史互相支持，也提醒觀者留意那些面積很小、卻承載重要資訊的部位。",
+        "古代金屬的研究可為理解陶瓷上的鋦釘、包鑲與異材接觸提供參照。這種跨材料閱讀，需要同時保存金屬和瓷胎的線索，並區分穩定歷史表面與持續劣化。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "大都會藝術博物館：Deborah Schorsch 專業簡介",
+          "href": "https://www.metmuseum.org/departments/objects-conservation/team"
+        }
+      ]
+    },
+    {
+      "slug": "master-11",
+      "family": "master",
+      "title": "Carol A. Grissom",
+      "description": "卡蘿・格里森曾在史密森尼博物館保存研究所工作，研究範圍涵蓋青銅、石材、鋅、石膏與木雕。",
+      "paragraphs": [
+        "卡蘿・格里森曾在史密森尼博物館保存研究所工作，研究範圍涵蓋青銅、石材、鋅、石膏與木雕。她的出版成果包括美國鋅雕塑、石材表面沉積、清潔方法及塗層表現，呈現保存科學如何從具體的變化提出問題。表面的一片深色或一處污痕，可能需要成分與微觀分析才能理解。",
+        "這種研究取向也能豐富觀看修補器物的方式。陶瓷上的金屬件、填補材料與附着物，往往分屬不同材料系統，需要辨別各自的性質及相互影響。格里森的跨材料研究提醒我們，把變色直接視作需要清除的污垢之前，應先理解它的形成。物質痕跡既關乎穩定，也可能記錄製作、環境和過往處理的歷史。",
+        "雕塑研究所關心的形體、表面和承托，亦能幫助讀者理解立體陶瓷。當器物有懸伸部件、內部支撐或複合材料，保存方案便需要超越表面缺口，考慮整體結構。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "史密森尼：Carol A. Grissom 專業簡介與研究書目",
+          "href": "https://profiles.si.edu/display/nGrissomC11292005"
+        }
+      ]
+    },
+    {
+      "slug": "master-12",
+      "family": "master",
+      "title": "Matsuda Gonroku",
+      "description": "松田權六的蒔繪工作室由日本國立工藝館遷置保存，連同工具、材料與影像，讓觀者接近漆藝工作的日常。",
+      "paragraphs": [
+        "松田權六的蒔繪工作室由日本國立工藝館遷置保存，連同工具、材料與影像，讓觀者接近漆藝工作的日常。館方展示的用具包括不同工序使用的漆刷、描繪筆、撒粉筒、小匙與刮刀；貝殼、蛋殼和金銀粉等材料，則呈現漆面裝飾如何藉不同物質形成層次。",
+        "工作室資料亦保存設計稿、未完成的茶棗和相關作品，使一件成品背後的準備與反覆加工得以被看見。理解這些工具，有助於欣賞金繼所處的漆藝世界：線條的厚薄、粉末的配置和表面整飾，都包含細緻的材料判斷。蒔繪與陶瓷修補各有目的，而它們共享的筆工與漆面知識，讓微小部位也能展現豐富的工藝語言。",
+        "漆藝作品的層次與工具痕，能讓人理解表面完成並非單一塗層。閱讀相關作品時，把造形、底層處理與裝飾分開觀看，有助認識金繼與其他漆工藝共享及不同的部分。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "日本國立工藝館：松田權六蒔繪工作室",
+          "href": "https://www.momat.go.jp/craft-museum/en"
+        },
+        {
+          "label": "日本國立工藝館：工作室工具與材料展品清單",
+          "href": "https://www.momat.go.jp/craft-museum/wp-content/uploads/sites/2/2024/09/matsuda_en_20240902-1.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "master-13",
+      "family": "master",
+      "title": "Murose Kazumi",
+      "description": "室瀨和美以蒔繪及螺鈿等漆藝創作，讓金屬粉與貝片在漆面上形成光澤和深度。",
+      "paragraphs": [
+        "室瀨和美以蒔繪及螺鈿等漆藝創作，讓金屬粉與貝片在漆面上形成光澤和深度。他在訪問中介紹研出蒔繪：圖樣撒粉後再覆漆，經研磨逐步顯露。粉末的大小與分佈、漆層的厚度及研磨程度，都會影響最後的質感，細節往往在光線移動時才慢慢浮現。",
+        "其作品將植物、動物與自然意象轉化為器表裝飾，呈現傳統技法在當代創作中的延續。從這類漆藝回望金繼，可以更清楚理解金色表面的工序與材料層次。修補線既有接合的位置，也有表面整飾的表現；欣賞它時，除了追隨裂縫的方向，亦可留意粉末、漆面和原有釉色如何在同一件器物上彼此呼應。",
+        "蒔繪與金繼都可能出現金屬粉，但作品目的、施作位置和結構功能各有不同。沿着材料與層次閱讀，比只憑金色把所有漆藝歸成同一方法更準確。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "Nippon.com：室瀨和美漆藝訪問",
+          "href": "https://www.nippon.com/en/japan-topics/c14303/"
+        }
+      ]
+    },
+    {
+      "slug": "master-14",
+      "family": "master",
+      "title": "Showzi Tsukamoto",
+      "description": "塚本尚司（Showzi Tsukamoto）以金工、漆藝、蒔繪與金繼開展創作，並在東京的工作室傳授金繼。",
+      "paragraphs": [
+        "日本國家旅遊局的工藝體驗介紹記載，塚本尚司自1972年起從事金繼，並在東京工作室教授這項工藝。Mazda Australia 的人物專訪補充，他曾於東京國立美術音樂大學（現東京藝術大學）修讀金工、漆藝和蒔繪；他的創作因此不只落在陶瓷接縫，也延伸至漆與金屬的結合。",
+        "塚本回憶，1972年參觀畠山紀念美術館時，他看到本阿彌光悅製作的赤樂茶碗，碗上的漆與金修補令他開始嘗試金繼。訪談亦記述，他於1980年代研究把漆施於鈦金屬，並在1989年獲 LVMH 的「Science for Art」獎，顯示漆藝實驗如何延伸至金工。",
+        "作品資料將這條創作路徑落回實物：比利時 IBASHO 畫廊刊出他以金繼修補的《E Shino Chawan》，並把原茶碗年代標為江戶時代（17至18世紀）。這是當代創作對古陶瓷的再詮釋；作品記錄說明藝術家的材料選擇，也讓修補線如何參與器物外觀變得具體。",
+        "人物訪談亦記錄，塚本在2019年以多片志野陶片構成兩件茶碗，採「呼繼」（yobitsugi）的組合方式，其中一件名為《Ume-ni-Uguisu》。這種由不同殘片構成新器的創作，與修補同一件器物的接縫有所不同；把作品類型說清楚，才能準確閱讀修補和再創作的界線。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "日本國家旅遊局：塚本尚司的金繼工藝體驗",
+          "href": "https://www.japan.travel/en/experiences-in-japan/5871/"
+        },
+        {
+          "label": "Mazda Australia：塚本尚司的金繼、漆藝與金工創作訪談",
+          "href": "https://www.mazda.com.au/mazda-news/kintsugi-master/"
+        },
+        {
+          "label": "IBASHO 畫廊：塚本尚司《E Shino Chawan》作品資料",
+          "href": "https://ibashogallery.com/artworks/5159-showzi-tsukamoto-e-shino-chawan/"
+        },
+        {
+          "label": "日本國家旅遊局：金繼與蒔繪的體驗及課程",
+          "href": "https://www.japan.travel/en/luxury/detail/kintsugi-experience-masterclass-authentic-kintsugi-using-maki-e/"
+        }
+      ]
+    },
+    {
+      "slug": "master-15",
+      "family": "master",
+      "title": "Shimode Muneaki",
+      "description": "Shimode Muneaki 的漆藝工作，與京都的蒔繪工房傳承相連。",
+      "paragraphs": [
+        "Shimode Muneaki 的漆藝工作，與京都的蒔繪工房傳承相連。Japan House London 的工作室訪談，透過工具、材料和示範，介紹蒔繪與金繼之間的關係。漆面承接金銀等粉末，形成圖樣與光澤；在陶瓷修補上，這些表面技法又與裂縫、缺口及原有釉色發生新的配合。",
+        "他亦曾與 Sato Takahiko 參與皮特里弗斯博物館的駐館交流，把工藝示範帶進博物館與公眾活動。觀者得以從實際操作理解一道金色線條如何形成，也看見不同工具各自處理的細節。這些交流讓修補成為可被觀察、提問和學習的材料過程；器物的痕跡，因手勢與材料知識而獲得更具體的解讀。",
+        "工藝傳授中的手感與材料判斷，需要連同示範情境理解。學習者可以先看各層擔任甚麼角色、為何等待，以及作品完成後如何照顧，讓技法閱讀超越表面的金線。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "Japan House London：蒔繪與金繼工作室訪談",
+          "href": "https://www.japanhouselondon.uk/whats-on/maki-e-kintsugi-studio-visit-conversation/"
+        },
+        {
+          "label": "牛津大學：2015 年京都漆藝師駐館活動",
+          "href": "https://nissan.web.ox.ac.uk/sites/default/files/nissan/documents/media/japanese_studies_newsletter_issue_7_2015.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "master-16",
+      "family": "master",
+      "title": "Sato Takahiko",
+      "description": "Sato Takahiko 與 Shimode Muneaki 於二〇一五年到訪牛津，在皮特里弗斯博物館進行金繼示範、講座及工作坊。",
+      "paragraphs": [
+        "Sato Takahiko 與 Shimode Muneaki 於二〇一五年到訪牛津，在皮特里弗斯博物館進行金繼示範、講座及工作坊。館方的駐館記錄介紹，佐藤來自經營天然漆的家族事業；他的角色讓觀者看見，修補工藝除了器物和工具，也依靠材料製作與供應所累積的知識。",
+        "這次交流把漆、金屬粉與破損陶瓷帶到同一張工作台上，讓公眾透過實物理解修補。活動公告亦交代，實作班採用環氧黏合劑及較便宜的金屬粉，配合漆的表面工序。不同教學安排由此留下清楚記錄：辨認作品時，既要欣賞接縫的形態，也要理解實際使用的材料與工序，才能讀出其工藝內容。",
+        "博物館活動可以同時介紹文化與當代練習，但活動所用材料不必等同於傳統天然漆路線。清楚讀取工具、黏合劑與金屬粉清單，才能理解一次示範實際呈現的工藝範圍。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "皮特里弗斯博物館 VERVE：金繼駐館記錄",
+          "href": "https://pittrivers-verve.blogspot.com/2016/02/kintsugi.html"
+        },
+        {
+          "label": "皮特里弗斯博物館：金繼工作坊原始公告",
+          "href": "https://cool.culturalheritage.org/byform/mailing-lists/cdl/2015/0937.html"
+        }
+      ]
+    },
+    {
+      "slug": "master-17",
+      "family": "master",
+      "title": "Naoko Fukumaru",
+      "description": "福丸直子的創作，把陶瓷與玻璃保存的訓練帶入當代金繼。",
+      "paragraphs": [
+        "福丸直子的創作，把陶瓷與玻璃保存的訓練帶入當代金繼。大維多利亞美術館於二〇二四至二〇二五年舉辦《修補之美》展覽，呈現她以漆與金處理破損器物的作品，並與館藏陶瓷和繪畫相互對照。修補痕跡被保留在視線之中，成為作品構成與敍事的一部分。",
+        "在她介紹的 Born This Way 系列裡，曾於製作過程中被淘汰的陶瓷，成為新的創作起點。變形與瑕疵不再只是挑選成品時的淘汰理由，而被重新閱讀為形態和故事。這些作品邀請觀者思考珍惜、失落和重新接納；情感寄託在具體的材料與裂縫上，使觀看從完整程度，移向器物如何經歷改變。",
+        "當修補進入藝術表達，裂痕可以承載記憶與情感。這些作品語言適合放在展覽和創作脈絡中欣賞；器物保存、材料用途與個人感受，仍各有需要清楚理解的層面。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "大維多利亞美術館：《修補之美》展覽",
+          "href": "https://aggv.ca/exhibits/beauty-of-mending/"
+        },
+        {
+          "label": "大維多利亞美術館：福丸直子談創作",
+          "href": "https://emagazine.aggv.ca/beauty-of-mending/"
+        }
+      ]
+    },
+    {
+      "slug": "master-18",
+      "family": "master",
+      "title": "Tomomi Kamoshita",
+      "description": "Tomomi Kamoshita 的作品把陶瓷碎片、海玻璃與漆結合，讓不同來源的殘片形成新的器形。",
+      "paragraphs": [
+        "Tomomi Kamoshita 的作品把陶瓷碎片、海玻璃與漆結合，讓不同來源的殘片形成新的器形。國際民間藝術市場的藝術家介紹，記錄她使用天然漆與黃銅粉，並以寄繼的方式安排異質碎片。透明與不透明、平滑與不規則的邊緣，在同一件作品中形成對照。",
+        "這種創作將修補發展成重新組合的藝術：碎片各自保留原來的色澤與紋理，接縫則建立新的節奏。觀者可以沿着器面辨認不同部分，也感受材料相遇後形成的整體。她的作品因而提供另一個閱讀修補的角度，從尋回既有器形，延伸到構想新的形態；修補的工序與當代創作，在清楚可見的接邊上相接。",
+        "寄繼讓來自不同器物的形狀與紋樣在同一作品中相遇。它與原片復位的目標不同，欣賞時可留意異片邊界、顏色和比例如何參與構圖，以及材料說明如何交代新增部分。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "國際民間藝術市場：Tomomi Kamoshita 藝術家介紹",
+          "href": "https://folkartmarket.org/ifamartiststories/ax8332gs8tb9g52-36pg9-87pc9-enz3l-g8mzg-nyrk9-jrsr9-7z2d3-g62sz-c93rd-5jszs-xje29-drwpb-2d384-tsf69-lrs98-7xlgp-n8b64-nfjed"
+        }
+      ]
+    },
+    {
+      "slug": "master-19",
+      "family": "master",
+      "title": "王振海 Wang Zhenhai",
+      "description": "撫順鋦瓷藝師王振海，人稱「王老邪」。他的鋦瓷工作以金屬鋦釘接合古舊陶瓷，亦透過講座和示範延續手藝。",
+      "paragraphs": [
+        "華山1914文化創意產業園的2015年活動檔案，記錄王振海以「王老邪」之名主持鋦瓷講座和工作坊，並介紹他與撫順市級非遺項目的關係。遼寧省文化廳的2014年活動獎項名錄，則把「王老邪鋦瓷技藝」列入撫順市的技藝展示獎項。兩份檔案分別留下講授活動和技藝項目的公開記錄。",
+        "2014年《楊浦時報》轉載新華社訪問，記錄王振海自述自幼跟隨祖父學藝；訪問亦描述他以不同式樣的銅釘修補古舊瓷器，讓釘件配合器物裂損和形態。這些採訪呈現鋦釘如何同時承擔接合與造形作用；家族傳承的說法則應理解為訪談中的自述。",
+        "傳藝脈絡亦有跨地區記錄：台中市豐原區公所刊出的漆藝家介紹，記載張睿峰於2011年向王振海學習鋦瓷。把這項學習紀錄與公開工作坊並讀，可以看見王振海的手藝由個人修補延伸至授徒和工藝交流。器物上的釘位與金屬形態既回應裂痕，也形成修補後的視覺秩序。",
+        "訪問亦細說，鋦釘設計會隨器皿大小、裂口位置和抓合需要而調整。這些選擇牽涉的不只是外觀：釘件須回應器形、裂口方向和固定需要，完成後的形態也留下工匠如何理解器物的痕跡。具體做法會因器物而異，單一作品不構成通用規格。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "遼寧省文化和旅遊廳：王老邪鋦瓷技藝展示獎項記錄",
+          "href": "https://whly.ln.gov.cn/whly/zwgk/tzgg/6356EB2CAA7B4312A856ECACFAA13340/index.shtml"
+        },
+        {
+          "label": "華山1914文化創意產業園：王老邪鋦瓷講座及工作坊（2015）",
+          "href": "https://www.huashan1914.com/w/huashan1914/exhibition_17082820123398041"
+        },
+        {
+          "label": "台中市豐原區公所：張睿峰向王振海學習鋦瓷的記錄",
+          "href": "https://www.fengyuan.taichung.gov.tw/982171/1514378/2515611/2586447/2776937"
+        },
+        {
+          "label": "楊浦時報（據新華社採寫）：王老邪鋦瓷工藝訪問（2014）",
+          "href": "https://yptimes.shyp.gov.cn/html/2014-06/21/content_5_4.htm"
+        }
+      ]
+    },
+    {
+      "slug": "master-20",
+      "family": "master",
+      "title": "李軍航 Li Junhang",
+      "description": "河北省非物質文化遺產代表性項目「鋦刻瓷技藝」傳承人李軍航，把刻瓷、書畫與鋦瓷結合，兼顧器物接合和釘件設計。",
+      "paragraphs": [
+        "河北省文化和旅遊廳公布的項目及代表性傳承人名錄，將「鋦刻瓷技藝」列於石家莊市長安區，傳承人一欄列出李軍航，為他的公開身分提供直接登記依據。2020年河北省文旅廳刊出的專訪記述，他自幼學習美術和刻瓷，接觸鋦瓷後持續鑽研，並向王振海學習較細緻的鋦瓷實踐。",
+        "李軍航的創作把修補和裝飾構思連在一起。人物報道描述，他會依瓷器原有的衝線、缺口與紋樣安排鋦釘，並把書法、繪畫和刻瓷經驗帶進釘件設計。鋦釘因此既承擔接合，也回應器表本身的形勢；每件器物的構圖仍要從其破損和原有裝飾出發。",
+        "2025年新華社報道記錄李軍航從事鋦刻瓷逾30年，並把技藝帶入校園和社區。與省級名錄和2020年的人物專訪並讀，三類資料分別呈現傳承人身分、學藝經歷與近年的傳習工作。觀察他的作品時，可以同時留意修補功能、釘件設計和工藝傳授，看到一門手藝如何在器物與公眾之間延續。",
+        "2020年專訪還提到，他會保存帶有前人修補痕跡的舊瓷，視為了解鋦瓷發展的實物材料。這把工藝傳承拉回可觀察的器物：孔位、釘件與接縫留下前次修補的線索，也補充了名錄和人物訪談無法單獨呈現的材料面貌。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "河北省文化和旅遊廳：非遺項目及代表性傳承人名錄（2019）",
+          "href": "https://whly.hebei.gov.cn/c/2019-10-09/558916.html"
+        },
+        {
+          "label": "河北省文化和旅遊廳：李軍航鋦刻瓷人物專訪（北京旅遊網刊載）",
+          "href": "https://www.visitbeijing.com.cn/article/47QtXQI58j4"
+        },
+        {
+          "label": "新華社：李軍航鋦刻瓷現場報道（2025）",
+          "href": "https://www.xinhuanet.com/culture/20251013/fdeaabae881c42a79e2061a2a0fb63b6/c.html?page=3"
+        }
+      ]
+    },
+    {
+      "slug": "material-01",
+      "family": "material",
+      "title": "陶瓷胎釉與斷面",
+      "description": "胎與釉是一件瓷器的骨與膚。先看吸水、粉化、彩繪和舊補，才知道裂口能不能清、能不能黏。",
+      "paragraphs": [
+        "陶瓷的初步辨識，需要分開觀察胎體、釉層、裝飾與舊修。玻璃、漆器和複合器物另有材料特性，不能僅憑光亮表面使用同一套處理方法。",
+        "另記胎色、孔隙、釉層、彩繪位置、裂縫走向及每片編號，照片要有比例尺和固定視角。",
+        "若器物穩定而用途只是保存，最合適的選項可能是分片包好、加托盤和避免搬動。無法分清釉上彩、舊補色或多孔胎時，可暫存並轉介；不必為了「看清楚」先洗一次。外部支架亦可取代直接黏合，讓碎片關係保留而不新增材料界面。",
+        "先以斜光和放大觀察，再在不顯眼位置做乾燥、低接觸的穩定性檢查。留意是否掉粉、變色或留下擦痕。涉及水分、溶劑或棉棒摩擦的測試由受訓人員設計，並同時觀察測試物和器物乾後的變化；不能只看當下是否乾淨。",
+        "緻密、無彩繪的瓷斷面與多孔、粉化的陶胎，承受水分和黏合劑的方式不同。若測試後表面沒有轉色、掉粉或吸入痕，可繼續低風險記錄；出現其中一項便修改方法。材料身份未明、裂縫連接口沿或底足，先停止介入。",
+        "完成判讀後，另一位讀者應能按照片指出胎、釉、彩繪、舊修補和斷面位置，並明白哪一區可接觸、哪一區不可。器物沒有新增濕痕、擦痕或鬆動；分類若仍不確定，記錄須明寫「材料假設」，不可把推論寫成鑑定結果。",
+        "暫存後在相同光線重拍斷面，對照有沒有新粉末、裂縫加深、舊膠滲色或包裝纖維黏附。日後若需黏合，先重讀最初照片和測試結果；早期判讀只是一個基線，不代表材料永遠保持相同反應。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fracture.webp",
+          "alt": "兩塊白色釉面陶瓷的分離斷面近照，粗糙胎體與薄亮釉層可辨。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/porcelain.webp",
+          "alt": "素白瓷、青釉和赤陶三塊樣本平放，斷面呈現由細密到較粗糙的胎質差異。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.vam.ac.uk/articles/a-z-of-ceramics",
+          "label": "V&A：陶瓷 A–Z — An A–Z of Ceramics"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-ceramics-glass.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃照護筆記 5/1 — Care of Ceramics and Glass — CCI Notes 5/1"
+        }
+      ]
+    },
+    {
+      "slug": "material-02",
+      "family": "material",
+      "title": "黏合劑：B-72、環氧與膠類",
+      "description": "膠不是越牢越好。保存修復重視穩定、可再處理性與老化；家用修補追求方便，兩者不可混作一談。",
+      "paragraphs": [
+        "比較黏合劑前，先理解器物用途、斷面狀況、接合關係，以及日後可能如何再處理。Paraloid B-72 是熱塑性丙烯酸樹脂；環氧樹脂則有不同的固化與移除特性。",
+        "記下商品全名、批次、配製者、日期、接縫位置、測試片、清理方法及用途限制；不以「透明膠」代替材料身份。",
+        "碎片可分格暫存，以托盤和照片保留相對位置；穩定裂縫可不處理，只限制搬運。若展示需要閱讀輪廓，可用外部支架承托。環氧並非 B-72 的「更強版本」，兩者在固化、接縫厚度、老化及退路上不同；材料不明時由修復人員取樣或延後決定。",
+        "測試應在相同或可犧牲樣片上比較流動、潤濕、固化外觀和日後移除反應，再在不顯眼處核對基材和彩繪是否敏感。沒有通風、個人防護和受訓監督，不進行溶劑處理。",
+        "薄而吻合的接縫、展示用途和可控制的移除條件，才可能評估 B-72。它不是自動可逆；可再處理性由物件、材料、老化和移除條件共同決定。需要填隙或承受較大負荷時，也不能直接跳到環氧，先問原件能否承受更硬的膠層及日後拆除代價。",
+        "接合後碎片位置正確，沒有錯台、溢膠、拉開或局部受力；在斜光下仍能辨識接縫，文件亦能指出材料與範圍。完成品只按已核定用途展示，不因外觀連續便宣稱可接觸食物、熱水、洗碗機或承重。",
+        "複查接縫有沒有黃化、發黏、收縮、灰塵黏附或新裂。若日後重做，先按當時的材料狀態與原件表面重新測試；舊記錄只能提供起點。任何膠都不承諾無損退除，尤其多孔胎、彩繪邊和已被舊膠污染的位置。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/adhesives.webp",
+          "alt": "透明顆粒、空玻璃瓶及盛少量透明液體的玻璃瓶分置三個托盤。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://cameo.mfa.org/wiki/Paraloid_B-72",
+          "label": "波士頓美術館 CAMEO：Paraloid B-72 — Paraloid B-72"
+        },
+        {
+          "href": "https://www.dow.com/en-us/pdp.paraloid-b-72-100-resin.154799z.html",
+          "label": "Dow：PARALOID B-72 100% 樹脂 — PARALOID™ B-72 100% Resin"
+        },
+        {
+          "href": "https://www.nature.com/articles/s40494-019-0283-9",
+          "label": "Heritage Science 原始研究：溶劑對 B72／B44 膠膜的影響 — Effect of solvent on PARALOID B72 and B44 acrylic resins used as adhesives in conservation（2019）"
+        },
+        {
+          "href": "https://www.hisglassworks.com/manuals/HXTAL_Tech_Sheet.pdf",
+          "label": "HXTAL 原廠：NYL-1 環氧樹脂技術表 — HXTAL NYL-1 Technical Sheet（PDF）"
+        }
+      ]
+    },
+    {
+      "slug": "material-03",
+      "family": "material",
+      "title": "填補材料：石膏、微球與樹脂膏",
+      "description": "補料要懂得退一步。太硬會傷原件，太重會改變受力；真正好的填補，是支撐而不搶戲。",
+      "paragraphs": [
+        "填補可用於保護脆弱邊緣、協助形體理解或回應展示需要。缺口若穩定而不妨礙保存，保留原狀亦是合理選擇。",
+        "另存缺口輪廓、深度、邊緣狀況、隔離界面、填料組成、樣板結果、補配範圍及完成後重量。",
+        "沒有結構需要的缺口可原樣保存，以支架或背景色改善展示。薄弱邊緣可先加外部託承，不必立即填滿。若缺失形狀只靠想像，應保留空白或使用可移走的展示模型；填補不等於重造原來器形，更不應把猜測磨成仿真古件。",
+        "先用相近深度的獨立樣板觀察填料流動、乾燥收縮、硬度、吸水和修整粉塵，再測試隔離界面能否分開。石膏多孔而吸污，樹脂膏可能較硬或較重，微球只會改變填料性質，不會自動使材料相容。配方和比例須由受訓人員按系統決定。",
+        "只為封住鬆散邊緣，所需體積與硬度通常低於重建大缺口；要承托接縫，則先計算受力和原胎強度。測試層若比原件硬、拉扯邊緣或難以修整，便改用較輕、較柔或外部支承方案。多孔胎、粉化邊及價值未明的器物先停止。",
+        "合格補配在正常觀看距離不搶眼，近看或斜光下可辨新舊交界；手指不應觸到尖角、鬆粉或突出硬邊。補料沒有壓住彩繪、填入原有孔洞資料或令器物失衡，底部亦保持穩定。文件須說明哪些輪廓有物證支持，哪些只是展示選擇。",
+        "複查時以斜光比較補層裂紋、離邊、變色、粉化和附近原胎的新裂。石膏及其他多孔填料容易吸入污物，包裝不可直接磨擦表面。日後退除前先確認隔離界面和原邊狀況；能拆下補塊，不等於過程不會帶走脆弱胎粉。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/plaster.webp",
+          "alt": "植物紋白色石膏淺浮雕缺去一角，安放在淡青色襯墊承托上。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "material-04",
+      "family": "material",
+      "title": "補色與保護層",
+      "description": "補色不該偽裝完整；它只是讓視線安定下來。遠看可讀，近看可辨，是修復裡很重要的一種誠實。",
+      "paragraphs": [
+        "補色建立在穩定的補配層與清楚邊界上，目的是調整缺口對觀看的影響。原彩、表面劣化與日後用途，應在選擇顏料和保護層前一併理解。",
+        "記錄顏料與媒介、保護層、批次、樣板、補色圖、觀看光源、完成照片及近看辨識方式。",
+        "背景顏色、照明角度和展示距離已可減低缺口乾擾時，可保留未補色狀態。另一選項是隻用中性色壓低明暗反差，不重畫紋飾。原畫證據不足、補配層不穩或觀眾需要研究磨損時，保持可見缺失比仿畫完整更誠實。",
+        "先在與補配層相同的樣板上試色，放到預定光源及觀看距離比較，待完全乾後再看。測試要包括擦拭、相鄰材料反應和保護層相容性；不在原彩上尋找「最接近」顏色。噴塗、溶劑和紫外線操作屬受訓人員範圍，",
+        "若缺口搶走視線，但輪廓和紋飾證據清楚，可用有限補色改善閱讀。近看不能分辨新增部分，或需要跨過原釉才能連圖，便應降低整合程度。原彩鬆動、材料身份不明、器物可能接觸食物或熱力時停止，轉介作材料和用途評估。",
+        "正常距離下，補配區不再成為第一視覺焦點；走近、轉斜光或查閱補色圖時，仍可清楚找到新舊邊界。顏料沒有越過原作，光澤不形成突兀亮斑，狀況裂縫亦未被遮蓋。合格不等於把所有歲月痕跡塗平。",
+        "在相同光源和相機設定下重拍，對比顏色、光澤、表面黏塵和邊界翹起。保護層變黃或補色失配時，先按媒介、底層和原彩敏感度重新測試，不能直接覆蓋第二層。日後可再處理性依賴完整材料記錄和清楚界面。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/colour.webp",
+          "alt": "青花瓷碎片旁放着中性灰卡，以及三張深淺不同的藍色試色紙。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/retouch.webp",
+          "alt": "白瓷樣片上的五個灰白試色點，旁邊放有同色系的調色碟。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://vanda-production-assets.s3.amazonaws.com/2019/04/03/14/22/51/43a4b5c7-dcfe-4d22-a4ab-677e197f7285/caring_for_your_ceramics.pdf",
+          "label": "V&A：陶瓷器物與地磚照護 — Caring for your ceramic objects and floor tiles（PDF，2018）"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "material-05",
+      "family": "material",
+      "title": "天然漆、地粉與金粉",
+      "description": "漆有自己的時間。金繼與漆器修復靠濕度、層次和等待，金色效果材料不能替代傳統漆工序。",
+      "paragraphs": [
+        "天然漆系統涉及漆材、填層、表面完成與固化條件。接合與裝飾各有作用，材料來源、工藝脈絡及完成用途應有清楚記錄。",
+        "記下漆、地粉、裝飾粉來源和批次、每層位置、操作者、防護、固化觀察、樣板及用途限制。",
+        "若目的只是展示裂縫，可選用可辨識的中性色補配或外部支承，不必接觸天然漆和金粉。也可保留裂痕，用照片和照明引導觀看。對高價、文物、材料不明或仍可能接觸飲食的器物，暫存和轉介比模仿金繼外觀更負責任。",
+        "天然漆可令未有適當防護的人皮膚致敏；初學者不以原件試手。受訓人員先在獨立樣板觀察每層固化、收縮、附着、光澤和裝飾粉反應，再評估器物表面。",
+        "天然漆固化後難退除，不能當作可輕鬆重做的裝飾媒介。只有器物脈絡支持這種工藝、接縫穩定、持有人明白長期限制，而且操作環境受控，才可繼續。若只想要金色、原彩敏感、裂縫承重或用途涉及食物和熱力，應修改方案或停止。",
+        "漆層在既定環境下均勻固化，沒有發黏、皺縮、氣泡、離邊或污染原釉；填層沒有突出尖邊，金粉亦只在預定裝飾範圍。近看可辨原件和新增部分，文件能逐層對應材料。外觀完成不代表器物恢復飲食、熱水或洗碗機用途。",
+        "複查漆層硬化狀態、光澤、灰塵黏附、填層裂紋和接縫移動。天然漆對環境和清潔方式有特定要求，不能用一般溶劑試擦。若要重做，須由熟悉漆層和器物基材的人重新評估；原有層次及樣板記錄是日後判斷退路的基礎。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/urushi.webp",
+          "alt": "有蓋深色容器、置於筆架的幼筆與一小碟金色粉末分開放在托盤內。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/kintsugi.webp",
+          "alt": "一隻空的青釉茶碗，器表有克制而纖細的金色修補線。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.si.edu/collections/snapshot/beauty-broken-objects",
+          "label": "Smithsonian：破損器物之美 — The Beauty of Broken Objects"
+        },
+        {
+          "href": "https://folklife.si.edu/magazine/japanese-kintsugi-yuko-gunji",
+          "label": "Smithsonian 民俗文化中心：Yuko Gunji 與金繼修補 — Japanese Kintsugi and the Art of Repair with Yuko Gunji"
+        },
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/22077437/",
+          "label": "皮膚科原始病例：金繼所用漆酚引起廣泛接觸性皮膚炎 — Widespread contact dermatitis caused by urushiol in kintsugi（2011）"
+        }
+      ]
+    },
+    {
+      "slug": "material-06",
+      "family": "material",
+      "title": "金屬鋦釘、包鑲與支撐件",
+      "description": "金屬能補強，也會留下很難回頭的孔位、應力和腐蝕問題。舊釘未必是瑕疵；也可能是生活史。",
+      "paragraphs": [
+        "鋦釘、包鑲與外部支架，以不同方式參與器物受力。原有金屬構件可能兼具結構與歷史意義，新增承托則需避開脆弱部位與原有裝飾。",
+        "逐件記金屬位置、形狀、顏色、磁性觀察、腐蝕類型、舊孔、接觸墊層、鬆動程度和歷史資料。",
+        "器物若只需展示穩定，可用託座、墊層或獨立框架分散受力。鬆動碎片可分開暫存，避免金屬繼續拉扯孔邊。舊釘、包鑲和填配可能記錄過往使用及修補技術；在來源和價值未評估前，保留現況通常比拆走再造更合適。",
+        "先以固定光線、放大和照片辨別表面是否正在掉粉、滲液或擴展，再檢查金屬與陶瓷接觸點有沒有裂紋。穩定表面不因有鏽色便要清除。",
+        "舊修補穩定、孔邊無新裂且器物有歷史脈絡，可保留並改善外部支承。出現活性腐蝕但金屬仍有資料價值，先隔離、控制環境和轉介，並非直接拆除。金屬件正在膨脹、刺穿胎體或承重不明時停止搬動，由修復人員制定處理次序。",
+        "器物在託座上穩定，金屬不刮擦相鄰表面，舊孔和接縫沒有新增壓力；每件金屬的狀況可在照片中對應。保留的鏽層有分類理由，活性腐蝕則有隔離和轉介安排。外觀沒有翻新，不代表工作未完成。",
+        "複查新粉末、滴痕、斑點擴展、金屬變形、孔邊裂紋和託座壓痕，並記錄環境與包裝變動。初學者只做觀察、隔離和安全暫存。日後若要拆除舊金屬，先評估其歷史證據、陶瓷脆弱度及拆卸後支承方案，不能只以除鏽後外觀作標準。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/staples.webp",
+          "alt": "陶碗上的三枚深色金屬鋦釘跨過裂縫，兩端入孔位置清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/metal.webp",
+          "alt": "帶灰綠氧化痕跡的小金屬器，安放在貼合器形的淺色承托內。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.britishmuseum.org/collection/object/W_2009-6017-55",
+          "label": "大英博物館：伊朗出土的青瓷修補碗片 — Bowl, museum number 2009,6017.55"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "material-07",
+      "family": "material",
+      "title": "儲存、展示與包裝材料",
+      "description": "修補完成後，器物仍要過日子。支撐、濕度、光線、包裝和搬運，決定它能否安穩留下來。",
+      "paragraphs": [
+        "保存材料要配合器物的形狀、重量、表面狀況與存取方式。軟墊、托盤、分隔盒和展示支架各有作用，不能只按外觀柔軟便判定相容。",
+        "記錄器物尺寸重量、重心、脆弱點、盒與墊材、接觸位置、擺放方向、搬運路線、開箱方法和複查日期。",
+        "若現有位置穩定而新包裝會增加搬動風險，可先圍封範圍、限制接觸和改善標籤。短期暫存可用托盤把碎片分格，展示則可改變角度或背景，不必用夾具迫緊器物。環境不穩、運送路線未清或箱體不合尺寸時，延後移動並尋求專業包裝設計。",
+        "在原件入盒前，先檢查墊材會否掉屑、染色、發黏或釋出異味，再用相近重量的模擬物測試重心、取放和輕微移動。包裝應能看見標籤和抓手位置，不要求手指伸入器物脆弱位置。金屬器還要留意材料污染和濕度風險。",
+        "器物完整、路線短而有托盤，可用簡單承托；碎片多、重心高、舊修補鬆動或運送有震動，需升級為分格、限位及專業箱體。墊材若壓住接縫或要擠迫才可關盒，便修改尺寸。出現活動碎片、活性腐蝕、粉化表面或材料污染時先停止封箱。",
+        "輕微改變托盤方向時器物不滑動，墊材只託穩定部位，盒蓋不接觸最高點；開箱者按標籤可在不抓口沿和接縫的情況下取出。展示座不令底足翹起，修補區沒有集中受力。包裝材料和器物編號須一一對應。",
+        "定期查看泡棉回彈、紙材變色、膠帶失效、盒內灰塵、濕氣、蟲害和器物移位；每次搬運後重拍脆弱點。材料老化或器物狀況改變時，先調整承托，不在舊墊材上不斷加壓。長期保存方案要隨用途、環境和搬運頻率更新。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/packing.webp",
+          "alt": "打開的灰色保存盒有兩個獨立隔間，白色軟墊分別承托青花瓷杯和碎片。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/storage.webp",
+          "alt": "帶蓋灰色保存盒與青花瓶分開擺在層架上，瓷瓶底部有白色承托墊。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/five-steps-safe-shipment.html",
+          "label": "加拿大文物保存研究所：安全運送五步 — Five Steps to Safe Shipment — CCI Notes 20/3"
+        }
+      ]
+    },
+    {
+      "slug": "method-01",
+      "family": "method",
+      "title": "可再處理的陶瓷黏接",
+      "description": "由斷口、舊修補與日後移除條件出發，理解陶瓷黏接的可再處理性及展示用途限制。",
+      "paragraphs": [
+        "先看斷口有沒有鬆動彩繪、粉化胎體、舊膠或缺片。CCI 提醒，老化黏合劑可能變脆、變色或難以溶解；盲目拆舊修補，反而會把斷口表面一併拉走。",
+        "以下圖片只供觀察，不是可照做的黏接示範。修補後只宜展示，不承重、不受熱，也不接觸食物、飲品或口部；古董、粉化胎體、鬆動彩繪和舊膠不明的器物先交專業人員。",
+        "碎片關係清楚、斷口能在不受拉扯下貼合，而且器物已改作展示，才可進一步評估黏接。釉上彩鬆動、胎體粉化、來源或價值未明，均應先停手並轉介。",
+        "不處理也是選項。可把碎片分格承托和標示，或只為展示製作外部支撐。若舊接縫經檢查仍穩定，可先監察，不因顏色欠佳便急於拆除。",
+        "先用照片和碎片圖核對乾拼次序，觀察接縫能否自然合攏；另在不顯眼處檢查表面會否被標籤、支撐或擬用材料影響。測試結果要先記錄，才決定是否處理。",
+        "接縫吻合、表面穩定而用途清楚，可繼續。若要靠壓力拉合，應修改支撐或重排次序。出現新裂、掉彩、舊膠鬆落或任何材料反應，就停止並保存現況。",
+        "撤去臨時支撐後，碎片位置不移，接縫兩側沒有新增高低差，釉面亦沒有新污痕。驗收只代表展示狀態可接受，不代表恢復承重、盛液或飲食功能。",
+        "接縫發白、膠線擴闊、碎片慢慢滑位、斷口旁出現剝落，都是失敗徵兆。不要再加更多黏合劑掩蓋問題；應先減少搬動，保留脫落物並交修復人員檢查。",
+        "保存處理前後照片、碎片編號圖、舊修補位置、材料名稱與批次、處理日期、接縫順序、測試結果及用途限制。避免只寫「已修好」，因為下一次檢查無法據此比較。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/adhesives.webp",
+          "alt": "透明顆粒、空玻璃瓶及盛少量透明液體的玻璃瓶分置三個托盤。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://cameo.mfa.org/wiki/Paraloid_B-72",
+          "label": "波士頓美術館 CAMEO：Paraloid B-72 — Paraloid B-72"
+        },
+        {
+          "href": "https://www.nature.com/articles/s40494-019-0283-9",
+          "label": "Heritage Science 原始研究：溶劑對 B72／B44 膠膜的影響 — Effect of solvent on PARALOID B72 and B44 acrylic resins used as adhesives in conservation（2019）"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "method-02",
+      "family": "method",
+      "title": "缺口填補與補色",
+      "description": "缺角填補只為恢復器形閱讀，不應蓋過原釉或偽裝成未破。",
+      "paragraphs": [
+        "開始前先分清結構接縫和表面缺口。接縫仍活動時，填料會承受本來不應承受的力；若原彩一碰便移動，任何修形或補色都要延後。",
+        "接縫已穩定、缺口輪廓有足夠資料可依循，而且展示閱讀確實受缺失影響，才考慮局部填補。若缺口承重、原釉粉化或器物仍要求日用，需另行評估方案與用途。",
+        "可保留缺口，只以合適支架改善展示；亦可製作不黏附原件的外部補形，讓觀眾理解完整輪廓。歷史舊填補若仍穩定並具資料價值，可記錄後保留。",
+        "以斜光、放大觀察及色卡先記下原面質感，再在不顯眼的小範圍測試隔離層和補色是否改變光澤、滲入裂紋或帶起顏料。測試區也要納入照片。",
+        "測試沒有令原面變色或鬆動，可按最小範圍繼續。若新補輪廓需要大量猜測，應改為較低、較簡化的補配。表面起粉、補料拉扯原邊或顏色轉移時立即停止。",
+        "正面觀看時器形連貫，轉到斜光或近看仍能辨認新舊邊界。填補不可高過原面、蓋住釉彩或造成尖邊；補色只收斂幹擾，不仿造磨損和年代痕跡。",
+        "乾後收縮形成凹縫、補料變硬而頂裂原邊、補色滲入開片，或光澤與周圍差異愈來愈大，都顯示材料或層次不合。先停止修飾，隔離器物並評估能否安全移除新補。",
+        "記下缺口量度、補配邊界圖、隔離與填補材料、補色媒介、色卡、測試位置、每層日期及斜光照片。交付文件要說明補配可辨，並列明展示和清潔限制。",
+        "覆查新補有沒有裂開、變色、翹起或與原邊分離。可再處理性取決於隔離界面、材料老化和移除時能否避開原釉；不能單憑填料名稱便保證日後可完整退除。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/retouch.webp",
+          "alt": "白瓷樣片上的五個灰白試色點，旁邊放有同色系的調色碟。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "method-03",
+      "family": "method",
+      "title": "鋦瓷金屬釘修補",
+      "description": "鋦瓷用金屬釘跨住裂縫，適合厚胎器物；薄胎、高價或來源未明者先停。",
+      "paragraphs": [
+        "評估先於手藝。胎體厚薄不一、斷口粉化、裂縫末端受力、孔位靠近缺口，以及金屬日後腐蝕，都可能把原有裂紋變成新的結構風險。",
+        "只有在器物價值、胎體結構、裂縫走向及展示目標已由合資格人員查清，而且持有人明白會新增永久孔痕，才可把鋦瓷列為候選方案。薄胎、粉化胎和釉彩靠近裂縫者不適用。",
+        "可選擇外部承托、限制搬動、維持舊修補，或由陶瓷修復師評估黏接。British Museum 一項處理紀錄顯示，裂紋經檢查後若判定穩定，不加固也可以是決定；該個案只支持判斷原則，不是通用工序。",
+        "先以放大觀察、斜光和現況照片確認裂縫有沒有延伸，並在圖上標出厚薄轉折、缺口、舊孔和裝飾。金屬種類及舊鋦釘若不明，只記錄外觀，不自行刮取或拆卸。",
+        "專業評估確認裂縫需要機械限制、候選孔位不會切斷脆弱邊緣，才可能繼續。若可用承托達到展示目標，應修改為較少介入。出現裂縫擴展、粉化或金屬腐蝕便停止。",
+        "驗收看裂縫有沒有被撐開、金屬有沒有鋭邊或鬆動，以及器物在展示支撐上是否穩定。鋦釘存在不等於可承重，也不代表器物可以回復盛液、受熱或飲食用途。",
+        "孔邊出現放射裂紋、釘腳翹起、裂縫張開、陶胎被金屬染色，或周圍有新粉末，均要停止搬動。不要敲緊釘腳或塗覆防鏽材料掩蓋問題，應由陶瓷與金屬修復人員共同檢查。",
+        "文件須包括鋦修前照片、孔位圖、裂縫與受力方向、金屬判斷、舊修補狀態、專業評估理由、持有人同意及展示限制。永久介入的理由要寫得比外觀描述更清楚。",
+        "鋦孔本身不能還原，日後工作只能評估保留、調整或移除金屬的代價。定期比較孔邊裂紋、金屬顏色和接縫寬度；任何變化都先降低搬動與環境波動，再安排專業轉介。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/staples.webp",
+          "alt": "陶碗上的三枚深色金屬鋦釘跨過裂縫，兩端入孔位置清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/foot.webp",
+          "alt": "倒置在平整軟墊上的青花碗，完整圈足和沒有款識的碗底清楚可見。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.britishmuseum.org/collection/object/W_2009-6017-55",
+          "label": "大英博物館：伊朗出土的青瓷修補碗片 — Bowl, museum number 2009,6017.55"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "method-04",
+      "family": "method",
+      "title": "金繼本堅地修復",
+      "description": "金繼用漆、地粉與金粉承認裂痕；它慢，重點不只是金色效果。",
+      "paragraphs": [
+        "金繼的判斷重點在分層結構。每一層都要有足夠等待時間，上一層狀態未明便覆蓋，日後出現的皺縮、黏手或裂紋會被金色表面遮住，難以找回原因。",
+        "器物已改作展示、持有人接受可見修補和較長等待，並由受訓漆藝或修復人員在合適工作環境處理，才可考慮金繼。來源未明的文物、活動裂紋和鬆動彩繪先轉介。",
+        "可採用可辨的陶瓷黏接與局部補配，亦可保留裂痕並加外部承托。若現有裂紋穩定而處理只為追求金線，可先不處理，以照片和監察保存當前狀態。",
+        "受訓人員先核對斷口、舊膠與表面裝飾，再以獨立試樣觀察擬用漆材的固化、色澤和表面反應。器物上的最小測試只在不顯眼處進行，並記錄日期與觀察結果。",
+        "上一漆層均勻、穩定且接縫沒有移動，才可評估下一層。若等待後仍黏手、起皺或軟硬不一，應修改材料或環境安排。出現皮膚反應、通風問題、裂縫活動便停止。",
+        "接縫位置穩定，填補沒有覆蓋原釉，漆層表面連續而新舊邊界仍可理解。金色層只作最後的可見表面；亮度或線條整齊不能代替結構與固化驗收。",
+        "漆面長期黏手、起皺、凹陷、局部失光，金粉鬆落或接縫重新張開，都是失敗徵兆。先隔離器物、避免觸摸，不以新漆覆蓋；應由受訓人士判斷是哪一層出現問題。",
+        "逐層記下漆材名稱與批次、上漆及檢查日期、等待情況、試樣結果、填補邊界、金屬粉材料和前後照片。未有可靠數據時，只記錄實際環境，不把單一參數寫成保證。",
+        "漆層與陶瓷、填料和金屬表面結合後，日後移除可能牽動多個界面，不能假定容易退除。覆查時比較黏手、裂紋、翹邊、粉末和光澤；環境改變後更要留意。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/kintsugi.webp",
+          "alt": "一隻空的青釉茶碗，器表有克制而纖細的金色修補線。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/urushi.webp",
+          "alt": "有蓋深色容器、置於筆架的幼筆與一小碟金色粉末分開放在托盤內。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.si.edu/collections/snapshot/beauty-broken-objects",
+          "label": "Smithsonian：破損器物之美 — The Beauty of Broken Objects"
+        },
+        {
+          "href": "https://folklife.si.edu/magazine/japanese-kintsugi-yuko-gunji",
+          "label": "Smithsonian 民俗文化中心：Yuko Gunji 與金繼修補 — Japanese Kintsugi and the Art of Repair with Yuko Gunji"
+        },
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/22077437/",
+          "label": "皮膚科原始病例：金繼所用漆酚引起廣泛接觸性皮膚炎 — Widespread contact dermatitis caused by urushiol in kintsugi（2011）"
+        }
+      ]
+    },
+    {
+      "slug": "method-05",
+      "family": "method",
+      "title": "呼繼異片重組",
+      "description": "呼繼用異片補缺，可以有創作意味，但補片來源必須說清楚。",
+      "paragraphs": [
+        "先問器物是否適合改作創作展示。具考古、家族、收藏或市場資料價值的原件，不應因缺片便任意加入另一件舊片；估值與真偽未清時，先分開保存。",
+        "原件與異片均無待查的收藏或考古價值，來源文件齊備，持有人接受明顯新舊差異，而且完成品只作創作展示，才適合評估呼繼。任何一片來歷不明，都先分開保存。",
+        "可保留缺失，以支架托出原有輪廓；亦可使用明顯屬新造的中性補片，避免另一件舊器物被拆作材料。若組合只在照片或數碼模型中測試，也能比較視覺效果而不碰原件。",
+        "先在墊層上乾拼，檢查接觸點會否把力集中在尖薄邊緣，再拍攝正面、側面和底部。測試同時核對標籤能否清楚指出每片來源，不能只靠顏色差異辨認。",
+        "異片不需磨改原邊、接觸位置穩定而來源完整，可進一步設計。若要削去舊片才能勉強吻合，應改用外部支撐或新造補片。發現原片混淆、粉化或價值未明便停止。",
+        "完成後從近處可分辨原片、異片與新增接合，展示說明亦能逐片對應。整體站立穩定，不靠脆弱口沿承重；可讀性改善不能以掩蓋來源或模仿完整古物為代價。",
+        "交界出現翹角、異片重量令原片移位、標籤脫落，或觀眾容易把組合誤認為原製器物，均屬失敗。先撤去不穩展示，保留各片原有編號，再重新檢討組合方式。",
+        "為每片建立正反面照片、尺寸、來源、取得日期和舊有損傷；另存乾拼圖、接觸位置、接合材料、組合日期、創作聲明及展示標籤版本。資料應隨作品一同移交。",
+        "定期比較各片有沒有滑移、接縫變色或新裂。日後拆分時要按每種胎體與表面裝飾重新評估移除條件；異片可拆不代表原片完全不受影響，因此不承諾無痕還原。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/yose-tsugi.webp",
+          "alt": "青灰釉茶碗的口沿缺角接入一塊白底藍花的青花瓷異片，異片貼合碗身弧度，接合邊界以細金線連接。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://folklife.si.edu/magazine/japanese-kintsugi-yuko-gunji",
+          "label": "Smithsonian 民俗文化中心：Yuko Gunji 與金繼修補 — Japanese Kintsugi and the Art of Repair with Yuko Gunji"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "method-06",
+      "family": "method",
+      "title": "玻璃器透明黏接",
+      "description": "玻璃修補最難藏拙；透明、折射、氣泡和使用安全要分開看。",
+      "paragraphs": [
+        "玻璃硬而脆，裂紋亦容易延伸。杯口、把手、底足或承壓位置一旦破損，即使接縫看似通透，也不應把外觀改善解讀成使用安全。",
+        "只有展示器物、斷面關係清楚、裂紋沒有持續延伸，而且支撐方式不把重量壓在接縫上，才可評估透明黏接。杯口、承壓容器、劣化玻璃和食品用途都不適用。",
+        "可用透明或中性色外部支架承托，讓碎片並置展示；亦可保留穩定舊修補，先記錄其變色情況。接縫隻影響外觀而結構仍穩時，不處理比拆除舊膠更保守。",
+        "在白、黑背景和斜光下記錄裂紋，再以無膠乾拼觀察接觸面、白線和應力集中。候選材料只在獨立玻璃試樣比較透明度、氣泡、黃變和退除方式，不在器物上試配方。",
+        "斷面自然貼合、裂紋位置穩定且展示支撐清楚，可繼續專業評估。若必須拉壓才對位，應修改支撐或放棄黏接。裂紋擴展、表面出現霧化或片狀剝落時立即停止。",
+        "撤去臨時支撐後接縫不移，玻璃沒有新增白線、崩口或尖邊；展示架亦不碰脆弱位置。折射率接近只能減少視覺幹擾，不能當作結構、耐熱或食品接觸驗收。",
+        "膠線變黃、出現氣泡或霧面，碎片滑位，舊裂紋末端新增白線，均可能反映材料老化或應力轉移。先停止搬動與清潔，不用熱力或溶劑自行拆膠，交玻璃修復人員檢查。",
+        "保存裂紋圖、斷面與舊修補照片、玻璃劣化徵兆、乾拼次序、材料名稱與批次、試樣結果、處理日期、支撐方法及展示限制。拍照要同時保留光源和背景資料。",
+        "定期以相同角度和光線比較膠線顏色、氣泡、裂紋長度和接縫位置。材料老化後的溶解性與界面可能改變；日後能否移除，要按玻璃表面狀態和舊修補重新測試。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/glass.webp",
+          "alt": "有一處杯口崩缺的透明玻璃杯，直立放在淺色凹位承托上。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/glass-inspection.webp",
+          "alt": "三塊透明玻璃器碎片分開放在深灰承托墊上，側光映出斷口與局部缺損，旁邊平放放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.hisglassworks.com/manuals/HXTAL_Tech_Sheet.pdf",
+          "label": "HXTAL 原廠：NYL-1 環氧樹脂技術表 — HXTAL NYL-1 Technical Sheet（PDF）"
+        }
+      ]
+    },
+    {
+      "slug": "method-07",
+      "family": "method",
+      "title": "漆器裂縫與剝落穩固",
+      "description": "漆器先求穩固，不急着補漂亮；漆層、木胎和濕度要一起看。",
+      "paragraphs": [
+        "漆面不是獨立薄膜。木胎或其他底材因環境變化而伸縮、翹曲，會把應力傳到漆層；只把表面壓平，沒有找出底材變化，剝落可能很快再現。",
+        "真正固着只在漆材、層次、底材和價值已由受訓專業人員查清後考慮；粉化或大範圍活動者直接轉介。",
+        "暫時不加材料，可先把器物平穩放入有承托的盒內，避免纖維勾住翹邊，並減少搬動。若環境仍反覆變化，先改善存放及監察，比急於壓平或補色更有作用。",
+        "在不接觸表面的情況下，以固定角度斜光拍攝剝落邊界，畫出底材裂縫和漆層活動範圍。專業人員如需測試材料，只在極小且不顯眼位置進行，並先處理致敏防護。",
+        "剝落範圍穩定、底材沒有持續變形，專業人員才可考慮最小固着。若環境變化仍令裂縫開合，應修改為承托和監察。翹邊增加、漆粉脫落或人員出現過敏反應便停止。",
+        "同角度斜光下，原有翹邊不再移動，沒有新漆片或粉末脫落，底材亦受妥善承托。驗收不要求把舊漆壓成全平，更不以補色遮掉原有磨損和層次。",
+        "固着後漆面變暗、起皺、出現潮痕，翹邊旁新增裂紋，或底材繼續彎曲，都表示處理與層次不相容。立即停止觸碰和覆蓋，保留脫落漆片並連同位置圖交專業人員。",
+        "記下漆層、底材和舊修補的可見特徵，剝落位置圖、脫落片編號、環境變化、照片光線、搬運方式、測試位置、材料批次及處理日期。過敏或防護事件亦要記錄。",
+        "覆查時以相同照片比較翹邊、裂縫和底材形狀。Getty 的漆器研究提醒，漆層與底材會受環境變化影響；日後處理須重新理解整個層次，不能只在表面加一層材料。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/lacquer.webp",
+          "alt": "深紅漆碗口沿有一小處剝落，局部露出深色木胎與表面層次。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/publications/virtuallibrary/0892360968.html",
+          "label": "Getty Conservation Institute：漆層、底材、環境影響與專門訓練"
+        },
+        {
+          "href": "https://unframed.lacma.org/2021/08/04/repair-and-recycle-practicing-kintsugi-conservators",
+          "label": "LACMA：天然漆的致敏風險及受訓操作界線"
+        }
+      ]
+    },
+    {
+      "slug": "method-08",
+      "family": "method",
+      "title": "金屬器狀況檢查與暫存轉介",
+      "description": "從金屬表面、腐蝕變化與鬆動部件，理解狀況記錄、承托和保存安排。",
+      "paragraphs": [
+        "穩定包漿通常附着而變化緩慢；活性腐蝕可見新粉末、鬆片、裂開或剝落。顏色本身不能單獨下結論，要用同角度照片和一段時間的變化作比較。",
+        "任何人都可在不觸碰表面的前提下做外觀記錄和安全暫存。至於清理、補強或緩蝕，只適用於金屬、合金、鍍層、原有表面和腐蝕活動已由金屬修復人員辨明的器物。",
+        "不直接處理表面，可先隔離水分、塵埃和會釋出污染物的包裝，為鬆動部件製作無壓力承托，並安排專業轉介。穩定表面只需監察時，不必為追求光亮而清除。",
+        "在固定光線下拍攝正面、底部、鬆動足和粉末位置，旁置尺度與色彩參照；一段時間後按同角度重拍。不要刮取表面來測硬度，也不要用濕棉棒試「能否洗走」。",
+        "照片顯示表面附着而沒有新增粉末，可繼續監察。若包裝積水或支撐壓着鬆動位置，先修改暫存。發現新粉末、鬆片、異金屬接觸、液體痕跡或部件移動便停止搬運並轉介。",
+        "狀況圖能清楚對應每個觀察位置，器物在盒內不滾動，鬆動部件不承重，標籤沒有直接貼在金屬上。穩定暫存與清楚記錄，為之後的腐蝕判斷提供基礎。",
+        "盒底出現新粉末、腐蝕層裂開或剝落、金屬接觸點變色、表面有濕氣，均顯示狀況可能惡化。不要擦走證據；連同鬆片、包裝和照片一起保留，方便專業人員判讀。",
+        "記下器物名稱、估計金屬與未確定部分、鍍層或包漿、腐蝕位置、鬆動部件、異金屬接觸、拍攝日期、暫存物料和覆查日期。描述用「附着」「粉狀」等所見字眼，避免先下成因結論。",
+        "暫存材料應可移開而不黏附表面，讓日後檢查不需先拆除新的修補。按既定日期重拍，若變化持續便把記錄交金屬修復專業人員；沒有變化也要保留比較證據。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/metal.webp",
+          "alt": "帶灰綠氧化痕跡的小金屬器，安放在貼合器形的淺色承托內。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/metal-objects.html",
+          "label": "CCI：辨認金屬、保存原有表面及區分穩定與活性腐蝕"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/care-objects/metals/basic-care-iron.html",
+          "label": "CCI：鬆脫活性腐蝕與歷史金屬器修理的專業轉介"
+        }
+      ]
+    },
+    {
+      "slug": "method-09",
+      "family": "method",
+      "title": "雕塑與石膏缺損修補",
+      "description": "雕塑與石膏補配要顧形體、承重和表面痕跡，不是一味磨平。",
+      "paragraphs": [
+        "先確認物件是否真是裸露石膏，以及表面有沒有塗層、鉛筆線、工具痕或仿石仿銅處理。這些痕跡可能是製作資料，不能為了「潔白」而磨走。",
+        "局部補配宜由陶瓷或雕塑修復人員處理，並以材料、表面穩定及形體依據為前提。內部有金屬或木支撐、表面粉化、大型懸伸部件與搬運受力問題，則需要另作結構評估。",
+        "可不填缺口，改用有凹位的外部承托穩定展示；若缺失形狀欠資料，也可用圖像或數碼模型解說原輪廓。清潔、補形和補色應分開決定，不因表面有污漬便連帶重做。",
+        "先在斜光下記錄粉化、裂縫、塗層和製作痕，再以乾燥軟工具在不顯眼處由專業人員測試表面穩定。任何含水測試都要先確認飾層和石膏反應，不能直接由大片位置開始。",
+        "材料和表面穩定、補形有可靠依據，才可繼續專業評估。若新補會承受搬運重量，應修改為外部支撐。測試出現色料轉移、潮線、粉化增加或內部支撐鏽漬時立即停止。",
+        "器物由底部獲得穩定承托，新補沒有壓住原表面或遮蓋製作痕，邊界近看可辨。驗收看形體和表面是否穩定，不以顏色變白、手感變硬或缺口完全消失作標準。",
+        "新補乾後鬆散、收縮、裂開或與舊石膏分離，周邊出現潮線、粉末或褐色鏽漬，均顯示水分、材料或內部結構有問題。停止搬動及再填補，保存脫落物並轉介。",
+        "文件要包括材料判斷、空心或實心線索、內部支撐、飾層、製作痕、缺損量度、粉化圖、測試位置、承托方式、所用材料和每次覆查照片。未確定之處直接標作未知。",
+        "石膏多孔，新增材料可能進入孔隙，日後移除未必乾淨。覆查時比較裂縫、粉化、潮線、鏽漬和補配邊界；如環境或搬運方式改變，亦要重新評估底部及懸伸位置的承托。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/plaster.webp",
+          "alt": "植物紋白色石膏淺浮雕缺去一角，安放在淡青色襯墊承托上。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-plaster-paris.html",
+          "label": "CCI：石膏吸水、濕填料變弱、表面痕跡及專業修復界線"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "AIC：處理前檢查、文件記錄與專業能力範圍"
+        }
+      ]
+    },
+    {
+      "slug": "method-10",
+      "family": "method",
+      "title": "修補器的飲食與日常用途",
+      "description": "日用器先問安全。很多膠、補土和金色材料未必適合接觸食物、飲品或口部，亦未必適合受熱或清洗。",
+      "paragraphs": [
+        "先列出原來怎樣使用：會否盛熱茶、酸性食物、酒精、油脂，是否長時間接觸或承受碰撞。食物安全中心指出，物質遷移會受材料、食物類型、温度、時間和接觸面影響；特定餐具資料不能推廣到未知修補材料。",
+        "只有產品專屬文件涵蓋完整修補系統、實際食物類型、温度和接觸時間，並有相符測試，才可能另作專業判斷。",
+        "器物可改作純展示、紀念陳列或不接觸食物的收納，並以支架避免再受力。若裂縫或崩口本身有割傷風險，可不黏接，只在有防護的展示盒內保存。",
+        "先核對每種材料的正式技術文件、批次和指定用途，再把接觸位置、食物類型、温度、時間、清洗和磨耗逐項對照。缺少其中一項便不以家居試飲、嗅味或短期浸水代替合規測試。",
+        "文件和測試未完整涵蓋實際用途，就修改目標為展示。若持有人仍要求熱飲、盛食物、洗碗機或口部接觸，停止修補承諾並清楚解釋限制；不能以免責聲明代替安全證據。",
+        "器物和包裝均有持久而清楚的展示標示，交付文件列明不可接觸食物、飲品或口部，也不受熱、浸水或進洗碗機。驗收是用途管理完整，並非宣稱修補材料安全。",
+        "標籤遺失、持有人把展示器皿放回廚房、接縫變色或發黏、填料開裂，均表示風險控制失效。先把器物移離食物區，不自行試用，再更新標示與持有人記錄。",
+        "保存原用途、破損位置、所有材料及批次、技術文件版本、未獲證明的接觸條件、展示決定、標籤照片、交付日期和持有人確認。不要只寫「不可用」，要列出食物、熱力、清洗和口部接觸。",
+        "覆查接縫、填料、色層和標籤是否有變化，也要確認器物仍在展示位置。即使日後換用另一材料，原器孔隙和舊修補殘留仍須重新評估，不能沿用第一次處理的假設。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/tea-memory.webp",
+          "alt": "窗邊空着的舊青花茶碗，旁邊放着舊相片背面和摺好的布。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/display.webp",
+          "alt": "修補青瓷碗安放在玻璃展示櫃內，四周留有空間。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.fda.gov/food/environmental-contaminants-food/questions-and-answers-lead-glazed-traditional-pottery",
+          "label": "美國 FDA：含鉛釉傳統陶器問答 — Questions and Answers on Lead-Glazed Traditional Pottery"
+        },
+        {
+          "href": "https://www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fcm_01_04_Baby_Bottles_Tableware.html",
+          "label": "香港食物安全中心：食物接觸材料與遷移 — 嬰兒奶瓶和兒童餐具的安全問題（2011 年研究）"
+        },
+        {
+          "href": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-175/subpart-B/section-175.105",
+          "label": "美國 eCFR：21 CFR 175.105 黏合劑 — 21 CFR §175.105 — Adhesives"
+        }
+      ]
+    },
+    {
+      "slug": "process-01",
+      "family": "process",
+      "title": "接收與風險登記",
+      "description": "確認器物狀態、碎片數量、持有人需求與立即風險。",
+      "paragraphs": [
+        "接收時先確認器物和碎片可被安全安放，再記錄來件、原包裝、持有人說明及預期用途。拆箱前準備有承托的工作面，避免在點算時讓碎片互撞。",
+        "每項口述須註明由誰提供，與實物觀察分欄。盒內碎屑也屬來件，不可未點算便丟棄；相片檔名、標籤和碎片袋使用同一物件編號。",
+        "器物若穩定而處理只為追求全新外觀，可選擇不處理並保留舊修。資料未齊可把各片獨立包好暫存；遇到危害、估值、權屬或法律爭議，則連現況資料轉介，不在工作室自行判定。",
+        "拆開外包裝前先確認工作面有軟墊、托盤能承受整體重量、移動路線沒有障礙。輕移外盒時若聽見碎片滑動，便先加分隔承托。包裝與搬運評估應避免以原物試承重。",
+        "碎片可分隔、危害可隔離、權責和用途有書面答案，再進入攝影記錄。乾燥粉末、黴味、持續剝落、活性腐蝕疑點或兒童接觸風險，均改為封存及專業轉介；不把推論寫成已確認材料。",
+        "合格接收須讓另一人按清單找回主體和每片碎片，器物不靠手扶也能穩放，危害已隔離，接收範圍及用途限制有書面確認。食品接觸、熱水、承重或兒童使用只可列為期望。",
+        "交予攝影人員的是編號一致的實物、碎片袋、接收表和不可翻轉位置。日後碎片數目、氣味、粉化、鏽蝕或包裝狀態有變，先停止移動，沿用原角度重拍並追加紀錄，再決定暫存或轉介。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/packing.webp",
+          "alt": "打開的灰色保存盒有兩個獨立隔間，白色軟墊分別承托青花瓷杯和碎片。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/documentation.webp",
+          "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://vanda-production-assets.s3.amazonaws.com/2019/04/03/14/22/51/43a4b5c7-dcfe-4d22-a4ab-677e197f7285/caring_for_your_ceramics.pdf",
+          "label": "V&A：陶瓷器物與地磚照護 — Caring for your ceramic objects and floor tiles（PDF，2018）"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-02",
+      "family": "process",
+      "title": "現況攝影與測量",
+      "description": "拍攝正面、背面、斷口、舊修補和尺寸，建立可追溯基線。",
+      "paragraphs": [
+        "以整體、局部、斷口和舊修照片建立基線，並記錄尺寸與拍攝方向。背景、尺度、光線和檔名保持一致，才能讓不同時間的影像互相比較。",
+        "全貌、細節和定位照要按同一規則命名。裂紋位置另以口沿、底足、紋飾或鐘面方向描述，使沒有相片的人也能在實物上找回。",
+        "底部不穩或一移動便掉片時，只拍可見面、原包裝和整體承托，並註明欠缺視角。舊照可保留作線索，但角度、光線不同便不可直接量度比較；顯微、UV 或特殊成像交受訓人員。",
+        "放大查看焦點是否落在斷口、反光有沒有遮住狀況、色卡和比例尺是否可讀而不掩蓋器物。合格才固定機位、背景和光線完成全組。UV 涉及眼睛、皮膚與材料風險，",
+        "測試照能清楚顯示輪廓、裂紋和標籤，便沿相同條件拍攝；若要強行移動、拆舊修或使用強烈光源才能看清，便收窄為現況可見面記錄。新發現的碎片差異先重新檢查接收記錄。",
+        "每張影像可由物件編號、方向和檔名追溯，全貌、細節與文字位置互相指認，比例、焦點及曝光足以作日後比較。色卡只記錄拍攝條件，不代表螢幕顏色等同實物。",
+        "材料辨識人員應收到原檔、縮圖索引、尺寸表和位置描述。後續沿用固定視角另存新版本，不覆寫基線；若裂紋延長、碎片數或舊膠外觀改變，追加觀察並退回風險登記。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/documentation.webp",
+          "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/inspection.webp",
+          "alt": "斜射枱燈照着有細裂紋的素白瓷碗，碗放在軟墊上，前方有放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        }
+      ]
+    },
+    {
+      "slug": "process-03",
+      "family": "process",
+      "title": "材料與工藝辨識",
+      "description": "分辨陶、瓷、玻璃、漆、金屬或複合材料，避免套用錯誤工法。",
+      "paragraphs": [
+        "由白光、側光和適度放大觀察胎體、釉面、彩繪與後加材料，再提出需要分析的問題。取樣與儀器檢查應有明確目的，並衡量對原物的影響。",
+        "先寫可見事實，例如綠色粉末集中在金屬交界，再另寫材料推論。胎色、孔隙、釉面、彩繪、舊膠和金屬件逐層分列，不把口述工藝當成物證。",
+        "材料未能確認時，可保持原狀、不作材料介入，改為暫存並監察粉化或腐蝕。取樣、儀器分析、真偽與年代鑑定由相關專業人員處理；舊釘、包鑲和填配可能有歷史價值，不自動拆除。",
+        "用相片和已知參考資料比較同類特徵是否在兩個位置一致，再為假設標上可信程度。這項最小測試不刮取、不滴溶劑、不清除鏽層；若只有破壞性方法才能分辨，便把分析問題交出去。",
+        "表面穩定、特徵一致，而下一步只需非接觸觀察，可帶着「初步判讀」前進。材料界線、彩繪、舊膠或腐蝕任何一項不穩，處理目標收窄為隔離、暫存與分析。",
+        "另一人應能按相片找出胎、釉、彩繪、金屬和舊修位置，並分辨哪些是觀察、哪些是推論。材料假設足以界定下一個低風險測試，但不冒充鑑定結果。",
+        "用途訪談和後續測試要收到實物證據與工作假設的分界。日後分析若推翻假設，保留原判讀、日期及當時理由，再追加修訂；覆查時比較粉化、鏽蝕和舊膠外觀有沒有變化。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/porcelain.webp",
+          "alt": "素白瓷、青釉和赤陶三塊樣本平放，斷面呈現由細密到較粗糙的胎質差異。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/fracture.webp",
+          "alt": "兩塊白色釉面陶瓷的分離斷面近照，粗糙胎體與薄亮釉層可辨。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.vam.ac.uk/articles/a-z-of-ceramics",
+          "label": "V&A：陶瓷 A–Z — An A–Z of Ceramics"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-04",
+      "family": "process",
+      "title": "歷史與用途訪談",
+      "description": "釐清器物還需不需要使用、有沒有紀念或文物價值。",
+      "paragraphs": [
+        "訪談把器物的生活史與未來用途轉成處理目標。先理解持有人希望保留的痕跡、可接受的外觀改變，以及器物在家庭或收藏中的角色。",
+        "口述、文件和實物觀察各自分欄。持有人稱曾加金屬釘只是口述；相片所見釘腳、孔邊缺損和鏽色才是可供下一階段判斷的物證。",
+        "器物可保持原狀，只加承托和展示限制；目標未獲家人或權利人確認時先暫存。真偽、估值、法律歸屬或用途安全交相關專業，不用一次訪談勉強填滿答案。",
+        "把訪談結果整理成「必須保留、可接受改變、不可恢復用途」三項，請受訪者覆述和確認。若「想保留舊釘」與「不能看見修補」互相衝突，先指出後果，再收窄目標而不直接開工。",
+        "展示器可追求穩定、可搬運和有限視覺連續；研究或紀念器以保留舊修及痕跡為先。外觀完整不證明可受熱、承力或接觸食物；證據不足便改作展示、延後或不介入。",
+        "合格訪談要讓另一人分辨每項說法來源，並把目標寫成穩定、保存或展示等可驗收條件。持有人已理解可見的新舊邊界、未解決問題和所有用途限制。",
+        "清潔測試收到有優先次序的目標，例如保留題字、只評估灰塵、不得觸動舊釘。日後資料推翻口述，不覆蓋原紀錄，另加日期和理由，再選暫存、局部處理或不處理。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/tea-memory.webp",
+          "alt": "窗邊空着的舊青花茶碗，旁邊放着舊相片背面和摺好的布。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/study.webp",
+          "alt": "研究案頭上攤開有淡淡器形線條的筆記本，旁邊是修補青花茶碗和放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        },
+        {
+          "href": "https://www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fcm_01_04_Baby_Bottles_Tableware.html",
+          "label": "香港食物安全中心：食物接觸材料與遷移 — 嬰兒奶瓶和兒童餐具的安全問題（2011 年研究）"
+        }
+      ]
+    },
+    {
+      "slug": "process-05",
+      "family": "process",
+      "title": "小區域清潔測試",
+      "description": "先測試溶劑、水分和摩擦對胎釉、彩繪與舊補的影響。",
+      "paragraphs": [
+        "粉化彩繪、多孔無釉胎、裂縫、鹽析、舊補、金屬件和材料不明位置不適合初學者濕洗。穩定而有使用脈絡的沉積未必需要移除。",
+        "前後影像保持同一角度和光線，表面、接觸工具與乾後狀態分開描述。另記未測和禁測位置，避免下一位把局部結果誤當成全器許可。",
+        "可不清潔，只改善承托、罩盒、隔塵或保存環境。舊膠、深層污漬、溶劑處理和粉化表面交受訓修復人員；停止於小區測試並不算失敗，而是保住仍可比較的原狀。",
+        "在不顯眼而具代表性的位置留下對照，測試前後分別看器物表面、接觸工具和乾後變化。",
+        "灰塵減少、工具沒有帶色，表面亦無失光、發霧、變黏、膨脹或潮線，才可說該小區暫未見問題。換到不同胎質、顏色、舊修或裂縫旁，必須重新評估而非直接外推。",
+        "測試區、未處理對照和前後相片可互相比較，表面質感、光澤和彩層沒有可見損失。結論清楚限制於相同材料和狀況區域，並標示適用範圍。",
+        "乾拼時須知道斷口和碎片曾否接觸介質。日後若見白霧、潮線、黏性或彩層改變，立即停止固定，退回同角度相片比較並安排覆核；不可用另一種清潔材料覆蓋問題。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/cleaning.webp",
+          "alt": "完整的素白瓷碟、柔軟毛刷和三支潔白棉棒放在柔軟墊面。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/inspection.webp",
+          "alt": "斜射枱燈照着有細裂紋的素白瓷碗，碗放在軟墊上，前方有放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://vanda-production-assets.s3.amazonaws.com/2019/04/03/14/22/51/43a4b5c7-dcfe-4d22-a4ab-677e197f7285/caring_for_your_ceramics.pdf",
+          "label": "V&A：陶瓷器物與地磚照護 — Caring for your ceramic objects and floor tiles（PDF，2018）"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-ceramics-glass.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃照護筆記 5/1 — Care of Ceramics and Glass — CCI Notes 5/1"
+        }
+      ]
+    },
+    {
+      "slug": "process-06",
+      "family": "process",
+      "title": "碎片排位與乾拼",
+      "description": "在無膠狀態下確認拼合順序、缺片和受力方向。",
+      "paragraphs": [
+        "乾拼適合確認碎片關係和組合次序，不測試結構強度。曾接觸介質、仍在粉化、裂紋活動或舊膠突出時不試拼；大型或需持續扶持的重組轉介。",
+        "對存在兩種可能的位置分別拍照和畫圖，不刪去被否決方案。另記清潔介質曾否接觸斷口，讓固定評估知道貼合可能受哪些殘留影響。",
+        "碎片可分格保存，只以相片和排位圖保留關係；展示需要閱讀輪廓時，可用訂製外部支架承托。缺片多、核心片不穩、接縫形成懸臂或涉及承重，均不勉強重組。",
+        "按斷口輪廓、胎色、釉紋、厚度和紋飾走向把兩片靠近，只觀察是否在無壓力下落入唯一位置。先用軟墊支承再放鬆手力；拿起整組、試重、磨邊或鑽孔均不屬乾拼測試。",
+        "配對唯一、組合順序清楚、每次移動有承托，放手後亦無回彈或互撞，才交固定評估。兩種排位仍成立時維持「未確定」，不要用膠帶把其中一種變成既成事實。",
+        "每片有對應位置，未配對片另行保存，接縫自然對齊且沒有新增崩口，組合及退回單片保存的順序均可重複。支承點不壓住尖角、彩繪或脆弱舊修。",
+        "固定前收到排位圖、起始碎片、撤走支承方向和未完整貼合的接縫。其後若找到新碎片、舊膠鬆脫或排位受阻，先回到單片承托重做乾拼，不在舊方案硬加一步。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/fracture.webp",
+          "alt": "兩塊白色釉面陶瓷的分離斷面近照，粗糙胎體與薄亮釉層可辨。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://vanda-production-assets.s3.amazonaws.com/2019/04/03/14/22/51/43a4b5c7-dcfe-4d22-a4ab-677e197f7285/caring_for_your_ceramics.pdf",
+          "label": "V&A：陶瓷器物與地磚照護 — Caring for your ceramic objects and floor tiles（PDF，2018）"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        }
+      ]
+    },
+    {
+      "slug": "process-07",
+      "family": "process",
+      "title": "黏接或機械固定",
+      "description": "分開評估黏接、天然漆接、機械固定與外部支撐的風險和退路。",
+      "paragraphs": [
+        "完成狀況調查、乾拼與用途討論後，再比較黏接、機械固定和外部承托。每種方式對原物、受力和日後處理有不同影響，選擇需要與實物條件相符。",
+        "沿用乾拼的固定視角，另拍舊釘、斷口和支承點。把觀察與推論分開：記「接縫右端張開」，不要只寫「黏得不牢」。材料文件隨記錄保存。",
+        "資料不足、碎片欠缺或斷口承受把手、足部及懸臂重量時，可分片保存，或訂製只接觸穩定部位的外部支架。舊釘若穩定、沒有活動腐蝕並且屬修補史，可保留監察，不能因看見鏽色便拆除。要求承重、熱飲或食品接觸時，改作展示或轉介。",
+        "專業人員在非原件樣板觀察黏度、滲入、固化外觀及支承安排，再按胎體孔隙和接縫判斷。樣板只反映該批材料的反應，不能保證原胎相同。天然漆有皮膚致敏風險，溶劑亦涉及通風、防護和材料相容性，均不作初學者測試。",
+        "若接縫唯一、原胎穩定、只作展示，而且材料資料完整，可由專業人員評估黏接。Paraloid B-72 在特定基材、施用和移除條件下可能較可再處理；即日後仍可按已知條件修正，不代表完全還原。環氧、天然漆和機械固定各有不同老化與移除後果，不能按「最強」排名。任何穿孔、加熱、壓縮原胎或承重要求都應轉介。",
+        "合格固定在支承撤除後不張開、不錯台和不晃動；原釉、彩層與斷口沒有溢料或壓痕。記錄須找得到每道接縫的材料、支承方向及用途限制。驗收不可提起器物、盛水、加熱或拉動把手，也不能由外觀推定可承重或接觸食物。",
+        "以相同光線比對接縫、鄰近裂紋及舊金屬。若出現發白、發黏、滲色、張開或鏽粉，限制搬運並提供外部承托。能否退除要按實際材料、老化、滲入和接觸方式重新測試，不能只憑材料名稱推斷。下一道填補不得覆蓋舊修或掩去接縫。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/adhesives.webp",
+          "alt": "透明顆粒、空玻璃瓶及盛少量透明液體的玻璃瓶分置三個托盤。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://cameo.mfa.org/wiki/Paraloid_B-72",
+          "label": "波士頓美術館 CAMEO：Paraloid B-72 — Paraloid B-72"
+        },
+        {
+          "href": "https://www.hisglassworks.com/manuals/HXTAL_Tech_Sheet.pdf",
+          "label": "HXTAL 原廠：NYL-1 環氧樹脂技術表 — HXTAL NYL-1 Technical Sheet（PDF）"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-08",
+      "family": "process",
+      "title": "缺損填補",
+      "description": "用相容材料補強缺口，並保留可辨識邊界。",
+      "paragraphs": [
+        "填補可保護脆弱邊緣、支承局部形狀，或減少展示時的視覺中斷，不等於憑想像重造全部缺失。深缺、大面積或預計受力的補配由專業人員設計。",
+        "照片要包括未填缺口、每個材料層次和乾後輪廓。另記不可覆蓋的舊修、原釉與歷史痕跡，讓修形人員知道哪裏必須停下。",
+        "沒有可靠輪廓證據時，可留空、分片保存、改善盒內承托，或用只接觸穩定位置的展示支架。尖薄邊需要保護時，可只做局部封邊，不重造器形。舊填配若穩定且屬修補史，可保留監察；只有鬆脫、壓迫原邊、積聚水分或妨礙必要處理，才交專業人員評估。",
+        "填料須比較重量、硬度、收縮、吸水、黏附和日後移除方式。石膏類材料多孔而易吸污，薄邊受壓亦可能崩裂；過硬或過重的填料會把應力送回原胎。樣板要觀察乾後尺寸、表面和邊緣，不在原件試配方。比例與固化條件按材料文件及專業測試訂定，沒有通用數值。",
+        "若只為封護尖薄邊，範圍應停在局部；若為承托補色，才評估較完整表面。補配邊界即後補材料與原件交界，要讓後人看得懂。缺口仍活動、胎體潮濕或粉化、資料不足，或填配將會承重，便停止。若樣板穩定、原邊無壓力且退路清楚，可按既定目的繼續。",
+        "合格填補沒有收縮裂、翹起、空鼓和邊緣壓痕，也不覆蓋原釉、舊修或證據性表面。形狀只支持已寫明的目的，近看仍可找到補配邊界。填料未停止尺寸或顏色變化，不可交給修形關。填補不能恢復食品接觸、熱水或承重用途，原有限制繼續有效。",
+        "日後若見髮絲裂、邊界積塵、鼓起或原胎旁出現新裂紋，停止搬動、修形和補色，按記錄檢查材料界面。能否局部移除須依實際黏附、滲入和老化重新測試，不能假設整塊可完整取下。複查相片沿用原角度，方便分辨填料變化與拍攝光差。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/fracture.webp",
+          "alt": "兩塊白色釉面陶瓷的分離斷面近照，粗糙胎體與薄亮釉層可辨。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-09",
+      "family": "process",
+      "title": "修形與表面調整",
+      "description": "只修整補配區，避免磨損原釉、原漆或歷史表面。",
+      "paragraphs": [
+        "此關只調整後補層的輪廓和表面。原釉、原漆、彩繪、舊修與歷史磨損不屬修整對象；大型結構、承重配合及高價值表面須專業轉介。",
+        "修形前後要沿用相同角度和光線拍攝，並標出保留的低點與手工起伏。若停手，保存粉塵、工具接觸位置及相片作判斷證據。",
+        "低點若不影響支承和閱讀，可不再修整；若確實需要補回，便退回填補關加材料，不磨低周圍原件遷就。表面起伏可能是原件手工製作留下，不能用新造器物的對稱和光滑作標準。複雜輪廓或脆弱彩層可維持現況，改由展示光線減少幹擾。",
+        "先在正面光、斜光和輪廓投影下看高低，再隔着潔淨薄膜輕觸轉折，避免手指油分直接接觸。材料樣板要先顯示工具會留下哪種刮痕、粉塵和光澤，只選擇影響補配層的接觸方式。若在樣板已造成崩邊或難以控制的粉塵，便不接觸原件。",
+        "高點會破壞輪廓或令補色積聚，而且可在遠離原邊的位置調整，才有理由繼續。每輪只比較已標示的後補範圍；斜光陰影減少而新舊交界沒有擴大，可逐步停止。填料仍發黏、變色、收縮或露出裂紋，退回上一關，不以修形修飾材料問題。",
+        "合格表面在正面與斜光下沒有突兀高點，補配邊界、原釉及歷史表面沒有磨痕。表面足以承接下一階段的色樣測試，但近看仍可辨新舊。完成相片須在未着色狀態拍攝，避免日後把色層誤當修形證據。終點是平順可讀，不是拋成全新。",
+        "補色前若發現邊界鬆散、針孔擴大或填料露出新裂紋，停止上色，核對填料、乾燥狀況和修整範圍。需要再處理時只針對後補層，不把原邊一同磨低。複查以斜光相片對照輪廓；若原面疑似已受損，穩定承托並交專業人員評估。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/rim.webp",
+          "alt": "素白瓷杯口的小崩缺近照，可見釉面與露出的白色斷面。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-10",
+      "family": "process",
+      "title": "補色與保護",
+      "description": "以近看可辨、遠看協調為原則，局部補色並記錄範圍。",
+      "paragraphs": [
+        "補色只服務閱讀，不用來假造紋飾、遮掩裂紋或改寫舊修。涉及噴塗、溶劑、UV 固化或光老化評估的工作只限受訓專業人士。",
+        "保存補色前後相片、範圍圖和實物色樣，讓驗收者不靠記憶分辨新舊。記錄哪一區刻意保留色差，以及沒有使用保護層的理由。",
+        "若原彩粉化、表面吸水不均，或未能分清哪一層是原作，可保留中性色、暫不補色或轉介。色差只在某個角度搶眼時，可調整展示光和背景，不必全面加色。局部降低最突出的補配區亦比重畫失落紋飾更誠實，並保留較清楚的研究邊界。",
+        "在與補配層相同的獨立樣板試顏料、媒介、層次和光澤，分別放到展示光、普通室內光與斜光觀察。正常觀看距離是器物通常被看見的位置，沒有通用數字。色樣在該位置減少缺口跳出感，移近後仍能分辨筆觸或邊界，才可考慮使用。保護層樣板另看發白、發黏、滲色與乾後反光。",
+        "原釉、原漆、題字、金屬和歷史補色不因色差而被覆蓋。色相接近但光澤不同時，不要靠加厚顏料追趕，可減少介入或接受近看差異。保護層只有在功能、相容性和維護方案清楚時才評估使用，不能掩蓋鬆動或粉化。填補未穩、原彩帶色或邊界不清便停止。",
+        "合格結果在正常觀看位置不搶眼，器物輪廓讀得通；移近、用斜光或查看記錄相片時，仍可辨認補色範圍。原作沒有帶色、滲入、失光或被塗層遮蓋。色樣、實物與相片在同一照明下對得上，保護層若有使用亦不發黏或異常反光。",
+        "日後若顏色偏移、表面發黏、龜裂、積塵或保護層發霧，停止擦拭及再次補塗，按原材料記錄安排專業小區測試。可再處理性須按當時的原件狀況、老化和移除條件重新判斷，不能只憑材料名稱保證。複查相片沿用原展示光，避免把照明改變誤判為偏色。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/retouch.webp",
+          "alt": "白瓷樣片上的五個灰白試色點，旁邊放有同色系的調色碟。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/colour.webp",
+          "alt": "青花瓷碎片旁放着中性灰卡，以及三張深淺不同的藍色試色紙。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-11",
+      "family": "process",
+      "title": "最終檢查",
+      "description": "檢查結構、溢膠、錯台、補色邊界和展示穩定性。",
+      "paragraphs": [
+        "驗收者要取得各階段相片、材料批次、偏差記錄與完成實物。最好由未直接操作該步的人覆核，減少因熟悉作品而忽略變化。",
+        "每個目標分別標成「通過、需修正、不適用」，不可用一句「已完成」包辦。修正前後相片要連到相應工序及材料記錄。",
+        "輕微可見接縫若符合可辨識目標，可以接受；不必為追求隱形再加塗層。局部問題可退回相應工序，或保留較可見的修補，避免再次介入。若修正會增加原件風險，便改作承托保存、只限展示或暫不交付，並把未解決事項書面交接。",
+        "沿固定角度查看接縫的張開、錯台、白化和殘留，再沿補配邊界看裂紋、翹起、空鼓與磨痕；最後在正常觀看位置和近看比較補色。底部只在指定展示座上觀察穩定，全部移動都用托盤及承托。不敲擊、不盛水、不提把手，也不用搖晃、加熱或加重來證明強度。",
+        "目標、實物和記錄一致才可通過。可局部修正的問題退回所屬工序，不用最後一層材料掩蓋。材料未完成穩定期、記錄欠缺、接縫活動或用途限制未寫清，均停止交付。食品接觸、熱飲、洗碗機、承重及兒童接觸不能由桌面觀察核定，只能維持展示或保存界線。",
+        "接縫、填補、補色及底部狀況符合書面目標，完成相片可與接收基線逐角度比較。材料、用途限制、複查點和未解決問題齊全，標籤亦不遮擋狀況。合格不是看不到修補，而是另一位人員可按資料重做檢查，並得到相同結論。",
+        "日後覆查沿用相同次序、光線和相片角度。若出現晃動、聲響、裂紋延長、填補鬆起、顏色或光澤改變，停止使用和不必要搬動，按記錄找出受影響的工序。能否局部修正須重新評估，不因最終驗收曾經通過便假設狀況不會改變。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/inspection.webp",
+          "alt": "斜射枱燈照着有細裂紋的素白瓷碗，碗放在軟墊上，前方有放大鏡。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/foot.webp",
+          "alt": "倒置在平整軟墊上的青花碗，完整圈足和沒有款識的碗底清楚可見。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "process-12",
+      "family": "process",
+      "title": "保存建議與交付",
+      "description": "交付修復紀錄、材料清單、使用限制和保存方式。",
+      "paragraphs": [
+        "這一階段適用於館內交接、收藏者領回或穩定短途移送。長途運輸、環境控制、高價值器物或複雜承托須另作專業風險與箱體設計。",
+        "散片、材料樣板和拆下的舊修零件亦要逐件登記。照護卡、數碼檔案與實物標籤使用同一編號，日後更新時保留版本日期。",
+        "若包裝、用途限制或接收安排有一項未完成，可繼續穩定暫存，不因約定日期勉強交出。未有可靠運輸方案時，可由接收人在現場查看，或只移交數碼記錄。器物用途未經核定，便只交展示照護建議；需要長途運送、環境控制或用途評估時轉介相關專業人員。",
+        "在空箱或模擬承托先核對開盒方向、抓手位置和托盤路線，再由接收人示範如何承托、取出與放回。包裝應限制移動而不擠壓脆弱位置，標籤亦不磨擦表面。測試只檢查交接動作和包裝配合，不以搖晃箱子或移動原件來證明運輸能力。",
+        "照護卡明寫「食品接觸未核定」或「只作展示」，並按實際評估列出不可盛熱水、不可入洗碗機、不可承重或避免兒童接觸等限制。簽收不會令限制失效，交付人亦不可口頭放寬。若日後取得相應合規文件或專業測試，只能另開評估，不能回填成當時已有證據。",
+        "接收人可按示範開箱、承托和放回，並能覆述不可提握位置、用途限制、複查日期與觸發訊號。實物、標籤、相片、材料表及包裝一一對應；文件有版本和聯絡方法。環境建議須對應器物弱點，例如避免強光、污染、震動和急劇温濕度變化，不能只寫「小心保存」。",
+        "盒內新碎屑、接縫張開、晃動或聲響、鏽層粉化或流痕、補配翹起、顏色及光澤改變，均要提早複查。見到其中一項便停止使用和不必要搬動，連同照護卡交專業人員。保存原始記錄和材料樣板，日後才可評估局部修正、退除或選擇不再介入。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/packing.webp",
+          "alt": "打開的灰色保存盒有兩個獨立隔間，白色軟墊分別承托青花瓷杯和碎片。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/display.webp",
+          "alt": "修補青瓷碗安放在玻璃展示櫃內，四周留有空間。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/five-steps-safe-shipment.html",
+          "label": "加拿大文物保存研究所：安全運送五步 — Five Steps to Safe Shipment — CCI Notes 20/3"
+        }
+      ]
+    },
+    {
+      "slug": "reason-01",
+      "family": "reason",
+      "title": "保留歷史證據",
+      "description": "裂縫、鋦釘、磨損與舊補，可能保留器物使用和修護的線索。介入之前，先理解哪些資料會因清除而消失。",
+      "paragraphs": [
+        "舊修補是物件經歷的一部分。釘孔的位置、金屬形狀、補配界線與殘留材料，都能提供技法和處理層次的資料。這些痕跡可以記錄一次修補，卻未必足以證明原持有人的動機、確切年份或地方習俗。",
+        "保留舊修需要同時檢查穩定性。牢固、沒有造成持續損傷的構件，可以納入保存；正在腐蝕、拉扯裂縫或鬆脫的部分，則可能需要處理。歷史價值與結構狀況須一起衡量。",
+        "拆除前拍攝全貌與細節，記錄材料、孔位、接觸位置和既有損傷。若決定移除，保留可保存的構件及相關資料，並說明理由。新的填補不應把原有孔洞與舊修邊界全部變成難以追溯的表面。",
+        "紀念與研究器物亦可透過承托、環境改善和減少搬動保存。清潔目標應具體，不因表面不均勻便一概追求亮潔。留下可讀的時間痕跡，能讓器物的故事比完成外觀更長久。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/staples.webp",
+          "alt": "陶碗上的三枚深色金屬鋦釘跨過裂縫，兩端入孔位置清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/foot.webp",
+          "alt": "倒置在平整軟墊上的青花碗，完整圈足和沒有款識的碗底清楚可見。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "reason-02",
+      "family": "reason",
+      "title": "延續器物的生命",
+      "description": "器物的生命可以延續為使用、研究、展示或紀念。修補應先降低實際損傷風險，再考慮外觀與用途。",
+      "paragraphs": [
+        "破損風險往往來自環境和習慣：疊放太高、握着脆弱手柄、櫃內空間不足，或搬運路線沒有清理。即使接合做得細緻，這些條件仍可能造成下一次意外。找出原因，是延長保存時間的重要起點。",
+        "接合、局部穩固與補配，可以回應不同結構和觀看需要；外部支架、托盤及分隔盒，則能減少器物直接受力。新增材料越多，不代表保存效果必然越好，應讓每項處理對應清楚問題。",
+        "若器物帶有敏感裝飾、舊膠或複合材料，存放需要兼顧所有部分。光、濕度、水分與污染物的影響不盡相同，不能只按瓷胎一般堅硬便省略照護。",
+        "完成後保留狀況照片，並訂下容易實行的拿取與檢查方法。延續生命不必等於恢復所有原用功能；一件退出餐飲用途的器物，仍可以在家庭、收藏與教育中保有清楚位置。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/storage.webp",
+          "alt": "帶蓋灰色保存盒與青花瓶分開擺在層架上，瓷瓶底部有白色承托墊。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/packing.webp",
+          "alt": "打開的灰色保存盒有兩個獨立隔間，白色軟墊分別承托青花瓷杯和碎片。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/five-steps-safe-shipment.html",
+          "label": "加拿大文物保存研究所：安全運送五步 — Five Steps to Safe Shipment — CCI Notes 20/3"
+        }
+      ]
+    },
+    {
+      "slug": "reason-03",
+      "family": "reason",
+      "title": "穩定結構與安排承托",
+      "description": "結構修護要理解重量如何傳遞，以及原胎、接合和支架如何共同承擔。表面連續，並不足以說明器物已適合所有展示方式。",
+      "paragraphs": [
+        "裂縫與缺失的位置，會影響器物承受力量的方式。手柄、瓶頸、足部和懸伸構件，需要特別留意；同一黏合劑用在不同器形上，也不會得到同樣的結構結果。",
+        "黏合材料的強度並非越高越合適。過硬的界面、局部夾壓或不合適補配，可能把力量轉到旁邊較弱的原胎。選材應考慮整體相容性、老化和日後處理。",
+        "展示方案可以減少接合負荷。水平承托、獨立託座和可靠底部支持，與牆面懸掛涉及不同風險。重要器物或複雜安裝，應連同支架、固定點和實際環境一併評估。",
+        "交付時說明拿取位置與承托需要，避免用加水、扭動或懸吊作家庭強度試驗。日常以照片及外觀變化監察，發現移位、開縫或新碎屑時先減少搬動，保留資料供檢查。",
+        "結構評估也包含失效後果：平放於有邊托盤的器物，與懸掛在人經常經過的位置，所需安排不同。展示需要改變時，承托方案亦應重新檢查。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/display.webp",
+          "alt": "修補青瓷碗安放在玻璃展示櫃內，四周留有空間。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.tandfonline.com/doi/abs/10.1179/019713601806113120",
+          "label": "JAIC 原始研究：B-72 作結構黏合與隔離層 — Podany 等，Paraloid B-72 as a Structural Adhesive and as a Barrier within Structural Adhesive Bonds（2001）"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "reason-04",
+      "family": "reason",
+      "title": "讓器形與工藝容易理解",
+      "description": "修護能協助觀眾理解器物的形狀、裝飾與使用方式。展示的清楚，應與原物資料的清楚一起考慮。",
+      "paragraphs": [
+        "碎片的曲率、胎厚與紋樣可以提供重組依據；同類器物和可靠圖像也能協助比較。不同證據能支持的範圍各有分別，重建輪廓與重畫缺失圖案，需要分開決定。",
+        "補配可降低缺口對觀看的幹擾，同時保留適當近看與記錄可辨的界線。中性色、有限補色或略有差別的表面質感，都是需要按物件與展示目的評估的選擇，沒有適用所有館藏的單一完成樣式。",
+        "外部支架、圖像與文字，也能幫助觀眾閱讀器形。有些缺失透過展示設計便能理解，不必把解說全部變成附加在原物上的材料。",
+        "保存處理記錄，使日後研究與改展仍能辨認原有和後加部分。觀眾看見的不只是一件完整形象，也可以是一件經過時間、破損與修護而被保存下來的物件。",
+        "展牌可以交代缺失、重組與研究經過，並以圖解補充難以直接看見的關係。觀眾知道修護如何參與今天的外觀，便能更完整地閱讀藏品。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/study.webp",
+          "alt": "研究案頭上攤開有淡淡器形線條的筆記本，旁邊是修補青花茶碗和放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "reason-05",
+      "family": "reason",
+      "title": "保存情感與記憶",
+      "description": "家庭器物的價值常藏在飯桌、茶席與人的記憶裏。修補需要聆聽這些故事，再為物件安排合適的保存方式。",
+      "paragraphs": [
+        "處理前可記下器物由誰使用、哪些痕跡有特別意義，以及哪些改變難以接受。題字、手繪名字、使用磨損和舊修，可能比整潔外觀更重要；它們不宜在沒有討論下被清走或覆蓋。",
+        "口述故事與實物資料可以一起保存，但各自有清楚來源。記錄講述者、日期與相關照片，能讓後來的人知道故事如何傳下來，毋須把每一段記憶都寫成已確定年代的歷史事實。",
+        "展示接合、保留碎片與獨立保存盒，都可以承載情感。若原用途涉及熱飲或食物，而整套材料與狀況不適合，改變用途仍可保留物件的形貌與關係。",
+        "保存的目標應能在日常延續：容易拿取、妥善安放、資料與器物同行。珍惜不是要求一件舊物永遠承擔從前的一切，而是讓它以合適方式繼續被看見和記得。",
+        "重要的家庭故事可以錄成文字，附上講述者及日期，與修護照片放在一起。日後器物轉交下一代時，人與物之間的關係便有更清楚的線索。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/tea-memory.webp",
+          "alt": "窗邊空着的舊青花茶碗，旁邊放着舊相片背面和摺好的布。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/documentation.webp",
+          "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        },
+        {
+          "href": "https://www.fda.gov/food/environmental-contaminants-food/questions-and-answers-lead-glazed-traditional-pottery",
+          "label": "美國 FDA：含鉛釉傳統陶器問答 — Questions and Answers on Lead-Glazed Traditional Pottery"
+        },
+        {
+          "href": "https://www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fcm_01_04_Baby_Bottles_Tableware.html",
+          "label": "香港食物安全中心：食物接觸材料與遷移 — 嬰兒奶瓶和兒童餐具的安全問題（2011 年研究）"
+        }
+      ]
+    },
+    {
+      "slug": "reason-06",
+      "family": "reason",
+      "title": "修補、減廢與長期照護",
+      "description": "修補可以減少物件過早被丟棄，也需要材料、工時、運送和日後維護。完整的選擇應兼顧用途與長期照護。",
+      "paragraphs": [
+        "先問器物為何破損，以及相同問題是否會再次發生。改善疊放、搬運和清潔習慣，可能同時保護整組器物。預防下一次破損，與修好眼前一件，同樣值得投入。",
+        "有紀念或研究價值的器物，可透過穩定、接合或展示延續生命。一般日用品則需衡量修補後的可靠用途，不能只以減廢理由推定可以再次接觸食物、受熱或承重。",
+        "改作展示亦需要安全安排。碎片的尖邊、接合負荷和安放位置，仍要被考慮；牆飾或高處陳列不是自動低風險的替代用途。",
+        "比較方案時，把材料、包裝、搬動、重修及保存空間一起列出。沒有完整評估便不宜宣稱某種修補必然更環保。可以立即實行的，是減少不必要消費、妥善維護已有器物，並為真正值得保留的物件做好記錄。",
+        "保存安排亦需要可持續維護。若器物改作展示，應有合適空間和清楚資料；若決定不保留碎片，也可先記錄破損原因，改善其餘器物的照護。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/storage.webp",
+          "alt": "帶蓋灰色保存盒與青花瓶分開擺在層架上，瓷瓶底部有白色承托墊。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/cleaning.webp",
+          "alt": "完整的素白瓷碟、柔軟毛刷和三支潔白棉棒放在柔軟墊面。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        },
+        {
+          "href": "https://www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fcm_01_04_Baby_Bottles_Tableware.html",
+          "label": "香港食物安全中心：食物接觸材料與遷移 — 嬰兒奶瓶和兒童餐具的安全問題（2011 年研究）"
+        }
+      ]
+    },
+    {
+      "slug": "story-01",
+      "family": "story",
+      "title": "一隻破碗的保存判斷",
+      "description": "破裂之後，器物仍有幾條可以走的路。把用途、狀況與記憶分開整理，有助選擇適合它的保存方式。",
+      "paragraphs": [
+        "第一個問題是物件日後的角色。日用餐具、紀念物與研究收藏，對處理有不同需要。原本盛湯的碗可以轉作陳設，碎片亦可以在承托盒中保留關係；恢復器形只是其中一種選擇。",
+        "再看材料和損傷。裂縫是否延伸、斷口是否齊整、有沒有舊膠和敏感彩繪，都會影響下一步。先收集、分隔和拍照，避免急着清洗或加膠，使原本可讀的斷口被改變。",
+        "比較方案時，把接合、補配與補色分開。接合可讓形狀重新連貫，填補可回應局部缺失，補色則影響觀看；三者不必同時進行，也不一定需要做到最大程度。",
+        "最後把用途和照護說清楚。完整外觀不能代替飲食、熱力和結構適用資料。為破碗選擇較安靜的展示生活，仍可以讓它保留在家中的位置，而不需要抹去曾經破損的事實。",
+        "決定可以分階段進行。先完成保存和記錄，再討論接合與外觀，讓每次改動都有清楚目的，也讓持有人有時間理解可選的方向。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fracture.webp",
+          "alt": "兩塊白色釉面陶瓷的分離斷面近照，粗糙胎體與薄亮釉層可辨。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/display.webp",
+          "alt": "修補青瓷碗安放在玻璃展示櫃內，四周留有空間。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        },
+        {
+          "href": "https://www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fcm_01_04_Baby_Bottles_Tableware.html",
+          "label": "香港食物安全中心：食物接觸材料與遷移 — 嬰兒奶瓶和兒童餐具的安全問題（2011 年研究）"
+        }
+      ]
+    },
+    {
+      "slug": "story-02",
+      "family": "story",
+      "title": "鋦釘留下的生活史",
+      "description": "舊鋦釘跨過裂縫，也把一次修補留在器物表面。它既是構件，也可能是日後理解器物經歷的線索。",
+      "paragraphs": [
+        "閱讀鋦補時，先看釘孔、金屬形狀、排列、裂縫與周邊胎釉。這些細節能幫助理解固定方式，卻未必直接告訴我們當年為何修補。節儉、珍愛、物價與流通，都需要另外的資料支持。",
+        "金屬色澤不能單獨說明腐蝕是否正在發展。可透過同角度照片比較粉末、鬆動與裂縫變化，並由相關專業人員判斷。穩定舊修和正在傷害瓷胎的構件，可能需要不同方案。",
+        "拆除會改變器物並可能影響舊孔邊緣。決定前先記錄，亦可比較保留監察、改善承托與局部處理。新的平滑表面不等於回到修補前的原貌。",
+        "展示時讓觀眾看到正面與背面，能讀到工藝如何解決破損。鋦釘不必被寫成浪漫傳奇才有價值；它具體留下的孔位、力量與手藝，已足以讓人停下來細看。",
+        "包裝與搬運同樣應避開鋦釘和脆弱孔邊。金屬看來堅固，不表示適合作為提握點；由可靠底部承托，能減少原胎受到額外拉力。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/staples.webp",
+          "alt": "陶碗上的三枚深色金屬鋦釘跨過裂縫，兩端入孔位置清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/foot.webp",
+          "alt": "倒置在平整軟墊上的青花碗，完整圈足和沒有款識的碗底清楚可見。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.britishmuseum.org/collection/object/W_2009-6017-55",
+          "label": "大英博物館：伊朗出土的青瓷修補碗片 — Bowl, museum number 2009,6017.55"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        }
+      ]
+    },
+    {
+      "slug": "story-03",
+      "family": "story",
+      "title": "金繼的價值，從工藝與說明開始",
+      "description": "金繼的金線很醒目，作品的價值卻不只在金色。材料、處理、構圖與清楚的來歷，共同構成值得細讀的工藝。",
+      "paragraphs": [
+        "天然漆金繼與現代樹脂裝飾修補有不同路線。兩者都可以被如實介紹，無須用模糊名稱掩蓋差別。接合、填補及表面裝飾的資料，能讓人理解作品實際如何完成。",
+        "金色也不一定代表純金。金屬粉的種類、顆粒效果與表面處理會影響外觀，不能憑照片判定組成。異片寄繼則需要交代補入碎片的來源與創作選擇，避免被誤讀為原器完整重組。",
+        "修補不自動保證升值。藝術表達、器物來歷、作者與收藏市場是不同問題，不宜用一條金線把它們全部概括。欣賞作品可以從形狀、節奏和材料關係開始。",
+        "保留作者或處理者、日期、材料和照護資料，讓作品在流通後仍能被準確理解。誠實說明所做的事，是工藝被長久信任的重要部分。",
+        "欣賞時亦可比較金線的粗幼、走向和留白，觀察修補如何與原來紋樣相處。這些具體細節，讓工藝評論有可指認的依據。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/kintsugi.webp",
+          "alt": "一隻空的青釉茶碗，器表有克制而纖細的金色修補線。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/yose-tsugi.webp",
+          "alt": "青灰釉茶碗的口沿缺角接入一塊白底藍花的青花瓷異片，異片貼合碗身弧度，接合邊界以細金線連接。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.si.edu/collections/snapshot/beauty-broken-objects",
+          "label": "Smithsonian：破損器物之美 — The Beauty of Broken Objects"
+        },
+        {
+          "href": "https://folklife.si.edu/magazine/japanese-kintsugi-yuko-gunji",
+          "label": "Smithsonian 民俗文化中心：Yuko Gunji 與金繼修補 — Japanese Kintsugi and the Art of Repair with Yuko Gunji"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "story-04",
+      "family": "story",
+      "title": "博物館修護如何讓新舊可讀",
+      "description": "補配讓器物更容易觀看，也可能改變人們對原貌的理解。保存修護需要把視覺連貫與資料透明放在一起。",
+      "paragraphs": [
+        "Getty 的陶瓷修復展覽呈現不同時期如何重組和補配器物。過往追求完整的做法，亦成為今天研究修復史的材料。觀看一件展品時，原物與後加部分都可能包含值得理解的歷史。",
+        "重建的依據可以來自碎片、對稱形制或可靠比較資料。它們對輪廓和裝飾的支持程度並不相同，沒有資料的圖案不宜被補成確定原貌。",
+        "有限補色可以降低缺口乾擾，同時讓近看、檢查或處理文件辨認界線。若不直接補配，支架、圖像和文字也能協助理解器形，讓展示設計分擔解說工作。",
+        "清楚記錄材料和範圍，能讓器物在換展、借展或重新研究時仍被理解。完成標準不只是今天從展櫃外看來是否整齊，也包括日後的人能否分清器物曾經歷甚麼。",
+        "處理前後的照片、材料名稱和補配位置圖，讓這些選擇不只留在修復者記憶中。當展品移到另一種光線或觀看角度，資料也能協助重新評估。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/retouch.webp",
+          "alt": "白瓷樣片上的五個灰白試色點，旁邊放有同色系的調色碟。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "story-05",
+      "family": "story",
+      "title": "修補茶杯的下一種生活",
+      "description": "熟悉的茶杯修補後，可以繼續被珍惜，也可能需要改變用途。把飲用與紀念分開，能為它找到更合適的位置。",
+      "paragraphs": [
+        "茶杯的日常使用同時涉及熱水、飲品、口部接觸、清潔和拿取力量。接合、填料與補色材料都可能進入這些條件，不能只看原來瓷胎或最外面的一層金色。",
+        "材料名稱和正式產品資料是評估起點，仍需涵蓋整套修補與實際使用。外觀完整、沒有氣味或一次盛水不漏，均不足以證明長期適合飲用。",
+        "按展示用途安排時，杯子可由底部承托，避免抓持修過的手柄；遠離餐具存放位置，亦能減少家人誤用。保留材料和交付資料，使日後移交仍有清楚說明。",
+        "茶席不只有盛茶的器具，也有提醒人慢下來的物件。把舊杯放在合適位置，讓故事與照片伴着它，仍能延續人與器物之間的關係。",
+        "若原來的飲茶儀式對家庭很重要，可使用一隻完整新杯承接日常，把舊杯留作紀念。兩件器物各有身份，既不抹去往事，也能讓習慣繼續。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/tea-memory.webp",
+          "alt": "窗邊空着的舊青花茶碗，旁邊放着舊相片背面和摺好的布。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/display.webp",
+          "alt": "修補青瓷碗安放在玻璃展示櫃內，四周留有空間。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.fda.gov/food/environmental-contaminants-food/questions-and-answers-lead-glazed-traditional-pottery",
+          "label": "美國 FDA：含鉛釉傳統陶器問答 — Questions and Answers on Lead-Glazed Traditional Pottery"
+        },
+        {
+          "href": "https://www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fcm_01_04_Baby_Bottles_Tableware.html",
+          "label": "香港食物安全中心：食物接觸材料與遷移 — 嬰兒奶瓶和兒童餐具的安全問題（2011 年研究）"
+        },
+        {
+          "href": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-175/subpart-B/section-175.105",
+          "label": "美國 eCFR：21 CFR 175.105 黏合劑 — 21 CFR §175.105 — Adhesives"
+        }
+      ]
+    },
+    {
+      "slug": "story-06",
+      "family": "story",
+      "title": "記錄如何把修護傳下去",
+      "description": "一道接縫可以很細，處理記錄卻能讓後人看見材料、方法與判斷。修護被理解的時間，往往比一次施工更長。",
+      "paragraphs": [
+        "器物轉交新持有人時，最難接續的常是缺失資料。不同膠層、補配與舊色沒有記錄，後來的人便要重新研究。拆掉舊修雖可能得到整齊外觀，卻也可能同時抹去尚未理解的線索。",
+        "接手時先拍攝整體與局部，為裂縫和補配建立位置圖，再核對已有文件。描述應具體，例如接縫哪一端張開、哪一區變色，避免只留下「已修好」或「狀況一般」。",
+        "處理記錄包含材料全名、位置、日期、試驗、工作範圍和選擇理由。照片與器物使用同一編號，保留原始檔與後續版本，能使不同時間的狀況互相比較。",
+        "交付時附上照護與承托方法，並讓資料隨器物移交。記錄不能阻止所有老化，卻可以讓下一次處理建立在已知經歷之上，而非從猜測重新開始。",
+        "紙本摘要與電子影像可互相補充。保存多一份備份，並定期確認檔案仍可開啟，能減少器物尚在、資料卻因轉機或整理而散失的情況。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/documentation.webp",
+          "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/study.webp",
+          "alt": "研究案頭上攤開有淡淡器形線條的筆記本，旁邊是修補青花茶碗和放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-01",
+      "family": "timeline",
+      "title": "古代：修補孔留下的線索",
+      "description": "陶器上的小孔，有時保存了古人修補的痕跡。",
+      "paragraphs": [
+        "陶器上的小孔，有時保存了古人修補的痕跡。大英博物館一件出土於瑙克拉提斯、約製於公元前六世紀的雙耳罐口頸殘片，館藏說明記錄了兩個古代修補孔。另一件繪有工匠的紅繪飲杯，也保留六對修補孔。器物曾經破損、又被接續使用的經歷，由此留在胎體之中。",
+        "孔洞的位置、是否成對，以及與斷口的關係，都讓修補成為可以觀察的物質證據。觀看這些陶片時，紋飾與器形之外，還有後來使用者留下的改動。保存下來的部分或許很小，卻足以使器物的歷史延伸到出窯之後：製作、破損、接合與留存，共同構成它的生命歷程，也為研究古人的惜物方式提供具體線索。",
+        "這些小孔的價值，在於把破損後的介入留成可觀察痕跡。器物製作、修補與出土的時間仍需分開；有古代修補證據，不等於已找到某種技法唯一的起源。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "大英博物館：帶兩個古代修補孔的陶罐殘片",
+          "href": "https://www.britishmuseum.org/collection/object/G_1924-1201-1085"
+        },
+        {
+          "label": "大英博物館：帶六對修補孔的紅繪飲杯",
+          "href": "https://www.britishmuseum.org/collection/object/G_1836-0224-231"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-02",
+      "family": "timeline",
+      "title": "宋元器物的流轉與修補",
+      "description": "宋元陶瓷的流轉，也可以沿着後來的修補痕跡閱讀。",
+      "paragraphs": [
+        "宋元陶瓷的流轉，也可以沿着後來的修補痕跡閱讀。日本所藏的龍泉窯青瓷茶碗「馬蝗絆」，器物製於南宋十三世紀，碗上的金屬扣件則使它有了格外鮮明的面貌。與修補相關的傳說見於一七二七年的記述，讓器物、收藏記憶和後來的文字交織在一起。",
+        "在伊朗菲魯扎巴德採集的一塊青瓷碗底片，外側亦留下修補孔。大英博物館根據孔洞沒有穿透胎體，推測曾以夾扣修補；館藏年代欄列為元代，策展說明對確切年代與產地仍有保留。兩件器物提示了閱讀修補史的重要層次：出窯、流傳、修補與被記述，可能發生於不同時刻，痕跡需要連同各自的背景細看。",
+        "流通使器物可能在製作地以外被使用、修補及收藏。閱讀地域資料時，可分列製作地、出土地和收藏地，讓物件的移動保持層次，而不把一個地名包辦整段經歷。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "e 國寶：青瓷茶碗「馬蝗絆」",
+          "href": "https://emuseum.nich.go.jp/detail?content_base_id=100886&content_part_id=001&content_pict_id=004&langId=en&webView=null"
+        },
+        {
+          "label": "大英博物館：菲魯扎巴德青瓷修補殘片",
+          "href": "https://www.britishmuseum.org/collection/object/W_2009-6017-55"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-03",
+      "family": "timeline",
+      "title": "明代白瓷與金漆修補",
+      "description": "大英博物館收藏的一件景德鎮白釉碗，約製於十六世紀初。",
+      "paragraphs": [
+        "大英博物館收藏的一件景德鎮白釉碗，約製於十六世紀初。碗身較厚，口沿外撇，白釉帶有不均勻的雲霧感及局部開片；口沿缺損、碗內和底部裂痕，留有施金與漆的修補。器物原有的白色表面，因而與後加的金色部分形成鮮明對照。",
+        "館方將此碗放在明代民用白瓷的脈絡中，亦指出日本收藏者欣賞這類金漆修補。從這件實物可看見，一件中國製造的瓷器，在流傳和收藏中還會累積新的審美層次。器物的製作年代描述胎釉與造形所屬的時期，修補則是其後的歷程；兩者相伴，使一件碗同時保存窯業、使用與珍藏的痕跡，值得逐處辨認。",
+        "同一件器物上，瓷胎與後加漆層可以來自不同時間。館藏記錄若只界定器物年代，觀看者仍可欣賞修補效果，但不宜把兩者自動寫成同一年代的工藝證據。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "大英博物館：明代白釉金漆修補碗",
+          "href": "https://www.britishmuseum.org/collection/object/A_1926-0617-1"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-04",
+      "family": "timeline",
+      "title": "近世日本：茶器與金漆修補",
+      "description": "日本茶器收藏中的金漆修補，讓裂縫與缺口成為可以欣賞的部分。",
+      "paragraphs": [
+        "日本茶器收藏中的金漆修補，讓裂縫與缺口成為可以欣賞的部分。史密森尼所藏十七世紀薩摩燒茶碗，便保留醒目的金漆痕跡。金色線條沿着斷裂的位置延伸，既記錄器物曾受損，也改變了表面的節奏；原有釉色與後加材料，共同構成今日所見的面貌。",
+        "金繼所倚賴的天然漆，兼具接合與表面工藝的角色，金屬粉則賦予修補處光澤。工藝師的製作記錄顯示，材料準備、施作與固化需要時間和經驗。理解這種傳統，可以從具體茶碗、漆藝工序和收藏脈絡出發：一道金線既是工藝的成果，也是一段物品被珍惜的歷史，所承載的意義隨不同器物而變。",
+        "茶器的使用、收藏與觀看，使修補具有多重意義。金漆可以參與美感，也可能回應實用和保存需要；具體物件的資料，比單一人生比喻更能展現這段文化的豐富。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "史密森尼：茶碗與破損器物之美",
+          "href": "https://www.si.edu/collections/snapshot/beauty-broken-objects"
+        },
+        {
+          "label": "史密森尼民俗與文化遺產中心：Yuko Gunji 的金繼工藝",
+          "href": "https://folklife.si.edu/magazine/japanese-kintsugi-yuko-gunji"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-05",
+      "family": "timeline",
+      "title": "19 世紀：博物館修復與科學研究",
+      "description": "十九世紀的博物館修復，逐步發展出專門職位與研究設施。",
+      "paragraphs": [
+        "十九世紀的博物館修復，逐步發展出專門職位與研究設施。大英博物館記錄，約翰・道布爾戴是館方首位長期聘用的修復師，並於一八四五年重組遭打碎的波特蘭花瓶。大量碎片重新接合的工作，顯示博物館藏品照護早已需要精細手工、耐心和組織能力。",
+        "至一八八八年，柏林王立博物館成立化學實驗室，由拉特根主持，將材料分析、劣化原因與保存方法帶入有系統的研究。兩段歷史呈現不同但相連的發展：器物需要熟練的處理，也需要理解材料為何改變。修復室與實驗室逐漸形成合作，使接合成果、材料反應和長期保存，得以在同一專業脈絡中被討論。",
+        "早期修復留下的方法與材料，後來也成為研究對象。今天看見的完整器形，可能包含多次處理；辨認這些層次，讓修復史與器物史可以同時被閱讀。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "大英博物館：保存修復工作的歷史",
+          "href": "https://www.britishmuseum.org/our-work/departments/collection-care/conservation"
+        },
+        {
+          "label": "柏林拉特根研究實驗室：1888 年創立歷史",
+          "href": "https://www.smb.museum/museen-einrichtungen/rathgen-forschungslabor/ueber-uns/geschichte/"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-06",
+      "family": "timeline",
+      "title": "20 世紀：專業教育與保存倫理",
+      "description": "二十世紀的文物保存，透過機構、教育與專業守則逐步形成更廣的合作網絡。",
+      "paragraphs": [
+        "二十世紀的文物保存，透過機構、教育與專業守則逐步形成更廣的合作網絡。ICCROM 的早期工作把不同國家的專家和機構連接起來；保羅・菲利波參與的國際課程，亦將理論與實務放在共同討論之中。修復的問題因此延伸至作品的歷史、文化背景，以及照護決定所承擔的責任。",
+        "美國文物保存協會的守則要求保存人員充分檢查、說明處理目的並留下記錄，選擇材料時亦須考慮日後研究與處理。對陶瓷而言，接合和補配遂成為需要交代理由的選擇：哪些原有部分應保留、缺失如何呈現、修補如何被辨識，都需要回到具體器物判斷。專業知識由此兼顧手上工夫與可供追溯的思考。",
+        "這段發展使「如何做」與「為何做」一起成為專業問題。處理記錄、最少必要介入和新增部分的辨認，都讓修護能在不同工作者之間被理解與接續。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "ICCROM：Paul Philippot 與國際保存教育",
+          "href": "https://www.iccrom.org/fr/news/paul-philippot-1925-2016"
+        },
+        {
+          "label": "AIC：專業倫理守則與實務指引",
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code"
+        }
+      ]
+    },
+    {
+      "slug": "timeline-07",
+      "family": "timeline",
+      "title": "21 世紀：保存、教學與當代實踐",
+      "description": "二十一世紀，金繼亦成為博物館理解材料、教授手工和與公眾交流的方式。",
+      "paragraphs": [
+        "二十一世紀，金繼亦成為博物館理解材料、教授手工和與公眾交流的方式。洛杉磯郡藝術博物館於二〇二一年介紹一項實習練習：以私人陶碗學習碎片排序、接合、補缺及表面整飾，再沿接縫施漆與黃銅粉。館方清楚記錄使用了保存黏合劑和環氧補土，使練習的材料選擇與步驟可以被理解。",
+        "這份記錄也指出，學習傳統修補有助於辨認館藏上的舊工藝，進而理解劣化及安排保存條件。今天的修補世界因此容納不同目的：博物館保存、工藝傳承、教育練習和當代創作，各自形成具體的方法。欣賞金色接縫之餘，追問材料、用途和保存背景，能讓器物的故事更加完整，也使工藝交流保持清楚。",
+        "當代實踐的名稱和材料更為多元，閱讀時宜看清作品、練習與館藏處理的用途。相似外觀可以出自不同路線，準確說明比把所有修補歸入同一傳統更有助交流。"
+      ],
+      "images": [],
+      "sources": [
+        {
+          "label": "LACMA：修復師的金繼練習與材料說明",
+          "href": "https://unframed.lacma.org/2021/08/04/repair-and-recycle-practicing-kintsugi-conservators"
+        }
+      ]
+    },
+    {
+      "slug": "tool-01",
+      "family": "tool",
+      "title": "記錄與檢測工具",
+      "description": "修補從記錄開始。照片、尺寸、裂縫走向、舊補痕跡和風險判斷，是日後能否說得清的根基。",
+      "paragraphs": [
+        "尺量大小，斜光顯示高低與裂紋，放大鏡協助分辨表面附着物，攝影保存可比較的現況，標籤把影像與器物連起來。它們提供證據，不會自行證明年代、材料或損壞原因。",
+        "固定視角攝影、量度、斜光和低倍率放大，適合建立現況及監察變化。若表面正在掉彩、器物不能自行站穩，或檢視要把燈、尺貼近脆弱邊緣，先改用外部承托及遠距攝影。",
+        "沒有合適器材時，不要以手機自動修圖代替證據。可先寫位置描述、畫方向圖、把碎片分格暫存，再安排設備或專業攝影。材料身份未明時，先以可觀察特徵描述，再安排材料分析。",
+        "拍攝前以已知長度核對尺讀數，檢查時間、檔名、白平衡及色卡狀態；試拍後放大查看有沒有失焦和反光遮蓋。尺、鏡框和標籤先在替代物上試放，確認不會刮擦或掉色。",
+        "相同條件下裂紋位置、寬度和周邊剝落均無變，可維持監察。若兩次照片角度或光線不同，只能標示「不可直接比較」。出現新粉末、邊緣移位或裂紋延伸，便減少搬動並轉介。",
+        "每張總覽和細節照都對應同一物件編號，比例尺可讀，方向明確，文字能指出裂紋位於哪一面及哪個參照點附近。另一人只看記錄，也能找回同一位置並重拍，才算合格。",
+        "鏡頭與燈具不接觸器物；尺、色卡、承托墊按物件分隔，見污漬即停用。記錄物件編號、拍攝人、日期、器材、設定、光源方向、尺與色卡版本、檔名規則及任何接觸位置。",
+        "保留原始影像，不覆寫或只留壓縮檔；另存工作副本和修改說明。覆查沿用相同視角、尺度及燈位。器材日後更換時先拍校準參照，讓新舊記錄仍可解讀。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/documentation.webp",
+          "alt": "俯視案頭上的青花瓷碎片、相機、無字刻度尺和空白記錄頁。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/inspection.webp",
+          "alt": "斜射枱燈照着有細裂紋的素白瓷碗，碗放在軟墊上，前方有放大鏡。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "tool-02",
+      "family": "tool",
+      "title": "清潔與拆解工具",
+      "description": "清潔不是洗新一件器物；它只移除會妨礙判斷或加速劣化的污染。每一下都要先試，不能憑手快。",
+      "paragraphs": [
+        "軟刷和受控吸塵用來測試鬆散塵埃能否在不碰傷表面的情況下移走；棉棒顯示接觸後有沒有帶色或帶走材料；吸水紙協助觀察水分遷移。工具不能自行分辨污漬、釉上彩或歷史使用痕。",
+        "表面堅實、污物鬆散而器物有完整承托，才可由非接觸吸塵或軟刷小區試起。釉上彩、金彩、粉化胎、裂縫內污物和舊膠都可能被誤當髒污；若見鹽分移出後形成的白色粉晶，也不適合自行清除。",
+        "污痕沒有加速劣化或妨礙判讀時，可不處理，只拍照監察。亦可把器物加罩防塵、用分隔盒暫存碎片，或把目標改為移除鬆塵而保留牢固沉積物。",
+        "先在白紙上試刷和試吸，確認力度、掉毛及隔網狀態；再選不顯眼小區，以固定次數的輕接觸觀察刷頭、棉棒、吸水紙和表面乾後變化。未乾透前不下結論。",
+        "只有污物減少而工具不帶原色、表面光澤和觸感不變，才可考慮擴大同一方法。棉棒帶色、表面發黏發霧、裂縫變深色或碎屑增加，立即停止並保留測試物。",
+        "合格不是「看起來像新」。處理區應與未處理區沒有突兀邊界，釉彩、舊修補和使用痕仍完整，斜光下沒有新刮痕；乾後照片能清楚顯示移走的是鬆散污物。",
+        "每件器物使用獨立潔淨刷具、棉棒和承托墊；見黴、蟲害或不明粉末便封存隔離，不把工具帶到下一件。記錄區域圖、工具、接觸次數、介質、乾燥觀察、帶色結果和照片。",
+        "測試失敗時，以吸水材料控制殘留水分並保持平放，之後交專業人員評估。完成後保留一小塊未處理參照區；覆查時比較積塵、光澤、裂縫和舊修補，才決定是否再清潔。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/cleaning.webp",
+          "alt": "完整的素白瓷碟、柔軟毛刷和三支潔白棉棒放在柔軟墊面。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://vanda-production-assets.s3.amazonaws.com/2019/04/03/14/22/51/43a4b5c7-dcfe-4d22-a4ab-677e197f7285/caring_for_your_ceramics.pdf",
+          "label": "V&A：陶瓷器物與地磚照護 — Caring for your ceramic objects and floor tiles（PDF，2018）"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-ceramics-glass.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃照護筆記 5/1 — Care of Ceramics and Glass — CCI Notes 5/1"
+        }
+      ]
+    },
+    {
+      "slug": "tool-03",
+      "family": "tool",
+      "title": "拼合與定位工具",
+      "description": "拼合差一線，後面的填補和補色都會走樣。支撐、角度和等待，比膠水強度更考功夫。",
+      "paragraphs": [
+        "沙袋、泡棉和支架顯示器物需要在哪裏被承托；膠帶與夾具只應驗證碎片能否維持位置。它們不會令錯誤乾拼變正確，夾得緊亦不代表接縫吻合。",
+        "碎片已編號、斷口能自然對應，而且工作面可承托整件器物時，可用沙袋、泡棉或外部支架協助乾拼。需要扭轉、拉索或強夾才合攏，表示次序或結構仍未解決。",
+        "關係未明可把碎片獨立分格，保存斷口方向照片和相鄰假設；亦可製作不接觸斷口的展示座，只讓觀眾讀到器形。不處理比用膠帶勉強固定錯位更容易回頭。",
+        "夾具先配軟墊並在替代物上測試回彈與限壓；支架放上同等重量的替代物，輕觸工作桌觀察有沒有滑移。膠帶只在不顯眼穩定表面做短時測試，檢查揭起後有沒有帶色或殘膠。",
+        "碎片在無外力下沿斷口自然就位，接觸點分佈清楚，才可記錄為候選次序。若一片就位令另一處張開，先修改加入次序或支承；出現磨擦聲、新粉末或邊角互撞立即停止。",
+        "乾拼合格時，輪廓連續，斷口沒有新增崩角，支承撤走的次序清楚，所有未配對碎片仍有標籤。定位後從正面、側面和底部檢查，不能只以一個觀看角度判定貼合。",
+        "墊材、沙袋套和夾具接觸面一件一套，掉粉、沾膠或變形即隔離。記錄碎片編號、候選次序、支承點、夾力方向、墊層、膠帶測試、等待期間的移位及未解決關係。",
+        "保留乾拼圖和拆卸次序，讓定位可完整撤回。若方案未通過驗收，把碎片回復分格暫存，不清除斷口上的歷史痕跡。日後有新碎片或更佳支架時，從關係圖重新評估。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/dry-fit.webp",
+          "alt": "五塊青花碗碎片平放並分開，呈近圓形排列的俯視插圖。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        }
+      ]
+    },
+    {
+      "slug": "tool-04",
+      "family": "tool",
+      "title": "黏接與固化材料",
+      "description": "黏合材料要看器物價值、使用目的、日後能否拆下重修和老化風險，不應只問哪一種最牢。",
+      "paragraphs": [
+        "量具與調膠板核對材料身份和批次，滴管與幼筆控制膠料到達哪個界面，計時及環境記錄顯示固化條件是否偏離。它們不能證明某種膠適合一切器物，也不能以「最牢」代替用途判斷。",
+        "只有乾拼吻合、表面穩定、用途已改作展示，而且材料身份及日後處理條件有文件時，才可由專業人員評估黏接。材料不明、接縫承重、會受熱或接觸食物時不適用。",
+        "可把碎片分格承托，製作不黏原件的展示座，或保留仍穩定的舊修補。若只需研究斷口關係，完成乾拼圖便可停在記錄階段，不必為了完整外觀加入黏合劑。",
+        "量具按製造商方法核對，環境讀數以獨立參照比較；滴管和幼筆先在不會與材料反應的試片上觀察出料、流動、拉絲及固化。材料相容性另由專業人員在不顯眼處測試，不以原斷口練習。",
+        "試片在預定環境下均勻固化、工具可準確限位，且乾拼沒有被液層撐開，才可進一步評估。出現發熱、氣泡、混濁、流入孔隙、表面變軟或異常氣味，就隔離材料並停止。",
+        "接縫位置保持，周邊沒有溢膠、染色或新增高低差；工具離開後沒有纖維、刮痕及殘留。B-72 在特定基材和條件下較可再處理，不等於自動可逆，驗收文件不可作此保證。",
+        "每種樹脂使用獨立調膠板、滴管、幼筆和廢物容器；天然漆工具及空間另行隔離。記錄產品全名、批次、開封日、實際用量、工具編號、試片結果、環境讀數、固化觀察及接觸位置。",
+        "保留材料標籤、試片和接縫照片，覆查變色、脆化、開縫及周邊表面。若試片或器物反應偏離預期，先撤回未接觸器物的工具和材料；已接觸原件的處理則按當時狀況重新測試。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/adhesives.webp",
+          "alt": "透明顆粒、空玻璃瓶及盛少量透明液體的玻璃瓶分置三個托盤。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/urushi.webp",
+          "alt": "有蓋深色容器、置於筆架的幼筆與一小碟金色粉末分開放在托盤內。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://cameo.mfa.org/wiki/Paraloid_B-72",
+          "label": "波士頓美術館 CAMEO：Paraloid B-72 — Paraloid B-72"
+        },
+        {
+          "href": "https://www.hisglassworks.com/manuals/HXTAL_Tech_Sheet.pdf",
+          "label": "HXTAL 原廠：NYL-1 環氧樹脂技術表 — HXTAL NYL-1 Technical Sheet（PDF）"
+        },
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov/22077437/",
+          "label": "皮膚科原始病例：金繼所用漆酚引起廣泛接觸性皮膚炎 — Widespread contact dermatitis caused by urushiol in kintsugi（2011）"
+        }
+      ]
+    },
+    {
+      "slug": "tool-05",
+      "family": "tool",
+      "title": "填補與修形工具",
+      "description": "填補要有邊界，硬度要懂得讓步。未來若再碰撞，補料不應反過來傷害原件。",
+      "paragraphs": [
+        "刮片找出後補層的高點，銼和磨材調整輪廓，模具只提供候選形狀，斜光則顯示交界有沒有突起。它們的工作範圍是新補材料，不能靠磨走原釉來令線條順眼。",
+        "後補材料已完全穩定，範圍有照片和界線標記，並可從多個角度接近時，才評估修形。若要靠磨削原釉、歷史舊補或斷口來接順輪廓，方案本身已不合適。",
+        "缺口不影響結構和閱讀，可不填不磨，只封存鬆散碎屑。亦可把填補停在略低於原面的可辨狀態，或以外部支架補足展示輪廓；資料不足時不重造紋飾。",
+        "用同批填料製作試片，測試刮片、銼和磨材會留下甚麼紋理及粉塵；以直尺、輪廓規和斜光反覆比較。工具行程先設實體止點，確認手滑也不會越過原件。",
+        "斜光顯示高點只在後補區，工具能逐小區移除而無須壓住原件，可繼續。磨屑顏色改變、原邊開始發亮、填料崩裂或輪廓越修越薄，立即停止並重看材料與範圍。",
+        "手指不跨原件的情況下，後補層沒有尖角和明顯階差；斜光下輪廓連續，近看仍可辨補配邊界。驗收不要求複製失去的細節，也不以磨走歷史痕跡換取平滑。",
+        "銼、磨材和模具按填料種類分盒，磨屑即時收集，不讓工作墊帶塵轉到另一件器物。記錄填料批次、工具編號、試片、止點、修整範圍、磨屑觀察、邊界照片及未重造部分。",
+        "保留修形前後的輪廓圖和填料試片。覆查補配邊界有沒有收縮、裂紋、翹起或吸污；若失穩，先承托並由後補層一側評估移除，不以原釉作再修整的犧牲面。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/fill.webp",
+          "alt": "白瓷碗口沿的一處崩口與鄰近啞面補配區，補配邊界清楚可見。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "tool-06",
+      "family": "tool",
+      "title": "補色與表面處理",
+      "description": "補色是把視線安放好，不是把證據消音。保護層也會老，材料和範圍都要留下。",
+      "paragraphs": [
+        "畫筆控制顏色只落在補配區，調色盤和樣板比較乾濕色差，色卡與固定光源保留可重做的參照，光澤工具檢查反射是否突兀。它們服務閱讀，不會把後補變成原作。",
+        "後補層穩定、與原件有清楚界面，而且補色只為展示閱讀時，才可製作色樣。原彩粉化、表面有活動裂縫、色料會滲入多孔胎，或持有人要求冒充完整原作，均不適用。",
+        "可保留素色填補、只降低最搶眼的明暗反差，或用展示光線和背景改善閱讀。不補色亦能清楚交代修補邊界；缺乏顏色證據時，不自行重畫紋飾。",
+        "先在與填補層相同的樣板試筆，記錄濕色、乾色、層次與光澤；在固定光源、正常觀看距離及斜光下比較。幼筆先在白紙試掉毛和帶色，保護層則另做相容性試片。",
+        "色樣乾後不滲邊，正常距離可降低缺口乾擾，近看仍能辨認補配，才考慮轉到後補層。若要跨越原彩才接得上圖案，或反覆加層後仍在不同光源下突然偏色，應修改目標或停止。",
+        "在預定展示光下，補色不先跳入視線；轉到近距離和斜光，邊界仍可讀，原作沒有新增塗層。照片連同色卡能重現判斷，光澤亦沒有形成孤立亮斑或霧斑。",
+        "畫筆按顏料與黏結料分組，調色盤和水杯不跨材料共用；色卡及工作墊避免沾上飛沫。記錄顏料、批次、黏結料、樣板編號、層次、照明、觀看距離、光澤和補色範圍圖。",
+        "保留未上色樣板和乾色樣，覆查褪色、黃變、黏塵、裂紋及邊界。出現變化時先調整展示光與搬動頻率；是否移除補色要按保護層、原件狀態和當時可接近程度重新測試。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/colour.webp",
+          "alt": "青花瓷碎片旁放着中性灰卡，以及三張深淺不同的藍色試色紙。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/retouch.webp",
+          "alt": "白瓷樣片上的五個灰白試色點，旁邊放有同色系的調色碟。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.getty.edu/art/exhibitions/fragment_to_vase/",
+          "label": "Getty Villa：從碎片到器形 — Fragment to Vase: Approaches to Ceramic Restoration"
+        },
+        {
+          "href": "https://www.culturalheritage.org/conservation-at-work/uphold-professional-standards/code",
+          "label": "美國保存協會：倫理守則與實務準則 — Code of Ethics and Guidelines for Practice"
+        }
+      ]
+    },
+    {
+      "slug": "tool-07",
+      "family": "tool",
+      "title": "包裝、展示與保存",
+      "description": "修好之後，器物還要被安放。支架、包裝、濕度和搬運路線，都是修復工作的一部分。",
+      "paragraphs": [
+        "托盤控制手在搬運時托住哪裏，墊材分散壓力，盒和隔格限制滑動，展示座決定長期受力，標籤交代開箱方向與脆弱點。先解決移動和承托，才談外觀。",
+        "器物狀況穩定、尺寸重量已量度、裂口和舊修補有清楚標記時，可設計日常存放、短距搬運或展示承托。濕件、黴害、活性腐蝕或結構鬆脫不應直接封箱。",
+        "未有合適盒或支架時，可暫停搬運，把器物放在有圍邊的托盤和獨立櫃格；亦可降低展示角度、加防塵罩或限制開櫃次數。原地穩定保存往往比倉促運送風險低。",
+        "先用同等重量和形狀的替代物測試托盤、支架與盒，依次模擬提起、轉向、放下及開箱。環境記錄器與獨立參照核對；墊材則檢查掉粉、染色、氣味、回彈和壓痕。",
+        "替代物在各方向不滑動，接觸點避開脆弱區，器物可由底部完整取出，才可使用。若只能靠壓緊阻止移動、開箱必須抓住口沿，或濕度在盒內持續上升，便修改設計。",
+        "輕微搬動測試後位置標記沒有偏移，墊材不壓裂口，盒內沒有鬆件，標籤在不開箱時已可讀。展示座須在正面、側面和底部均穩定，並能在不刮擦下撤出器物。",
+        "有黴、蟲或不明粉末的器物和包材分區封存，托盤及墊材不跨區共用。記錄尺寸、重量、方向、脆弱點、材料名稱與批次、支承點、箱層次、環境讀數、開箱程序及複查日期。",
+        "包裝設計要容許逐層撤走而不提拉器物。每次開箱比較位置標記、裂紋、墊材壓痕和環境記錄；材料掉粉、失彈或受潮便更換。運輸條件改變時，重新測試而非沿用舊箱。"
+      ],
+      "images": [
+        {
+          "src": "/media/editorial/packing.webp",
+          "alt": "打開的灰色保存盒有兩個獨立隔間，白色軟墊分別承托青花瓷杯和碎片。",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "src": "/media/editorial/storage.webp",
+          "alt": "帶蓋灰色保存盒與青花瓶分開擺在層架上，瓷瓶底部有白色承托墊。",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "sources": [
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/ceramics-glass-preventive-conservation.html",
+          "label": "加拿大文物保存研究所：陶瓷與玻璃的預防保存 — Caring for ceramic and glass objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/handling-heritage-objects.html",
+          "label": "加拿大文物保存研究所：文物搬運 — Handling heritage objects"
+        },
+        {
+          "href": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/five-steps-safe-shipment.html",
+          "label": "加拿大文物保存研究所：安全運送五步 — Five Steps to Safe Shipment — CCI Notes 20/3"
+        }
+      ]
+    }
+  ]
+}
